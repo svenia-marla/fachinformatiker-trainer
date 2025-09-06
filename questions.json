@@ -1,12 +1,12 @@
 [
   {
     "question": "Was versteht man unter einem Projekt?",
-    "answer": "Ein zeitlich begrenztes Vorhaben mit klar definiertem Anfang und Ende, das durch einzigartige Bedingungen geprägt ist.",
+    "answer": "Ein Projekt ist ein zeitlich begrenztes Einzelvorhaben mit einem definierbaren Anfang und Ende, das sich durch die Einzigartigkeit der Bedingungen auszeichnet.",
     "options": [
-      "Ein zeitlich begrenztes Vorhaben mit klar definiertem Anfang und Ende, das durch einzigartige Bedingungen geprägt ist.",
-      "Ein wiederkehrendes Vorhaben mit standardisierten Prozessen und festen Verantwortlichkeiten.",
-      "Ein langfristiges Vorhaben ohne festes Enddatum, aber mit spezifischen Zielsetzungen.",
-      "Ein Geschäftsprozess, der regelmäßig optimiert wird, um die Effizienz zu steigern."
+      "Ein Projekt ist ein zeitlich begrenztes Einzelvorhaben mit einem definierbaren Anfang und Ende, das sich durch die Einzigartigkeit der Bedingungen auszeichnet.",
+      "Ein Projekt ist ein wiederkehrendes Vorhaben mit standardisierten Prozessen und klar definierten Verantwortlichkeiten sowie festgelegten Abläufen.",
+      "Ein Projekt ist ein langfristiges Vorhaben ohne festes Enddatum, aber mit spezifischen Zielsetzungen und einzigartigen Anforderungen.",
+      "Ein Projekt ist ein Geschäftsprozess, der regelmäßig optimiert wird, um Effizienz und Produktivität im Unternehmen zu steigern."
     ],
     "hint": "Einmaligkeit und Zeitbegrenzung sind entscheidend.",
     "explanation": "Projekte sind temporäre Vorhaben, die sich durch ihre Einzigartigkeit und klare zeitliche Rahmung von Routineaufgaben unterscheiden."
@@ -16,9 +16,9 @@
     "answer": "Budget, Zeit und Ressourcen sind die typischen Begrenzungen eines Projekts.",
     "options": [
       "Budget, Zeit und Ressourcen sind die typischen Begrenzungen eines Projekts.",
-      "Anzahl der Stakeholder und Komplexität des Projekts sind die Hauptbegrenzungen.",
-      "Verfügbarkeit von Softwaretools und Größe des Teams begrenzen ein Projekt.",
-      "Umfang der Dokumentation und Häufigkeit von Berichten schränken Projekte ein."
+      "Anzahl der Stakeholder und Komplexität des Projekts sind die Hauptbegrenzungen eines Vorhabens.",
+      "Verfügbarkeit von Softwaretools und Teamgröße begrenzen die Durchführung eines Projekts.",
+      "Umfang der Dokumentation und Häufigkeit von Statusberichten schränken Projekte ein."
     ],
     "hint": "Denke an das 'magische Dreieck' des Projektmanagements.",
     "explanation": "Diese drei Faktoren (Budget, Zeit, Ressourcen) stehen oft in einem Zielkonflikt und begrenzen den Spielraum eines Projekts."
@@ -28,585 +28,585 @@
     "answer": "Projekte sind durch Einmaligkeit und Unsicherheiten der Bedingungen gekennzeichnet.",
     "options": [
       "Projekte sind durch Einmaligkeit und Unsicherheiten der Bedingungen gekennzeichnet.",
-      "Projekte haben wiederholbare Prozesse und standardisierte Abläufe.",
-      "Projekte besitzen immer klare Ergebnisse ohne jegliche Unwägbarkeiten.",
-      "Projekte werden von denselben Teams wie Routineaufgaben durchgeführt."
+      "Projekte zeichnen sich durch wiederholbare Prozesse und standardisierte Abläufe aus.",
+      "Projekte haben immer klare Ergebnisse ohne jegliche Unsicherheiten oder Risiken.",
+      "Projekte werden von denselben Teams wie Routineaufgaben langfristig durchgeführt."
     ],
     "hint": "Routine ist wiederholend, Projekte sind neuartig.",
     "explanation": "Die Einmaligkeit und damit verbundenen Unsicherheiten unterscheiden Projekte von Routineaufgaben."
   },
   {
     "question": "Was versteht man unter dem primären Projektziel?",
-    "answer": "Das übergeordnete Ziel, das den Sinn und Zweck des Projekts definiert.",
+    "answer": "Das primäre Projektziel ist das übergeordnete Ziel, welches den Sinn und Zweck des Projekts definiert.",
     "options": [
-      "Das übergeordnete Ziel, das den Sinn und Zweck des Projekts definiert.",
-      "Das Ziel, das am schnellsten erreichbar ist, um Fortschritt zu zeigen.",
-      "Das Ziel, das die meisten Ressourcen im Projekt einsetzt.",
-      "Das Ziel, das den größten Nutzen für das Projektteam bringt."
+      "Das primäre Projektziel ist das übergeordnete Ziel, welches den Sinn und Zweck des Projekts definiert.",
+      "Das primäre Projektziel ist das schnell erreichbare Ziel, um Fortschritt im Projekt zu demonstrieren.",
+      "Das primäre Projektziel ist das Ziel, das die meisten Ressourcen im Projekt einsetzt.",
+      "Das primäre Projektziel ist das Ziel, das den größten Nutzen für das Projektteam bringt."
     ],
     "hint": "Es ist der Hauptgrund für das Projekt.",
     "explanation": "Das primäre Ziel gibt die grundlegende Richtung des Projekts vor."
   },
   {
     "question": "Was versteht man unter den sekundären Projektzielen?",
-    "answer": "Teilziele, die das Erreichen des primären Ziels unterstützen.",
+    "answer": "Sekundäre Projektziele sind Teilziele, die das Erreichen des primären Ziels unterstützen.",
     "options": [
-      "Teilziele, die das Erreichen des primären Ziels unterstützen.",
-      "Ziele, die unabhängig vom primären Ziel für andere Projekte gelten.",
-      "Ziele, die nur für die Projektdokumentation relevant sind.",
-      "Ziele, die nach Projektabschluss neu definiert werden."
+      "Sekundäre Projektziele sind Teilziele, die das Erreichen des primären Ziels unterstützen.",
+      "Sekundäre Projektziele sind Ziele, die unabhängig vom primären Ziel für andere Projekte gelten.",
+      "Sekundäre Projektziele sind Ziele, die nur für die Projektdokumentation relevant sind.",
+      "Sekundäre Projektziele sind Ziele, die nach Projektabschluss neu definiert werden."
     ],
     "hint": "Sie unterstützen das Hauptziel.",
     "explanation": "Sekundäre Ziele zerlegen das primäre Ziel in messbare Meilensteine."
   },
   {
     "question": "Warum sind Projektziele wichtig?",
-    "answer": "Sie geben Ausrichtung und ermöglichen die Messbarkeit des Projekterfolgs.",
+    "answer": "Projektziele sind wichtig, weil sie Ausrichtung geben und die Messbarkeit des Projekterfolgs ermöglichen.",
     "options": [
-      "Sie geben Ausrichtung und ermöglichen die Messbarkeit des Projekterfolgs.",
-      "Sie bestimmen die Anzahl der Projektmitarbeiter und ihre Rollen.",
-      "Sie dienen der Minimierung der Projektkosten und des Budgets.",
-      "Sie ermöglichen eine flexible Gestaltung des Projektzeitplans."
+      "Projektziele sind wichtig, weil sie Ausrichtung geben und die Messbarkeit des Projekterfolgs ermöglichen.",
+      "Projektziele bestimmen die Anzahl der Projektmitarbeiter und deren spezifische Rollen im Team.",
+      "Projektziele dienen der Minimierung der Projektkosten und der Optimierung des Budgets.",
+      "Projektziele ermöglichen eine flexible Gestaltung des Zeitplans für das gesamte Projekt."
     ],
     "hint": "Ohne Ziel keine Richtung, ohne Messbarkeit kein Erfolg.",
     "explanation": "Klare Ziele halten den Fokus und definieren den Projekterfolg."
   },
   {
     "question": "Was ist Projektmanagement?",
-    "answer": "Die Planung, Durchführung, Überwachung und Bewertung von Projekten.",
+    "answer": "Projektmanagement umfasst die Planung, Durchführung, Überwachung und Bewertung von Projekten.",
     "options": [
-      "Die Planung, Durchführung, Überwachung und Bewertung von Projekten.",
-      "Die Koordination von Routineaufgaben innerhalb eines Unternehmens.",
-      "Das Festlegen langfristiger Ziele ohne klaren Zeitrahmen.",
-      "Die Entwicklung von Strategien für Projektmarketing."
+      "Projektmanagement umfasst die Planung, Durchführung, Überwachung und Bewertung von Projekten.",
+      "Projektmanagement ist die Koordination von Routineaufgaben innerhalb eines Unternehmens.",
+      "Projektmanagement legt langfristige Ziele ohne klaren Zeitrahmen für Projekte fest.",
+      "Projektmanagement entwickelt Strategien für das Marketing und den Vertrieb von Projekten."
     ],
     "hint": "Es umfasst den gesamten Projektlebenszyklus.",
     "explanation": "Projektmanagement steuert Projekte systematisch von der Idee bis zum Abschluss."
   },
   {
     "question": "Warum brauchen wir Projektmanagement?",
-    "answer": "Es sichert den Projekterfolg innerhalb von Zeit, Kosten und Qualität.",
+    "answer": "Wir brauchen Projektmanagement, um den Projekterfolg innerhalb von Zeit, Kosten und Qualität zu sichern.",
     "options": [
-      "Es sichert den Projekterfolg innerhalb von Zeit, Kosten und Qualität.",
-      "Es minimiert die Anzahl der Projektphasen und Meilensteine.",
-      "Es verbessert die Teamdynamik ohne Fokus auf Ziele.",
-      "Es ignoriert Stakeholderanforderungen für schnellere Ergebnisse."
+      "Wir brauchen Projektmanagement, um den Projekterfolg innerhalb von Zeit, Kosten und Qualität zu sichern.",
+      "Projektmanagement minimiert die Anzahl der Projektphasen und Meilensteine für schnellere Ergebnisse.",
+      "Projektmanagement verbessert die Teamdynamik ohne Fokus auf spezifische Projektziele.",
+      "Projektmanagement ignoriert Stakeholderanforderungen, um schnellere Projektergebnisse zu erzielen."
     ],
     "hint": "Es managt das 'magische Dreieck'.",
     "explanation": "Projektmanagement erhöht die Erfolgswahrscheinlichkeit durch strukturierte Methoden."
   },
   {
     "question": "Wie sollten Ziele am besten definiert werden?",
-    "answer": "Durch die SMART-Methode für klare und erreichbare Ziele.",
+    "answer": "Ziele sollten nach der SMART-Methode definiert werden, um Klarheit und Erreichbarkeit zu gewährleisten.",
     "options": [
-      "Durch die SMART-Methode für klare und erreichbare Ziele.",
-      "Durch eine SWOT-Analyse zur strategischen Zielformulierung.",
-      "Durch Priorisierung der Interessen von Stakeholdern.",
-      "Durch intuitive Einschätzung des Projektleiters."
+      "Ziele sollten nach der SMART-Methode definiert werden, um Klarheit und Erreichbarkeit zu gewährleisten.",
+      "Ziele sollten durch eine SWOT-Analyse definiert werden, um strategische Planung zu unterstützen.",
+      "Ziele sollten durch Priorisierung der Interessen von Stakeholdern im Projekt definiert werden.",
+      "Ziele sollten durch intuitive Einschätzung des Projektleiters ohne Methode definiert werden."
     ],
     "hint": "Die Methode ist 'klug' (smart).",
     "explanation": "SMART-Ziele sind spezifisch, messbar, attraktiv, realistisch und terminiert."
   },
   {
     "question": "Für was steht das 'S' in SMART bei der Formulierung von Zielen?",
-    "answer": "Spezifisch: Ziele müssen klar und detailliert formuliert sein.",
+    "answer": "Das 'S' in SMART steht für spezifisch: Ziele müssen klar und detailliert formuliert sein.",
     "options": [
-      "Spezifisch: Ziele müssen klar und detailliert formuliert sein.",
-      "Strategisch: Ziele sind auf Unternehmensziele abgestimmt.",
-      "Skalierbar: Ziele passen sich größeren Projekten an.",
-      "Stabil: Ziele bleiben langfristig unveränderbar."
+      "Das 'S' in SMART steht für spezifisch: Ziele müssen klar und detailliert formuliert sein.",
+      "Das 'S' in SMART steht für strategisch: Ziele sind auf Unternehmensziele ausgerichtet.",
+      "Das 'S' in SMART steht für skalierbar: Ziele passen sich größeren Projekten an.",
+      "Das 'S' in SMART steht für stabil: Ziele bleiben langfristig unveränderbar."
     ],
     "hint": "Gegenteil von vage und ungenau.",
     "explanation": "Spezifische Ziele lassen keine Interpretationsspielräume."
   },
   {
     "question": "Für was steht das 'M' in SMART bei der Formulierung von Zielen?",
-    "answer": "Messbar: Ziele sind anhand von Indikatoren überprüfbar.",
+    "answer": "Das 'M' in SMART steht für messbar: Ziele müssen anhand von Indikatoren überprüfbar sein.",
     "options": [
-      "Messbar: Ziele sind anhand von Indikatoren überprüfbar.",
-      "Motivierend: Ziele inspirieren das Projektteam.",
-      "Modifizierbar: Ziele sind flexibel anpassbar.",
-      "Mehrdimensional: Ziele berücksichtigen viele Aspekte."
+      "Das 'M' in SMART steht für messbar: Ziele müssen anhand von Indikatoren überprüfbar sein.",
+      "Das 'M' in SMART steht für motivierend: Ziele inspirieren das Team zur Leistung.",
+      "Das 'M' in SMART steht für modifizierbar: Ziele sind flexibel an Veränderungen anpassbar.",
+      "Das 'M' in SMART steht für mehrdimensional: Ziele berücksichtigen viele Aspekte."
     ],
     "hint": "Ohne Messbarkeit kein Management.",
     "explanation": "Messbarkeit ermöglicht Fortschrittskontrolle und Zielerreichung."
   },
   {
     "question": "Für was steht das 'A' in SMART bei der Formulierung von Zielen?",
-    "answer": "Attraktiv: Ziele sind motivierend und anspruchsvoll.",
+    "answer": "Das 'A' in SMART steht für attraktiv: Ziele müssen motivierend und anspruchsvoll sein.",
     "options": [
-      "Attraktiv: Ziele sind motivierend und anspruchsvoll.",
-      "Adaptiv: Ziele sind an Veränderungen anpassbar.",
-      "Abgestimmt: Ziele sind mit anderen Projekten vereinbar.",
-      "Analysierbar: Ziele sind leicht zu bewerten."
+      "Das 'A' in SMART steht für attraktiv: Ziele müssen motivierend und anspruchsvoll sein.",
+      "Das 'A' in SMART steht für adaptiv: Ziele sind an Veränderungen anpassbar.",
+      "Das 'A' in SMART steht für abgestimmt: Ziele sind mit anderen Projekten vereinbar.",
+      "Das 'A' in SMART steht für analysierbar: Ziele sind leicht zu bewerten."
     ],
     "hint": "Ziele sollen das Team herausfordern.",
     "explanation": "Attraktive Ziele fördern Motivation und Engagement."
   },
   {
     "question": "Für was steht das 'R' in SMART bei der Formulierung von Zielen?",
-    "answer": "Realistisch: Ziele sind machbar und angemessen.",
+    "answer": "Das 'R' in SMART steht für realistisch: Ziele müssen machbar und angemessen sein.",
     "options": [
-      "Realistisch: Ziele sind machbar und angemessen.",
-      "Relevant: Ziele sind für den Projekterfolg entscheidend.",
-      "Ressourcenorientiert: Ziele fokussieren verfügbare Mittel.",
-      "Risikofrei: Ziele sind ohne Unsicherheiten."
+      "Das 'R' in SMART steht für realistisch: Ziele müssen machbar und angemessen sein.",
+      "Das 'R' in SMART steht für relevant: Ziele sind für den Projekterfolg entscheidend.",
+      "Das 'R' in SMART steht für ressourcenorientiert: Ziele fokussieren verfügbare Mittel.",
+      "Das 'R' in SMART steht für risikofrei: Ziele sind ohne Unsicherheiten."
     ],
     "hint": "Ziele müssen mit den Ressourcen erreichbar sein.",
     "explanation": "Realistische Ziele sind ambitioniert, aber machbar."
   },
   {
     "question": "Für was steht das 'T' in SMART bei der Formulierung von Zielen?",
-    "answer": "Terminiert: Ziele haben einen klaren Zeitrahmen.",
+    "answer": "Das 'T' in SMART steht für terminiert: Ziele müssen einen klaren Zeitrahmen haben.",
     "options": [
-      "Terminiert: Ziele haben einen klaren Zeitrahmen.",
-      "Taktisch: Ziele fokussieren kurzfristige Erfolge.",
-      "Technologisch: Ziele sind auf Technik ausgerichtet.",
-      "Testbar: Ziele sind leicht überprüfbar."
+      "Das 'T' in SMART steht für terminiert: Ziele müssen einen klaren Zeitrahmen haben.",
+      "Das 'T' in SMART steht für taktisch: Ziele fokussieren kurzfristige Erfolge.",
+      "Das 'T' in SMART steht für technologisch: Ziele sind auf Technik ausgerichtet.",
+      "Das 'T' in SMART steht für testbar: Ziele sind leicht überprüfbar."
     ],
     "hint": "Jedes Ziel braucht eine Deadline.",
     "explanation": "Terminierung schafft Dringlichkeit und Planbarkeit."
   },
   {
     "question": "Was passiert in der Initialisierungsphase / im Projektstart?",
-    "answer": "Die Projektziele, der Umfang und der Zweck werden definiert.",
+    "answer": "In der Initialisierungsphase werden die Projektziele, der Umfang und der Zweck des Projekts definiert.",
     "options": [
-      "Die Projektziele, der Umfang und der Zweck werden definiert.",
-      "Der detaillierte Projektplan mit Zeitplan wird erstellt.",
-      "Erste Arbeitspakete des Projekts werden umgesetzt.",
-      "Die endgültigen Projektergebnisse werden festgelegt."
+      "In der Initialisierungsphase werden die Projektziele, der Umfang und der Zweck des Projekts definiert.",
+      "In der Initialisierungsphase wird der detaillierte Projektplan mit Zeitplan und Budget erstellt.",
+      "In der Initialisierungsphase werden die ersten Arbeitspakete des Projekts umgesetzt und getestet.",
+      "In der Initialisierungsphase werden die endgültigen Projektergebnisse festgelegt und dokumentiert."
     ],
     "hint": "Hier wird der Grundstein gelegt.",
     "explanation": "Die Initiierungsphase schafft die Basis durch den Projektauftrag."
   },
   {
     "question": "Welche Inhalte hat die Planungsphase?",
-    "answer": "Erstellung des Projektplans mit Zeitplan, Budget und Risikomanagement.",
+    "answer": "Die Planungsphase umfasst die Erstellung des Projektplans mit Zeitplan, Budget und Risikomanagement.",
     "options": [
-      "Erstellung des Projektplans mit Zeitplan, Budget und Risikomanagement.",
-      "Produktion der endgültigen Ergebnisse des Projekts.",
-      "Zusammenstellung des Teams und Zuweisung von Rollen.",
-      "Definition der Meilensteine ohne festen Zeitplan."
+      "Die Planungsphase umfasst die Erstellung des Projektplans mit Zeitplan, Budget und Risikomanagement.",
+      "Die Planungsphase umfasst die Produktion der endgültigen Ergebnisse des Projekts für den Kunden.",
+      "Die Planungsphase umfasst die Zusammenstellung des Teams und die Zuweisung von Rollen.",
+      "Die Planungsphase umfasst die Definition der Meilensteine ohne festen Zeitplan oder Budget."
     ],
     "hint": "Der 'Fahrplan' des Projekts entsteht hier.",
     "explanation": "Die Planung koordiniert alle Aspekte für eine erfolgreiche Umsetzung."
   },
   {
     "question": "Was ist die Ausführungsphase in einem Projekt?",
-    "answer": "Die eigentliche Arbeit zur Erreichung der Projektziele wird durchgeführt.",
+    "answer": "Die Ausführungsphase ist die Phase, in der die eigentliche Arbeit zur Erreichung der Projektziele durchgeführt wird.",
     "options": [
-      "Die eigentliche Arbeit zur Erreichung der Projektziele wird durchgeführt.",
-      "Der Projektplan wird detailliert erstellt und dokumentiert.",
-      "Nur die Risiken des Projekts werden analysiert.",
-      "Die Abschlussbewertung des Projekts wird vorgenommen."
+      "Die Ausführungsphase ist die Phase, in der die eigentliche Arbeit zur Erreichung der Projektziele durchgeführt wird.",
+      "Die Ausführungsphase ist die Phase, in der der Projektplan detailliert erstellt und dokumentiert wird.",
+      "Die Ausführungsphase ist die Phase, in der nur die Risiken des Projekts analysiert werden.",
+      "Die Ausführungsphase ist die Phase, in der die Abschlussbewertung des Projekts vorgenommen wird."
     ],
     "hint": "Hier wird das Projekt 'geliefert'.",
     "explanation": "In der Ausführungsphase werden die geplanten Aufgaben umgesetzt."
   },
   {
     "question": "Was ist die Überwachungs- und Kontrollphase in einem Projekt?",
-    "answer": "Kontinuierliches Überwachen des Fortschritts, um den Plan einzuhalten.",
+    "answer": "Die Überwachungs- und Kontrollphase überwacht kontinuierlich den Fortschritt, um den Projektplan einzuhalten.",
     "options": [
-      "Kontinuierliches Überwachen des Fortschritts, um den Plan einzuhalten.",
-      "Überarbeitung des gesamten Projektplans während der Umsetzung.",
-      "Auswahl neuer Teammitglieder für das laufende Projekt.",
-      "Erstellung des Abschlussberichts für das Projekt."
+      "Die Überwachungs- und Kontrollphase überwacht kontinuierlich den Fortschritt, um den Projektplan einzuhalten.",
+      "Die Überwachungs- und Kontrollphase überarbeitet den gesamten Projektplan während der Umsetzung.",
+      "Die Überwachungs- und Kontrollphase wählt neue Teammitglieder für das laufende Projekt aus.",
+      "Die Überwachungs- und Kontrollphase erstellt den Abschlussbericht für das abgeschlossene Projekt."
     ],
     "hint": "Vergleich von 'Ist' mit 'Soll'.",
     "explanation": "Diese Phase erkennt Abweichungen früh und steuert dagegen."
   },
   {
     "question": "Welche Schritte gehören zum Projektabschluss?",
-    "answer": "Abnahme, Analyse und Bewertung des Projekts.",
+    "answer": "Der Projektabschluss umfasst die Abnahme, Analyse und Bewertung des Projekts.",
     "options": [
-      "Abnahme, Analyse und Bewertung des Projekts.",
-      "Neudefinition der Ziele und Planung des Projekts.",
-      "Neuverteilung der Ressourcen und Budgetanpassung.",
-      "Auswahl des Teams für das nächste Projekt."
+      "Der Projektabschluss umfasst die Abnahme, Analyse und Bewertung des Projekts.",
+      "Der Projektabschluss umfasst die Neudefinition der Ziele und Planung des Projekts.",
+      "Der Projektabschluss umfasst die Neuverteilung der Ressourcen und Budgetanpassung.",
+      "Der Projektabschluss umfasst die Auswahl des Teams für das nächste Projekt."
     ],
     "hint": "Formales Ende und Lernen für die Zukunft.",
     "explanation": "Der Abschluss sichert Ergebnisse und Lessons Learned."
   },
   {
     "question": "Nenne zwei wichtige Instrumente für die Projektplanung.",
-    "answer": "Lastenheft und Pflichtenheft.",
+    "answer": "Wichtige Instrumente für die Projektplanung sind das Lastenheft und das Pflichtenheft.",
     "options": [
-      "Lastenheft und Pflichtenheft.",
-      "Gantt-Diagramm und Ressourcenplan.",
-      "Meilensteinplan und Risikomatrix.",
-      "Stakeholderanalyse und Budgetplan."
+      "Wichtige Instrumente für die Projektplanung sind das Lastenheft und das Pflichtenheft.",
+      "Wichtige Instrumente für die Projektplanung sind das Gantt-Diagramm und der Ressourcenplan.",
+      "Wichtige Instrumente für die Projektplanung sind der Meilensteinplan und die Risikomatrix.",
+      "Wichtige Instrumente für die Projektplanung sind die Stakeholderanalyse und der Budgetplan."
     ],
     "hint": "Kundenwünsche und Umsetzungsplan.",
     "explanation": "Lastenheft (Anforderungen) und Pflichtenheft (Umsetzung) sind zentral."
   },
   {
     "question": "Was ist ein Lastenheft?",
-    "answer": "Es beschreibt die Anforderungen des Auftraggebers an das Projekt.",
+    "answer": "Ein Lastenheft beschreibt die Anforderungen des Auftraggebers an das Projekt.",
     "options": [
-      "Es beschreibt die Anforderungen des Auftraggebers an das Projekt.",
-      "Es plant die detaillierte Umsetzung der Projektanforderungen.",
-      "Es definiert die technischen Spezifikationen des Projekts.",
-      "Es beschreibt die internen Prozesse des Projektteams."
+      "Ein Lastenheft beschreibt die Anforderungen des Auftraggebers an das Projekt.",
+      "Ein Lastenheft plant die detaillierte Umsetzung der Projektanforderungen.",
+      "Ein Lastenheft definiert die technischen Spezifikationen des Projekts.",
+      "Ein Lastenheft beschreibt die internen Prozesse des Projektteams."
     ],
     "hint": "Der Kunde formuliert seine Wünsche.",
     "explanation": "Das Lastenheft definiert Ziele und Rahmenbedingungen."
   },
   {
     "question": "Was ist ein Pflichtenheft?",
-    "answer": "Es spezifiziert die Umsetzung der Anforderungen aus dem Lastenheft.",
+    "answer": "Ein Pflichtenheft spezifiziert die Umsetzung der Anforderungen aus dem Lastenheft.",
     "options": [
-      "Es spezifiziert die Umsetzung der Anforderungen aus dem Lastenheft.",
-      "Es definiert die allgemeinen Ziele des Auftraggebers.",
-      "Es plant das Budget und die Kosten des Projekts.",
-      "Es listet die Verpflichtungen der Stakeholder auf."
+      "Ein Pflichtenheft spezifiziert die Umsetzung der Anforderungen aus dem Lastenheft.",
+      "Ein Pflichtenheft definiert die allgemeinen Ziele des Auftraggebers für das Projekt.",
+      "Ein Pflichtenheft plant das Budget und die Kosten des Projekts detailliert.",
+      "Ein Pflichtenheft listet die Verpflichtungen der Stakeholder im Projekt auf."
     ],
     "hint": "Der Auftragnehmer beschreibt das 'Wie'.",
     "explanation": "Das Pflichtenheft beschreibt die konkrete Umsetzung."
   },
   {
     "question": "Welche Unterschiede gibt es zwischen Lasten- und Pflichtenheft?",
-    "answer": "Lastenheft definiert Ziele, Pflichtenheft beschreibt die Umsetzung.",
+    "answer": "Das Lastenheft definiert die Ziele, das Pflichtenheft beschreibt die Umsetzung.",
     "options": [
-      "Lastenheft definiert Ziele, Pflichtenheft beschreibt die Umsetzung.",
-      "Lastenheft kommt vom Auftragnehmer, Pflichtenheft vom Team.",
-      "Lastenheft beschreibt Technik, Pflichtenheft die Kosten.",
-      "Lastenheft ist intern, Pflichtenheft für Stakeholder."
+      "Das Lastenheft definiert die Ziele, das Pflichtenheft beschreibt die Umsetzung.",
+      "Das Lastenheft kommt vom Auftragnehmer, das Pflichtenheft vom Projektteam.",
+      "Das Lastenheft beschreibt Technik, das Pflichtenheft die Projektkosten.",
+      "Das Lastenheft ist intern, das Pflichtenheft für externe Stakeholder."
     ],
     "hint": "Lastenheft = WAS, Pflichtenheft = WIE.",
     "explanation": "Lastenheft kommt vom Kunden, Pflichtenheft vom Auftragnehmer."
   },
   {
     "question": "Wozu dienen Lasten- und Pflichtenheft?",
-    "answer": "Sie schaffen Klarheit über Umfang und Ziele zwischen Kunde und Auftragnehmer.",
+    "answer": "Lasten- und Pflichtenheft schaffen Klarheit über den Umfang und die Ziele zwischen Kunde und Auftragnehmer.",
     "options": [
-      "Sie schaffen Klarheit über Umfang und Ziele zwischen Kunde und Auftragnehmer.",
-      "Sie legen Meilensteine für die Projektüberwachung fest.",
-      "Sie optimieren die Kommunikation innerhalb des Projektteams.",
-      "Sie definieren rechtliche Rahmenbedingungen für Verträge."
+      "Lasten- und Pflichtenheft schaffen Klarheit über den Umfang und die Ziele zwischen Kunde und Auftragnehmer.",
+      "Lasten- und Pflichtenheft legen Meilensteine für die Projektüberwachung und Kontrolle fest.",
+      "Lasten- und Pflichtenheft optimieren die Kommunikation innerhalb des Projektteams.",
+      "Lasten- und Pflichtenheft definieren rechtliche Rahmenbedingungen für Verträge."
     ],
     "hint": "Sie verhindern Missverständnisse.",
     "explanation": "Die Dokumente sorgen für ein gemeinsames Verständnis."
   },
   {
     "question": "Was ist ein Projektplan?",
-    "answer": "Ein Dokument, das Zeitplan, Budget, Ressourcen und Risiken beschreibt.",
+    "answer": "Ein Projektplan ist ein Dokument, das Zeitplan, Budget, Ressourcen und Risiken eines Projekts beschreibt.",
     "options": [
-      "Ein Dokument, das Zeitplan, Budget, Ressourcen und Risiken beschreibt.",
-      "Ein Dokument, das nur Teamrollen und Verantwortlichkeiten definiert.",
-      "Ein Dokument, das die Marketingstrategie des Projekts festlegt.",
-      "Ein Entwurf der Projektziele ohne detaillierte Planung."
+      "Ein Projektplan ist ein Dokument, das Zeitplan, Budget, Ressourcen und Risiken eines Projekts beschreibt.",
+      "Ein Projektplan ist ein Dokument, das nur Teamrollen und Verantwortlichkeiten im Projekt definiert.",
+      "Ein Projektplan ist ein Dokument, das die Marketingstrategie des Projekts detailliert festlegt.",
+      "Ein Projektplan ist ein Entwurf der Projektziele ohne detaillierte Planung oder Zeitrahmen."
     ],
     "hint": "Der Masterplan des Projekts.",
     "explanation": "Der Projektplan ist die zentrale Steuerungsgrundlage."
   },
   {
     "question": "Was sind Meilensteine in einem Projekt?",
-    "answer": "Wichtige Ereignisse im Projektzeitplan zur Fortschrittsüberwachung.",
+    "answer": "Meilensteine sind wichtige Ereignisse im Projektzeitplan, die den Fortschritt messen.",
     "options": [
-      "Wichtige Ereignisse im Projektzeitplan zur Fortschrittsüberwachung.",
-      "Die wichtigsten Arbeitspakete, die im Projekt erledigt werden.",
-      "Finanzielle Ziele, die im Budgetplan festgelegt sind.",
-      "Regelmäßige Statusberichte an die Stakeholder."
+      "Meilensteine sind wichtige Ereignisse im Projektzeitplan, die den Fortschritt messen.",
+      "Meilensteine sind die wichtigsten Arbeitspakete, die im Projekt erledigt werden.",
+      "Meilensteine sind finanzielle Ziele, die im Budgetplan des Projekts festgelegt sind.",
+      "Meilensteine sind regelmäßige Statusberichte an die Stakeholder des Projekts."
     ],
     "hint": "Etappenziele auf der Projektstrecke.",
     "explanation": "Meilensteine markieren bedeutende Punkte ohne Dauer."
   },
   {
     "question": "Was ist die Risikoanalyse in einem Projekt?",
-    "answer": "Identifikation, Bewertung und Priorisierung von Projektrisiken.",
+    "answer": "Die Risikoanalyse umfasst die Identifikation, Bewertung und Priorisierung von Projektrisiken.",
     "options": [
-      "Identifikation, Bewertung und Priorisierung von Projektrisiken.",
-      "Bewertung der finanziellen Auswirkungen eines Projekts.",
-      "Identifikation von Chancen für neue Projekte.",
-      "Bewertung der Leistung des Projektteams."
+      "Die Risikoanalyse umfasst die Identifikation, Bewertung und Priorisierung von Projektrisiken.",
+      "Die Risikoanalyse umfasst die Bewertung der finanziellen Auswirkungen eines Projekts.",
+      "Die Risikoanalyse umfasst die Identifikation von Chancen für neue Projekte.",
+      "Die Risikoanalyse umfasst die Bewertung der Leistung des Projektteams."
     ],
     "hint": "Vorbeugen ist besser als Heilen.",
     "explanation": "Risikoanalyse erkennt und managt potenzielle Probleme."
   },
   {
     "question": "Was sind Standards und Normen im Projektmanagement?",
-    "answer": "Richtlinien und Best Practices zur Sicherstellung von Qualität.",
+    "answer": "Standards und Normen sind Richtlinien und Best Practices zur Sicherstellung von Qualität im Projektmanagement.",
     "options": [
-      "Richtlinien und Best Practices zur Sicherstellung von Qualität.",
-      "Spezifische Anweisungen für jedes einzelne Projekt.",
-      "Vorgaben für die Dokumentation von Projektergebnissen.",
-      "Regeln für die Zusammenstellung des Projektteams."
+      "Standards und Normen sind Richtlinien und Best Practices zur Sicherstellung von Qualität im Projektmanagement.",
+      "Standards und Normen sind spezifische Anweisungen für jedes einzelne Projekt im Unternehmen.",
+      "Standards und Normen sind Vorgaben für die Dokumentation von Projektergebnissen und Berichten.",
+      "Standards und Normen sind Regeln für die Zusammenstellung des Projektteams und der Rollen."
     ],
     "hint": "Ein bewährter Handlungsrahmen.",
     "explanation": "Standards wie PMBOK erhöhen die Effektivität."
   },
   {
     "question": "Was beschreibt das Projektmanagement-Dreieck?",
-    "answer": "Den Zielkonflikt zwischen Zeit, Kosten und Qualität.",
+    "answer": "Das Projektmanagement-Dreieck beschreibt den Zielkonflikt zwischen Zeit, Kosten und Qualität.",
     "options": [
-      "Den Zielkonflikt zwischen Zeit, Kosten und Qualität.",
-      "Die Beziehung zwischen Teamgröße, Ressourcen und Meilensteinen.",
-      "Die Abhängigkeit von Risiken, Chancen und Stakeholdern.",
-      "Die Planung von Arbeitspaketen, Budget und Kommunikation."
+      "Das Projektmanagement-Dreieck beschreibt den Zielkonflikt zwischen Zeit, Kosten und Qualität.",
+      "Das Projektmanagement-Dreieck beschreibt die Beziehung zwischen Teamgröße, Ressourcen und Meilensteinen.",
+      "Das Projektmanagement-Dreieck beschreibt die Abhängigkeit von Risiken, Chancen und Stakeholdern.",
+      "Das Projektmanagement-Dreieck beschreibt die Planung von Arbeitspaketen, Budget und Kommunikation."
     ],
     "hint": "Eine Änderung beeinflusst die anderen Ecken.",
     "explanation": "Das Dreieck zeigt Abhängigkeiten der Hauptfaktoren."
   },
   {
     "question": "Was ist eine Projektwürdigkeitsprüfung?",
-    "answer": "Eine Analyse, ob ein Vorhaben als Projekt durchgeführt werden soll.",
+    "answer": "Eine Projektwürdigkeitsprüfung ist eine Analyse, ob ein Vorhaben als Projekt durchgeführt werden soll.",
     "options": [
-      "Eine Analyse, ob ein Vorhaben als Projekt durchgeführt werden soll.",
-      "Eine Bewertung der finanziellen Machbarkeit eines Projekts.",
-      "Eine Überprüfung der Teamkompetenzen für ein Projekt.",
-      "Eine Analyse der Risiken eines bestehenden Projekts."
+      "Eine Projektwürdigkeitsprüfung ist eine Analyse, ob ein Vorhaben als Projekt durchgeführt werden soll.",
+      "Eine Projektwürdigkeitsprüfung ist eine Bewertung der finanziellen Machbarkeit eines Projekts.",
+      "Eine Projektwürdigkeitsprüfung ist eine Überprüfung der Teamkompetenzen für ein Projekt.",
+      "Eine Projektwürdigkeitsprüfung ist eine Analyse der Risiken eines bestehenden Projekts."
     ],
     "hint": "Ist es überhaupt ein Projekt wert?",
     "explanation": "Die Prüfung entscheidet über die Projektorganisation."
   },
   {
     "question": "Wozu dient die Projektwürdigkeitsprüfung?",
-    "answer": "Vergleich von Projekt- und Linienorganisation hinsichtlich Vor- und Nachteilen.",
+    "answer": "Die Projektwürdigkeitsprüfung dient dem Vergleich von Projekt- und Linienorganisation hinsichtlich ihrer Vor- und Nachteile.",
     "options": [
-      "Vergleich von Projekt- und Linienorganisation hinsichtlich Vor- und Nachteilen.",
-      "Sicherstellung der Verfügbarkeit von Ressourcen für das Projekt.",
-      "Festlegung des Zeitplans für das gesamte Projekt.",
-      "Auswahl der Stakeholder für das laufende Projekt."
+      "Die Projektwürdigkeitsprüfung dient dem Vergleich von Projekt- und Linienorganisation hinsichtlich ihrer Vor- und Nachteile.",
+      "Die Projektwürdigkeitsprüfung dient der Sicherstellung der Verfügbarkeit von Ressourcen für das Projekt.",
+      "Die Projektwürdigkeitsprüfung dient der Festlegung des Zeitplans für das gesamte Projekt.",
+      "Die Projektwürdigkeitsprüfung dient der Auswahl der Stakeholder für das laufende Projekt."
     ],
     "hint": "Nicht jede Aufgabe braucht ein Projekt.",
     "explanation": "Sie vermeidet unnötigen Overhead oder fehlende Struktur."
   },
   {
     "question": "Nach welchen Kriterien erfolgt die Prüfung (der Projektwürdigkeit)?",
-    "answer": "Einmaligkeit, Komplexität, strategische Bedeutung, Risiko, Kosten-Nutzen.",
+    "answer": "Die Prüfung erfolgt nach Einmaligkeit, Komplexität, strategischer Bedeutung, Risiko und Kosten-Nutzen.",
     "options": [
-      "Einmaligkeit, Komplexität, strategische Bedeutung, Risiko, Kosten-Nutzen.",
-      "Verfügbarkeit von Personal, Budgetgröße und Teamdynamik.",
-      "Anzahl der Stakeholder, Projektdauer und Standort.",
-      "Qualität der Dokumentation, Teamgröße, Kommunikationsplan."
+      "Die Prüfung erfolgt nach Einmaligkeit, Komplexität, strategischer Bedeutung, Risiko und Kosten-Nutzen.",
+      "Die Prüfung erfolgt nach Verfügbarkeit von Personal, Budgetgröße und Teamdynamik.",
+      "Die Prüfung erfolgt nach Anzahl der Stakeholder, Projektdauer und Standort.",
+      "Die Prüfung erfolgt nach Qualität der Dokumentation, Teamgröße und Kommunikationsplan."
     ],
     "hint": "Kriterien für die Projektdefinition.",
     "explanation": "Diese Faktoren rechtfertigen eine Projektorganisation."
   },
   {
     "question": "Was ist eine Stakeholderanalyse?",
-    "answer": "Identifikation und Klassifizierung aller Projektbeteiligten und Betroffenen.",
+    "answer": "Eine Stakeholderanalyse ist die Identifikation und Klassifizierung aller Projektbeteiligten und Betroffenen.",
     "options": [
-      "Identifikation und Klassifizierung aller Projektbeteiligten und Betroffenen.",
-      "Analyse der finanziellen Beiträge von Projektbeteiligten.",
-      "Bewertung der technischen Fähigkeiten des Projektteams.",
-      "Untersuchung der Marktchancen für das Projektprodukt."
+      "Eine Stakeholderanalyse ist die Identifikation und Klassifizierung aller Projektbeteiligten und Betroffenen.",
+      "Eine Stakeholderanalyse ist die Analyse der finanziellen Beiträge von Projektbeteiligten.",
+      "Eine Stakeholderanalyse ist die Bewertung der technischen Fähigkeiten des Projektteams.",
+      "Eine Stakeholderanalyse ist die Untersuchung der Marktchancen für das Projektprodukt."
     ],
     "hint": "Wer hat ein Interesse am Projekt?",
     "explanation": "Die Analyse versteht Einflüsse und Erwartungen der Stakeholder."
   },
   {
     "question": "Wer sind die Stakeholder eines Projekts?",
-    "answer": "Alle Personen und Gruppen, die vom Projekt betroffen sind.",
+    "answer": "Stakeholder sind alle Personen und Gruppen, die vom Projekt betroffen sind oder Einfluss darauf haben.",
     "options": [
-      "Alle Personen und Gruppen, die vom Projekt betroffen sind.",
-      "Nur die internen Mitglieder des Projektteams.",
-      "Nur externe Kunden und Lieferanten des Projekts.",
-      "Nur die Personen, die das Projekt finanzieren."
+      "Stakeholder sind alle Personen und Gruppen, die vom Projekt betroffen sind oder Einfluss darauf haben.",
+      "Stakeholder sind nur die internen Mitglieder des Projektteams mit direkter Verantwortung.",
+      "Stakeholder sind nur externe Kunden und Lieferanten, die am Projekt beteiligt sind.",
+      "Stakeholder sind nur die Personen, die das Projekt finanziell unterstützen oder fördern."
     ],
     "hint": "Intern, extern, direkt oder indirekt betroffen.",
     "explanation": "Stakeholder haben ein berechtigtes Interesse am Projekt."
   },
   {
     "question": "Welche Stakeholdertypen gibt es?",
-    "answer": "Interne, externe, primäre und sekundäre Stakeholder.",
+    "answer": "Es gibt interne, externe, primäre und sekundäre Stakeholder im Projektmanagement.",
     "options": [
-      "Interne, externe, primäre und sekundäre Stakeholder.",
-      "Direkte, indirekte, finanzielle und nicht-finanzielle Stakeholder.",
-      "Aktive, passive, technische und nicht-technische Stakeholder.",
-      "Interne, externe, unterstützende und blockierende Stakeholder."
+      "Es gibt interne, externe, primäre und sekundäre Stakeholder im Projektmanagement.",
+      "Es gibt direkte, indirekte, finanzielle und nicht-finanzielle Stakeholder im Projekt.",
+      "Es gibt aktive, passive, technische und nicht-technische Stakeholder im Projekt.",
+      "Es gibt interne, externe, unterstützende und blockierende Stakeholder im Projekt."
     ],
     "hint": "Einteilung nach Zugehörigkeit und Betroffenheit.",
     "explanation": "Primäre sind direkt, sekundäre indirekt betroffen."
   },
   {
     "question": "Wonach werden Stakeholder klassifiziert?",
-    "answer": "Nach Einfluss auf und Beeinflussbarkeit durch das Projekt.",
+    "answer": "Stakeholder werden nach ihrem Einfluss auf und ihrer Beeinflussbarkeit durch das Projekt klassifiziert.",
     "options": [
-      "Nach Einfluss auf und Beeinflussbarkeit durch das Projekt.",
-      "Nach Verfügbarkeit für Projektmeetings und Workshops.",
-      "Nach finanziellem Beitrag zum Projektbudget.",
-      "Nach fachlicher Expertise im Projektkontext."
+      "Stakeholder werden nach ihrem Einfluss auf und ihrer Beeinflussbarkeit durch das Projekt klassifiziert.",
+      "Stakeholder werden nach ihrer Verfügbarkeit für Projektmeetings und Workshops klassifiziert.",
+      "Stakeholder werden nach ihrem finanziellen Beitrag zum Projektbudget klassifiziert.",
+      "Stakeholder werden nach ihrer fachlichen Expertise im Projektkontext klassifiziert."
     ],
     "hint": "Macht-Dynamik-Matrix: Einfluss vs. Interesse.",
     "explanation": "Klassifizierung priorisiert die Kommunikation."
   },
   {
     "question": "Wozu dient die Stakeholderanalyse?",
-    "answer": "Berücksichtigung der Interessen zur erfolgreichen Projektsteuerung.",
+    "answer": "Die Stakeholderanalyse dient der Berücksichtigung der Interessen zur erfolgreichen Projektsteuerung.",
     "options": [
-      "Berücksichtigung der Interessen zur erfolgreichen Projektsteuerung.",
-      "Definition der Hierarchie innerhalb des Projektteams.",
-      "Minimierung der Kosten für Stakeholder-Meetings.",
-      "Delegation der Verantwortlichkeiten an Stakeholder."
+      "Die Stakeholderanalyse dient der Berücksichtigung der Interessen zur erfolgreichen Projektsteuerung.",
+      "Die Stakeholderanalyse dient der Definition der Hierarchie innerhalb des Projektteams.",
+      "Die Stakeholderanalyse dient der Minimierung der Kosten für Stakeholder-Meetings.",
+      "Die Stakeholderanalyse dient der Delegation der Verantwortlichkeiten an Stakeholder."
     ],
     "hint": "Projekte scheitern oft an Menschen, nicht Technik.",
     "explanation": "Die Analyse managt Erwartungen und Widerstände."
   },
   {
     "question": "Wozu dient die Risikoanalyse?",
-    "answer": "Identifikation, Bewertung und Reaktion auf Projektrisiken.",
+    "answer": "Die Risikoanalyse dient der Identifikation, Bewertung und Reaktion auf Projektrisiken.",
     "options": [
-      "Identifikation, Bewertung und Reaktion auf Projektrisiken.",
-      "Bestimmung der Profitabilität eines Projekts.",
-      "Planung der Kommunikation mit Stakeholdern.",
-      "Festlegung der Meilensteine eines Projekts."
+      "Die Risikoanalyse dient der Identifikation, Bewertung und Reaktion auf Projektrisiken.",
+      "Die Risikoanalyse dient der Bestimmung der Profitabilität eines laufenden Projekts.",
+      "Die Risikoanalyse dient der Planung der Kommunikation mit den Stakeholdern.",
+      "Die Risikoanalyse dient der Festlegung der Meilensteine eines laufenden Projekts."
     ],
     "hint": "Proaktiv handeln, statt reaktiv leiden.",
     "explanation": "Risiken werden früh erkannt und gemanagt."
   },
   {
     "question": "Wie geht man bei der Risikoanalyse vor?",
-    "answer": "Risiken identifizieren, bewerten, priorisieren und Maßnahmen festlegen.",
+    "answer": "Bei der Risikoanalyse werden Risiken identifiziert, bewertet, priorisiert und Maßnahmen festgelegt.",
     "options": [
-      "Risiken identifizieren, bewerten, priorisieren und Maßnahmen festlegen.",
-      "Risiken identifizieren und sofort Gegenmaßnahmen umsetzen.",
-      "Risiken dokumentieren und dem Management überlassen.",
-      "Risiken analysieren und nur finanzielle Auswirkungen bewerten."
+      "Bei der Risikoanalyse werden Risiken identifiziert, bewertet, priorisiert und Maßnahmen festgelegt.",
+      "Bei der Risikoanalyse werden Risiken identifiziert und sofortige Gegenmaßnahmen umgesetzt.",
+      "Bei der Risikoanalyse werden Risiken dokumentiert und dem Management überlassen.",
+      "Bei der Risikoanalyse werden nur finanzielle Auswirkungen von Risiken bewertet."
     ],
     "hint": "Ein systematischer Prozess von Erkennung bis Behandlung.",
     "explanation": "Der Ablauf priorisiert und managt Risiken proaktiv."
   },
   {
     "question": "Welche Arten von Risiken gibt es?",
-    "answer": "Termin-, Kosten-, Qualitäts-, Leistungs- und Organisationsrisiken.",
+    "answer": "Es gibt Termin-, Kosten-, Qualitäts-, Leistungs- und Organisationsrisiken.",
     "options": [
-      "Termin-, Kosten-, Qualitäts-, Leistungs- und Organisationsrisiken.",
-      "Nur technische Risiken und externe Marktveränderungen.",
-      "Nur Teamkonflikte und Budgetüberschreitungen.",
-      "Nur Risiken durch Kundenanforderungen und Markttrends."
+      "Es gibt Termin-, Kosten-, Qualitäts-, Leistungs- und Organisationsrisiken.",
+      "Es gibt nur technische Risiken und externe Marktveränderungen im Projekt.",
+      "Es gibt nur Teamkonflikte und Budgetüberschreitungen als Projektrisiken.",
+      "Es gibt nur Risiken durch Kundenanforderungen und Markttrends im Projekt."
     ],
     "hint": "Risiken betreffen alle Projektaspekte.",
     "explanation": "Risiken können technisch, organisatorisch oder extern sein."
   },
   {
     "question": "Wie kann man Risiken bewerten?",
-    "answer": "Mit einer Risikomatrix aus Eintrittswahrscheinlichkeit und Schadensausmaß.",
+    "answer": "Risiken werden mit einer Risikomatrix aus Eintrittswahrscheinlichkeit und Schadensausmaß bewertet.",
     "options": [
-      "Mit einer Risikomatrix aus Eintrittswahrscheinlichkeit und Schadensausmaß.",
-      "Durch Bewertung der Teamleistung und Ressourcenverfügbarkeit.",
-      "Durch Analyse der Interessen von Stakeholdern.",
-      "Durch Überprüfung der Meilensteinziele."
+      "Risiken werden mit einer Risikomatrix aus Eintrittswahrscheinlichkeit und Schadensausmaß bewertet.",
+      "Risiken werden durch Bewertung der Teamleistung und Ressourcenverfügbarkeit bewertet.",
+      "Risiken werden durch Analyse der Interessen von Stakeholdern im Projekt bewertet.",
+      "Risiken werden durch Überprüfung der Meilensteinziele des Projekts bewertet."
     ],
     "hint": "Eine 2x2-Matrix zur Priorisierung.",
     "explanation": "Die Matrix priorisiert Risiken nach Dringlichkeit."
   },
   {
     "question": "Wozu dient Ressourcenmanagement?",
-    "answer": "Planung, Beschaffung und Steuerung aller benötigten Ressourcen.",
+    "answer": "Ressourcenmanagement dient der Planung, Beschaffung und Steuerung aller benötigten Ressourcen.",
     "options": [
-      "Planung, Beschaffung und Steuerung aller benötigten Ressourcen.",
-      "Optimierung der Kommunikation zwischen Projektbeteiligten.",
-      "Festlegung der Projektziele und Meilensteine.",
-      "Analyse der Risiken und Chancen eines Projekts."
+      "Ressourcenmanagement dient der Planung, Beschaffung und Steuerung aller benötigten Ressourcen.",
+      "Ressourcenmanagement dient der Optimierung der Kommunikation zwischen Projektbeteiligten.",
+      "Ressourcenmanagement dient der Festlegung der Projektziele und Meilensteine.",
+      "Ressourcenmanagement dient der Analyse der Risiken und Chancen eines Projekts."
     ],
     "hint": "Ressourcen zur richtigen Zeit bereitstellen.",
     "explanation": "Effizienter Einsatz von Personal, Material und Budget."
   },
   {
     "question": "Welche Ressourcenarten gibt es?",
-    "answer": "Personal, Sachmittel, Anlagen und Finanzmittel.",
+    "answer": "Ressourcenarten umfassen Personal, Sachmittel, Anlagen und Finanzmittel.",
     "options": [
-      "Personal, Sachmittel, Anlagen und Finanzmittel.",
-      "Zeit, Kommunikationsmittel und Softwaretools.",
-      "Stakeholder, Meilensteine und Projektpläne.",
-      "Technologien, Verträge und Berichte."
+      "Ressourcenarten umfassen Personal, Sachmittel, Anlagen und Finanzmittel.",
+      "Ressourcenarten umfassen Zeit, Kommunikationsmittel und Softwaretools.",
+      "Ressourcenarten umfassen Stakeholder, Meilensteine und Projektpläne.",
+      "Ressourcenarten umfassen Technologien, Verträge und Berichte."
     ],
     "hint": "Menschen, Dinge, Geld.",
     "explanation": "Alle notwendigen Mittel zur Projektdurchführung."
   },
   {
     "question": "Was umfasst die Ressourcenplanung?",
-    "answer": "Bedarfsanalyse, Budgetierung und Kapazitätsplanung.",
+    "answer": "Die Ressourcenplanung umfasst die Bedarfsanalyse, Budgetierung und Kapazitätsplanung.",
     "options": [
-      "Bedarfsanalyse, Budgetierung und Kapazitätsplanung.",
-      "Risikoanalyse, Stakeholder-Management, Meilensteinplanung.",
-      "Teamzusammenstellung, Kommunikationsplanung, Dokumentation.",
-      "Qualitätskontrolle, Berichterstattung, Abschlussbewertung."
+      "Die Ressourcenplanung umfasst die Bedarfsanalyse, Budgetierung und Kapazitätsplanung.",
+      "Die Ressourcenplanung umfasst Risikoanalyse, Stakeholder-Management und Meilensteinplanung.",
+      "Die Ressourcenplanung umfasst Teamzusammenstellung, Kommunikationsplanung und Dokumentation.",
+      "Die Ressourcenplanung umfasst Qualitätskontrolle, Berichterstattung und Abschlussbewertung."
     ],
     "hint": "Was wird wann von wem benötigt?",
     "explanation": "Planung stellt Ressourcenverfügbarkeit sicher."
   },
   {
     "question": "Was ist eine Nutzwertanalyse?",
-    "answer": "Ein Verfahren zur rationalen Bewertung von Handlungsalternativen.",
+    "answer": "Eine Nutzwertanalyse ist ein Verfahren zur rationalen Bewertung von Handlungsalternativen.",
     "options": [
-      "Ein Verfahren zur rationalen Bewertung von Handlungsalternativen.",
-      "Eine Methode zur Analyse der Projektkosten.",
-      "Ein Tool zur Bewertung der Teamleistung.",
-      "Ein Verfahren zur Festlegung von Meilensteinen."
+      "Eine Nutzwertanalyse ist ein Verfahren zur rationalen Bewertung von Handlungsalternativen.",
+      "Eine Nutzwertanalyse ist eine Methode zur Analyse der Projektkosten und des Budgets.",
+      "Eine Nutzwertanalyse ist ein Tool zur Bewertung der Leistung des Projektteams.",
+      "Eine Nutzwertanalyse ist ein Verfahren zur Festlegung von Meilensteinen im Projekt."
     ],
     "hint": "Eine strukturierte Entscheidungshilfe.",
     "explanation": "Sie gewichtet qualitative und quantitative Kriterien."
   },
   {
     "question": "Wozu dient die Nutzwertanalyse?",
-    "answer": "Objektive Ermittlung der besten Alternative für ein Vorhaben.",
+    "answer": "Die Nutzwertanalyse dient der objektiven Ermittlung der besten Alternative für ein Vorhaben.",
     "options": [
-      "Objektive Ermittlung der besten Alternative für ein Vorhaben.",
-      "Priorisierung der Risiken eines laufenden Projekts.",
-      "Berechnung der Ressourcenbedarfe eines Projekts.",
-      "Dokumentation der Interessen von Stakeholdern."
+      "Die Nutzwertanalyse dient der objektiven Ermittlung der besten Alternative für ein Vorhaben.",
+      "Die Nutzwertanalyse dient der Priorisierung der Risiken eines laufenden Projekts.",
+      "Die Nutzwertanalyse dient der Berechnung der Ressourcenbedarfe eines Projekts.",
+      "Die Nutzwertanalyse dient der Dokumentation der Interessen von Stakeholdern."
     ],
     "hint": "Sie macht Entscheidungen transparent.",
     "explanation": "Die Analyse reduziert subjektive Präferenzen."
   },
   {
     "question": "Wie funktioniert die Nutzwertanalyse?",
-    "answer": "Kriterien definieren, Alternativen bewerten, Ergebnisse auswerten.",
+    "answer": "Die Nutzwertanalyse funktioniert durch Definieren von Kriterien, Bewerten von Alternativen und Auswerten der Ergebnisse.",
     "options": [
-      "Kriterien definieren, Alternativen bewerten, Ergebnisse auswerten.",
-      "Risiken identifizieren, Eintrittswahrscheinlichkeit bewerten.",
-      "Meilensteine festlegen, Fortschritt überwachen.",
-      "Stakeholder identifizieren, Interessen priorisieren."
+      "Die Nutzwertanalyse funktioniert durch Definieren von Kriterien, Bewerten von Alternativen und Auswerten der Ergebnisse.",
+      "Die Nutzwertanalyse funktioniert durch Identifizieren von Risiken und Bewerten der Eintrittswahrscheinlichkeit.",
+      "Die Nutzwertanalyse funktioniert durch Festlegen von Meilensteinen und Überwachen des Fortschritts.",
+      "Die Nutzwertanalyse funktioniert durch Identifizieren von Stakeholdern und Priorisieren ihrer Interessen."
     ],
     "hint": "Kriterien, Gewichte, Bewertung, Entscheidung.",
     "explanation": "Die Analyse summiert gewichtete Bewertungen."
   },
   {
     "question": "Was ist ein Monopol?",
-    "answer": "Eine Marktform mit einem Anbieter ohne direkte Konkurrenz.",
+    "answer": "Ein Monopol ist eine Marktform, bei der ein Anbieter ohne direkte Konkurrenz den Markt dominiert.",
     "options": [
-      "Eine Marktform mit einem Anbieter ohne direkte Konkurrenz.",
-      "Eine Marktform mit mehreren Anbietern, die Preise koordinieren.",
-      "Eine Marktform mit vielen Anbietern im Wettbewerb.",
-      "Eine Marktform, bei der der Staat den Markt kontrolliert."
+      "Ein Monopol ist eine Marktform, bei der ein Anbieter ohne direkte Konkurrenz den Markt dominiert.",
+      "Ein Monopol ist eine Marktform, bei der mehrere Anbieter die Preise gemeinsam koordinieren.",
+      "Ein Monopol ist eine Marktform, bei der viele Anbieter im Wettbewerb miteinander stehen.",
+      "Ein Monopol ist eine Marktform, bei der der Staat den Markt vollständig kontrolliert."
     ],
     "hint": "Ein einziger Anbieter dominiert.",
     "explanation": "Monopole ermöglichen Preis- und Mengensteuerung."
   },
   {
     "question": "Welches Hauptmerkmal zeichnet einen Monopolisten aus?",
-    "answer": "Er ist der alleinige Anbieter auf dem Markt.",
+    "answer": "Ein Monopolist ist der alleinige Anbieter eines Produkts oder einer Dienstleistung auf dem Markt.",
     "options": [
-      "Er ist der alleinige Anbieter auf dem Markt.",
-      "Er ist einer von wenigen Anbietern mit Marktdominanz.",
-      "Er kontrolliert die Nachfrage, nicht das Angebot.",
-      "Er bietet Produkte zu besonders niedrigen Preisen."
+      "Ein Monopolist ist der alleinige Anbieter eines Produkts oder einer Dienstleistung auf dem Markt.",
+      "Ein Monopolist ist einer von wenigen Anbietern mit dominierender Stellung auf dem Markt.",
+      "Ein Monopolist kontrolliert die Nachfrage, nicht das Angebot eines Produkts oder einer Dienstleistung.",
+      "Ein Monopolist bietet Produkte oder Dienstleistungen zu besonders niedrigen Preisen an."
     ],
     "hint": "Keine Konkurrenz auf dem Markt.",
     "explanation": "Fehlende Konkurrenz definiert den Monopolisten."
   },
   {
     "question": "Welche Kontrolle hat ein Monopolist typischerweise?",
-    "answer": "Kontrolle über Preis und Menge ohne Wettbewerbsdruck.",
+    "answer": "Ein Monopolist hat typischerweise die Kontrolle über Preis und Menge ohne Wettbewerbsdruck.",
     "options": [
-      "Kontrolle über Preis und Menge ohne Wettbewerbsdruck.",
-      "Kontrolle über Qualität, aber nicht über den Preis.",
-      "Beeinflussung des Markts durch intensive Werbung.",
-      "Eingeschränkte Kontrolle durch staatliche Regulierung."
+      "Ein Monopolist hat typischerweise die Kontrolle über Preis und Menge ohne Wettbewerbsdruck.",
+      "Ein Monopolist hat die Kontrolle über die Qualität, aber nicht über den Preis eines Produkts.",
+      "Ein Monopolist beeinflusst den Markt durch intensive Werbung und Marketingmaßnahmen.",
+      "Ein Monopolist hat eingeschränkte Kontrolle durch staatliche Regulierung des Marktes."
     ],
     "hint": "Preis und Menge ohne Konkurrenz.",
     "explanation": "Monopolisten maximieren Gewinne durch Preiskontrolle."
   },
   {
     "question": "Welche Auswirkung kann ein Monopol auf die Verbraucher haben?",
-    "answer": "Höhere Preise durch fehlenden Wettbewerbsdruck.",
+    "answer": "Ein Monopol kann zu höheren Preisen für Verbraucher durch fehlenden Wettbewerbsdruck führen.",
     "options": [
-      "Höhere Preise durch fehlenden Wettbewerbsdruck.",
-      "Mehr Auswahlmöglichkeiten für Verbraucher.",
-      "Bessere Produktqualität durch Innovationen.",
-      "Keine Auswirkungen auf Verbraucherpreise."
+      "Ein Monopol kann zu höheren Preisen für Verbraucher durch fehlenden Wettbewerbsdruck führen.",
+      "Ein Monopol kann zu mehr Auswahlmöglichkeiten für Verbraucher durch Innovationen führen.",
+      "Ein Monopol kann zu besserer Produktqualität durch verstärkte Innovationen führen.",
+      "Ein Monopol hat keine Auswirkungen auf die Preise oder Auswahl für Verbraucher."
     ],
     "hint": "Fehlender Wettbewerb erhöht Preise.",
     "explanation": "Verbraucher haben keine Alternativen."
@@ -637,84 +637,84 @@
   },
   {
     "question": "Welche Vorteile kann ein Monopol für ein Unternehmen haben?",
-    "answer": "Höhere Gewinne und weniger Wettbewerbsdruck.",
+    "answer": "Ein Monopol bietet höhere Gewinne und weniger Wettbewerbsdruck für das Unternehmen.",
     "options": [
-      "Höhere Gewinne und weniger Wettbewerbsdruck.",
-      "Bessere Zusammenarbeit mit Konkurrenten.",
-      "Niedrigere Preise für Verbraucher.",
-      "Förderung von Innovation durch Wettbewerb."
+      "Ein Monopol bietet höhere Gewinne und weniger Wettbewerbsdruck für das Unternehmen.",
+      "Ein Monopol fördert die Zusammenarbeit mit Konkurrenten für bessere Marktchancen.",
+      "Ein Monopol führt zu niedrigeren Preisen für Verbraucher durch Skaleneffekte.",
+      "Ein Monopol fördert Innovation durch starken Wettbewerb mit anderen Anbietern."
     ],
     "hint": "Gewinne und weniger Druck.",
     "explanation": "Monopole maximieren Gewinne durch Kontrolle."
   },
   {
     "question": "Was sind potenzielle Nachteile eines Monopols für Verbraucher?",
-    "answer": "Höhere Preise, weniger Auswahl, geringe Innovationsanreize.",
+    "answer": "Potenzielle Nachteile sind höhere Preise, weniger Auswahl und geringe Innovationsanreize.",
     "options": [
-      "Höhere Preise, weniger Auswahl, geringe Innovationsanreize.",
-      "Niedrigere Preise und mehr Innovationen.",
-      "Mehr Auswahl und bessere Produktqualität.",
-      "Keine Auswirkungen auf Verbraucher."
+      "Potenzielle Nachteile sind höhere Preise, weniger Auswahl und geringe Innovationsanreize.",
+      "Potenzielle Nachteile sind niedrigere Preise und mehr Innovationen für Verbraucher.",
+      "Potenzielle Nachteile sind mehr Auswahl und bessere Qualität für Verbraucher.",
+      "Potenzielle Nachteile gibt es nicht, da Monopole Verbraucher nicht beeinflussen."
     ],
     "hint": "Höhere Preise, weniger Optionen.",
     "explanation": "Verbraucher leiden unter fehlendem Wettbewerb."
   },
   {
     "question": "Nenne einige Beispiele für Monopolsituationen in Deutschland.",
-    "answer": "Deutsche Bahn im Schienenverkehr, Krankenkassen, Deutsche Post bis 2008.",
+    "answer": "Beispiele für Monopolsituationen in Deutschland sind die Deutsche Bahn im Schienenverkehr, Krankenkassen und die Deutsche Post bis 2008.",
     "options": [
-      "Deutsche Bahn im Schienenverkehr, Krankenkassen, Deutsche Post bis 2008.",
-      "Supermärkte wie Rewe, Edeka und Aldi im Einzelhandel.",
-      "Automobilzulieferer wie Bosch und Continental.",
-      "Energieversorger mit vielen lokalen Anbietern."
+      "Beispiele für Monopolsituationen in Deutschland sind die Deutsche Bahn im Schienenverkehr, Krankenkassen und die Deutsche Post bis 2008.",
+      "Beispiele sind Supermärkte wie Rewe, Edeka und Aldi im Einzelhandel in Deutschland.",
+      "Beispiele sind Automobilzulieferer wie Bosch und Continental in Deutschland.",
+      "Beispiele sind Energieversorger mit vielen lokalen Anbietern in Deutschland."
     ],
     "hint": "Bahn, Krankenkassen, Post.",
     "explanation": "Regulierte oder ehemalige Monopole."
   },
   {
     "question": "Was ist ein Oligopol?",
-    "answer": "Eine Marktform mit wenigen dominierenden Anbietern.",
+    "answer": "Ein Oligopol ist eine Marktform, bei der wenige Anbieter den Markt dominieren.",
     "options": [
-      "Eine Marktform mit wenigen dominierenden Anbietern.",
-      "Eine Marktform mit einem dominierenden Anbieter.",
-      "Eine Marktform mit vielen konkurrierenden Anbietern.",
-      "Eine Marktform, in der Nachfrager Preise bestimmen."
+      "Ein Oligopol ist eine Marktform, bei der wenige Anbieter den Markt dominieren.",
+      "Ein Oligopol ist eine Marktform, bei der ein Anbieter den Markt dominiert.",
+      "Ein Oligopol ist eine Marktform, bei der viele Anbieter im Wettbewerb stehen.",
+      "Ein Oligopol ist eine Marktform, bei der Nachfrager die Preise bestimmen."
     ],
     "hint": "Wenige dominierende Anbieter.",
     "explanation": "Oligopole teilen sich den Markt."
   },
   {
     "question": "Wie viele Anbieter sind typischerweise in einem Oligopol präsent?",
-    "answer": "Wenige dominierende Anbieter.",
+    "answer": "In einem Oligopol sind typischerweise wenige dominierende Anbieter präsent.",
     "options": [
-      "Wenige dominierende Anbieter.",
-      "Ein einziger dominierender Anbieter.",
-      "Viele gleichberechtigte Anbieter.",
-      "Keine Anbieter, nur Nachfrager."
+      "In einem Oligopol sind typischerweise wenige dominierende Anbieter präsent.",
+      "In einem Oligopol ist typischerweise ein dominierender Anbieter präsent.",
+      "In einem Oligopol sind typischerweise viele gleichberechtigte Anbieter präsent.",
+      "In einem Oligopol sind typischerweise keine Anbieter, sondern Nachfrager präsent."
     ],
     "hint": "Wenige, aber nicht einer.",
     "explanation": "Typischerweise 2-10 große Anbieter."
   },
   {
     "question": "Welche Macht haben Unternehmen in einem Oligopol oft?",
-    "answer": "Beeinflussung des Markts durch Preis- und Mengenkoordination.",
+    "answer": "Unternehmen in einem Oligopol haben oft die Macht, den Markt durch Preis- und Mengenkoordination zu beeinflussen.",
     "options": [
-      "Beeinflussung des Markts durch Preis- und Mengenkoordination.",
-      "Begrenzte Kontrolle durch starken Wettbewerb.",
-      "Beeinflussung durch Qualitätsverbesserungen.",
-      "Keine Macht, da Nachfrager dominieren."
+      "Unternehmen in einem Oligopol haben oft die Macht, den Markt durch Preis- und Mengenkoordination zu beeinflussen.",
+      "Unternehmen in einem Oligopol haben begrenzte Macht durch starken Wettbewerb mit vielen Anbietern.",
+      "Unternehmen in einem Oligopol beeinflussen den Markt durch Qualitätsverbesserungen und Innovationen.",
+      "Unternehmen in einem Oligopol haben keine Macht, da Nachfrager den Markt dominieren."
     ],
     "hint": "Koordination von Preisen und Mengen.",
     "explanation": "Oligopole agieren oft wie Kartelle."
   },
   {
     "question": "Was kann die Folge der Koordination von Preisen in einem Oligopol sein?",
-    "answer": "Weniger Wettbewerb und höhere Preise für Verbraucher.",
+    "answer": "Die Koordination von Preisen in einem Oligopol kann zu weniger Wettbewerb und höheren Preisen führen.",
     "options": [
-      "Weniger Wettbewerb und höhere Preise für Verbraucher.",
-      "Mehr Innovation und niedrigere Preise.",
-      "Keine Auswirkungen auf den Markt.",
-      "Zusammenarbeit mit kleineren Anbietern."
+      "Die Koordination von Preisen in einem Oligopol kann zu weniger Wettbewerb und höheren Preisen führen.",
+      "Die Koordination von Preisen in einem Oligopol kann zu mehr Innovation und niedrigeren Preisen führen.",
+      "Die Koordination von Preisen in einem Oligopol hat keine Auswirkungen auf den Markt.",
+      "Die Koordination von Preisen in einem Oligopol führt zur Zusammenarbeit mit kleineren Anbietern."
     ],
     "hint": "Weniger Wettbewerb, höhere Preise.",
     "explanation": "Koordination schadet Verbrauchern."
@@ -745,72 +745,72 @@
   },
   {
     "question": "Was ist der Unterschied zwischen einem Monopol und einem Oligopol?",
-    "answer": "Monopol: ein Anbieter; Oligopol: wenige Anbieter.",
+    "answer": "Ein Monopol hat einen Anbieter, ein Oligopol hat wenige Anbieter.",
     "options": [
-      "Monopol: ein Anbieter; Oligopol: wenige Anbieter.",
-      "Monopol: mehrere Anbieter; Oligopol: ein Anbieter.",
-      "Monopol: höhere Preise; Oligopol: mehr Innovation.",
-      "Monopol: reguliert; Oligopol: unreguliert."
+      "Ein Monopol hat einen Anbieter, ein Oligopol hat wenige Anbieter.",
+      "Ein Monopol hat mehrere Anbieter, ein Oligopol hat einen Anbieter.",
+      "Ein Monopol führt zu höheren Preisen, ein Oligopol zu mehr Innovation.",
+      "Ein Monopol ist reguliert, ein Oligopol ist unreguliert."
     ],
     "hint": "Einer vs. wenige Anbieter.",
     "explanation": "Die Anzahl der Anbieter ist der Hauptunterschied."
   },
   {
     "question": "Welche Branchen in Deutschland sind Beispiele für Oligopole?",
-    "answer": "Automobilmarkt (VW, Daimler, BMW) und Mobilfunkmarkt (Telekom, Vodafone).",
+    "answer": "Beispiele für Oligopole in Deutschland sind der Automobilmarkt (VW, Daimler, BMW) und der Mobilfunkmarkt (Telekom, Vodafone).",
     "options": [
-      "Automobilmarkt (VW, Daimler, BMW) und Mobilfunkmarkt (Telekom, Vodafone).",
-      "Schienenverkehr mit der Deutschen Bahn als Hauptanbieter.",
-      "Einzelhandel mit vielen kleinen unabhängigen Geschäften.",
-      "Energiemarkt mit einem einzigen Anbieter."
+      "Beispiele für Oligopole in Deutschland sind der Automobilmarkt (VW, Daimler, BMW) und der Mobilfunkmarkt (Telekom, Vodafone).",
+      "Beispiele sind der Schienenverkehr mit der Deutschen Bahn als Hauptanbieter in Deutschland.",
+      "Beispiele sind der Einzelhandel mit vielen kleinen unabhängigen Geschäften in Deutschland.",
+      "Beispiele sind der Energiemarkt mit einem einzigen Anbieter in Deutschland."
     ],
     "hint": "Auto- und Mobilfunkbranche.",
     "explanation": "Wenige große Firmen dominieren diese Märkte."
   },
   {
     "question": "Warum ist das Kartellrecht im Kontext von Oligopolen wichtig?",
-    "answer": "Es verhindert wettbewerbsbeschränkende Praktiken von dominanten Unternehmen.",
+    "answer": "Das Kartellrecht ist wichtig, um wettbewerbsbeschränkende Praktiken von dominanten Unternehmen in Oligopolen zu verhindern.",
     "options": [
-      "Es verhindert wettbewerbsbeschränkende Praktiken von dominanten Unternehmen.",
-      "Es fördert die Zusammenarbeit zwischen Anbietern in Oligopolen.",
-      "Es zwingt Unternehmen, ihre Preise zu senken.",
-      "Es reguliert die Anzahl der Anbieter im Markt."
+      "Das Kartellrecht ist wichtig, um wettbewerbsbeschränkende Praktiken von dominanten Unternehmen in Oligopolen zu verhindern.",
+      "Das Kartellrecht ist wichtig, um die Zusammenarbeit zwischen Anbietern in Oligopolen zu fördern.",
+      "Das Kartellrecht ist wichtig, um Unternehmen zu zwingen, ihre Preise in Oligopolen zu senken.",
+      "Das Kartellrecht ist wichtig, um die Anzahl der Anbieter in einem Oligopol zu regulieren."
     ],
     "hint": "Schutz vor Missbrauch und unfairer Kontrolle.",
     "explanation": "Kartellrecht sichert fairen Wettbewerb."
   },
   {
     "question": "Was ist ein Polypol?",
-    "answer": "Eine Marktform mit vielen Anbietern und Nachfragern.",
+    "answer": "Ein Polypol ist eine Marktform mit vielen Anbietern und Nachfragern im Wettbewerb.",
     "options": [
-      "Eine Marktform mit vielen Anbietern und Nachfragern.",
-      "Eine Marktform mit einem dominierenden Anbieter.",
-      "Eine Marktform mit wenigen großen Anbietern.",
-      "Eine Marktform, in der Nachfrager Preise kontrollieren."
+      "Ein Polypol ist eine Marktform mit vielen Anbietern und Nachfragern im Wettbewerb.",
+      "Ein Polypol ist eine Marktform mit einem dominierenden Anbieter ohne Konkurrenz.",
+      "Ein Polypol ist eine Marktform mit wenigen großen Anbietern, die den Markt teilen.",
+      "Ein Polypol ist eine Marktform, in der Nachfrager die Preise vollständig kontrollieren."
     ],
     "hint": "Viele Anbieter und Nachfrager.",
     "explanation": "Polypol ist der ideale Wettbewerbsmarkt."
   },
   {
     "question": "Kann ein einzelnes Unternehmen in einem Polypol den Markt beeinflussen?",
-    "answer": "Nein, kein Unternehmen hat genug Marktmacht.",
+    "answer": "Nein, in einem Polypol kann ein einzelnes Unternehmen den Markt nicht beeinflussen.",
     "options": [
-      "Nein, kein Unternehmen hat genug Marktmacht.",
-      "Ja, jedes Unternehmen kann Preise festlegen.",
-      "Ja, durch Koordination mit anderen Anbietern.",
-      "Nein, aber Unternehmen kontrollieren gemeinsam."
+      "Nein, in einem Polypol kann ein einzelnes Unternehmen den Markt nicht beeinflussen.",
+      "Ja, in einem Polypol kann jedes Unternehmen die Preise eigenständig festlegen.",
+      "Ja, in einem Polypol können Unternehmen durch Koordination Preise beeinflussen.",
+      "Nein, in einem Polypol kontrollieren Unternehmen gemeinsam den Markt."
     ],
     "hint": "Kein Einfluss durch Einzelne.",
     "explanation": "Marktmacht ist auf viele verteilt."
   },
   {
     "question": "Was sind die Hauptziele einer Stärken-/Schwächenanalyse?",
-    "answer": "Strategische Entscheidungen und Wettbewerbsvorteile erkennen.",
+    "answer": "Die Hauptziele sind das Erkennen von strategischen Entscheidungen und Wettbewerbsvorteilen.",
     "options": [
-      "Strategische Entscheidungen und Wettbewerbsvorteile erkennen.",
-      "Identifikation von Marktchancen und Risiken.",
-      "Optimierung der Kommunikation innerhalb des Teams.",
-      "Budgetplanung und Kostenreduktion im Unternehmen."
+      "Die Hauptziele sind das Erkennen von strategischen Entscheidungen und Wettbewerbsvorteilen.",
+      "Die Hauptziele sind die Identifikation von Marktchancen und Risiken im Unternehmen.",
+      "Die Hauptziele sind die Optimierung der Kommunikation innerhalb des Projektteams.",
+      "Die Hauptziele sind die Budgetplanung und Kostenreduktion im Unternehmen."
     ],
     "hint": "Entscheidungen und Vorteile.",
     "explanation": "Für bessere strategische Planung."
@@ -829,168 +829,168 @@
   },
   {
     "question": "Was sind Beispiele für Stärken in einer Stärken-/Schwächenanalyse?",
-    "answer": "Starke Marken, Kundenbeziehungen, einzigartige Technologien.",
+    "answer": "Beispiele für Stärken sind starke Marken, Kundenbeziehungen und einzigartige Technologien.",
     "options": [
-      "Starke Marken, Kundenbeziehungen, einzigartige Technologien.",
-      "Hohe Marktanteile, aber schwache Kundenbindung.",
-      "Niedrige Kosten, aber veraltete Technologie.",
-      "Viele Mitarbeiter, aber geringe Innovationskraft."
+      "Beispiele für Stärken sind starke Marken, Kundenbeziehungen und einzigartige Technologien.",
+      "Beispiele für Stärken sind hohe Marktanteile, aber schwache Kundenbindung im Unternehmen.",
+      "Beispiele für Stärken sind niedrige Kosten, aber veraltete Technologie im Unternehmen.",
+      "Beispiele für Stärken sind viele Mitarbeiter, aber geringe Innovationskraft im Unternehmen."
     ],
     "hint": "Positive interne Faktoren.",
     "explanation": "Stärken fördern Wettbewerbsvorteile."
   },
   {
     "question": "Was sind Beispiele für Schwächen in einer Stärken-/Schwächenanalyse?",
-    "answer": "Unzureichende Forschung, schlechte Reputation, hohe Schulden.",
+    "answer": "Beispiele für Schwächen sind unzureichende Forschung, schlechte Reputation und hohe Schulden.",
     "options": [
-      "Unzureichende Forschung, schlechte Reputation, hohe Schulden.",
-      "Starke Marktpräsenz, aber geringe Liquidität.",
-      "Innovative Produkte, aber hohe Preise.",
-      "Etablierte Kunden, aber komplexe Prozesse."
+      "Beispiele für Schwächen sind unzureichende Forschung, schlechte Reputation und hohe Schulden.",
+      "Beispiele für Schwächen sind starke Marktpräsenz, aber geringe Liquidität im Unternehmen.",
+      "Beispiele für Schwächen sind innovative Produkte, aber hohe Preise im Unternehmen.",
+      "Beispiele für Schwächen sind etablierte Kunden, aber komplexe Prozesse im Unternehmen."
     ],
     "hint": "Negative interne Faktoren.",
     "explanation": "Schwächen behindern den Erfolg."
   },
   {
     "question": "Wie beeinflusst eine Stärken-/Schwächenanalyse die strategischen Entscheidungen eines Unternehmens?",
-    "answer": "Erkennung von Verbesserungsbereichen und Wettbewerbsvorteilen.",
+    "answer": "Sie hilft, Verbesserungsbereiche zu erkennen und Wettbewerbsvorteile gezielt zu nutzen.",
     "options": [
-      "Erkennung von Verbesserungsbereichen und Wettbewerbsvorteilen.",
-      "Festlegung von Produktpreisen und Marktsegmenten.",
-      "Optimierung der internen Kommunikation.",
-      "Analyse externer Markttrends und Chancen."
+      "Sie hilft, Verbesserungsbereiche zu erkennen und Wettbewerbsvorteile gezielt zu nutzen.",
+      "Sie hilft, Produktpreise und Marktsegmente für das Unternehmen festzulegen.",
+      "Sie hilft, die interne Kommunikation innerhalb des Unternehmens zu optimieren.",
+      "Sie hilft, externe Markttrends und Chancen für das Unternehmen zu analysieren."
     ],
     "hint": "Verbesserung und Vorteile identifizieren.",
     "explanation": "Für strategische Planung und Positionierung."
   },
   {
     "question": "Was ist die ISO 9000 Norm?",
-    "answer": "Internationale Normenreihe für Qualitätsmanagementsysteme.",
+    "answer": "Die ISO 9000 Norm ist eine internationale Normenreihe für Qualitätsmanagementsysteme.",
     "options": [
-      "Internationale Normenreihe für Qualitätsmanagementsysteme.",
-      "Normenreihe für Umweltmanagementsysteme.",
-      "Richtlinien für Arbeitssicherheit in Unternehmen.",
-      "Vorschriften für die Produktentwicklung."
+      "Die ISO 9000 Norm ist eine internationale Normenreihe für Qualitätsmanagementsysteme.",
+      "Die ISO 9000 Norm ist eine Normenreihe für Umweltmanagementsysteme in Unternehmen.",
+      "Die ISO 9000 Norm ist eine Richtlinie für Arbeitssicherheit in Unternehmen.",
+      "Die ISO 9000 Norm ist eine Vorschrift für die Produktentwicklung in Unternehmen."
     ],
     "hint": "Fokussiert auf Qualitätsmanagement.",
     "explanation": "ISO 9000 definiert Qualitätsstandards."
   },
   {
     "question": "Wie definiert die ISO 9000-Norm 'Qualität'?",
-    "answer": "Erfüllung von Anforderungen durch inhärente Eigenschaften.",
+    "answer": "Qualität ist gemäß ISO 9000 die Erfüllung von Anforderungen durch inhärente Eigenschaften.",
     "options": [
-      "Erfüllung von Anforderungen durch inhärente Eigenschaften.",
-      "Fähigkeit eines Produkts, den Preis zu rechtfertigen.",
-      "Zufriedenheit der Mitarbeiter im Produktionsprozess.",
-      "Geschwindigkeit der Produktionsprozesse im Unternehmen."
+      "Qualität ist gemäß ISO 9000 die Erfüllung von Anforderungen durch inhärente Eigenschaften.",
+      "Qualität ist gemäß ISO 9000 die Fähigkeit eines Produkts, den Preis zu rechtfertigen.",
+      "Qualität ist gemäß ISO 9000 die Zufriedenheit der Mitarbeiter im Produktionsprozess.",
+      "Qualität ist gemäß ISO 9000 die Geschwindigkeit der Produktionsprozesse im Unternehmen."
     ],
     "hint": "Eigenschaften und Anforderungen.",
     "explanation": "Qualität ist messbar durch Erwartungserfüllung."
   },
   {
     "question": "Was meint die ISO 9000-Norm mit 'inhärenten Eigenschaften'?",
-    "answer": "Wesentliche Merkmale von Produkten oder Prozessen.",
+    "answer": "Inhärente Eigenschaften sind gemäß ISO 9000 wesentliche Merkmale von Produkten oder Prozessen.",
     "options": [
-      "Wesentliche Merkmale von Produkten oder Prozessen.",
-      "Externe Zertifizierungen eines Produkts.",
-      "Markenwahrnehmung durch den Kunden.",
-      "Kosten der Produktion eines Produkts."
+      "Inhärente Eigenschaften sind gemäß ISO 9000 wesentliche Merkmale von Produkten oder Prozessen.",
+      "Inhärente Eigenschaften sind gemäß ISO 9000 externe Zertifizierungen eines Produkts.",
+      "Inhärente Eigenschaften sind gemäß ISO 9000 die Markenwahrnehmung durch den Kunden.",
+      "Inhärente Eigenschaften sind gemäß ISO 9000 die Kosten der Produktion eines Produkts."
     ],
     "hint": "Feste, grundlegende Charakteristika.",
     "explanation": "Inhärente Eigenschaften sind fest eingebaut."
   },
   {
     "question": "Was ist der Unterschied zwischen ISO 9000 und ISO 9001?",
-    "answer": "ISO 9000 definiert Prinzipien, ISO 9001 legt Kriterien fest.",
+    "answer": "ISO 9000 definiert Prinzipien, während ISO 9001 spezifische Kriterien für Zertifizierung festlegt.",
     "options": [
-      "ISO 9000 definiert Prinzipien, ISO 9001 legt Kriterien fest.",
-      "ISO 9000 ist für Produktion, ISO 9001 für Dienstleistungen.",
-      "ISO 9000 ist freiwillig, ISO 9001 gesetzlich vorgeschrieben.",
-      "ISO 9000 regelt Umwelt, ISO 9001 Qualität."
+      "ISO 9000 definiert Prinzipien, während ISO 9001 spezifische Kriterien für Zertifizierung festlegt.",
+      "ISO 9000 ist für Produktion, während ISO 9001 für Dienstleistungen gedacht ist.",
+      "ISO 9000 ist freiwillig, während ISO 9001 gesetzlich vorgeschrieben ist.",
+      "ISO 9000 regelt Umwelt, während ISO 9001 Qualität regelt."
     ],
     "hint": "Wörterbuch vs. Anleitung.",
     "explanation": "ISO 9001 ist zertifizierbar, ISO 9000 nicht."
   },
   {
     "question": "Was ist ein Qualitätsmanagementsystem (QMS)?",
-    "answer": "Ein System zur Erreichung und Verbesserung von Qualität.",
+    "answer": "Ein Qualitätsmanagementsystem (QMS) ist ein System zur Erreichung und Verbesserung von Qualität.",
     "options": [
-      "Ein System zur Erreichung und Verbesserung von Qualität.",
-      "Ein Softwaretool für Projektdokumentationen.",
-      "Eine Abteilung für die Endkontrolle von Produkten.",
-      "Ein System zur Verwaltung von Kundenanfragen."
+      "Ein Qualitätsmanagementsystem (QMS) ist ein System zur Erreichung und Verbesserung von Qualität.",
+      "Ein Qualitätsmanagementsystem (QMS) ist ein Softwaretool für die Projektdokumentation.",
+      "Ein Qualitätsmanagementsystem (QMS) ist eine Abteilung für die Endkontrolle von Produkten.",
+      "Ein Qualitätsmanagementsystem (QMS) ist ein System zur Verwaltung von Kundenanfragen."
     ],
     "hint": "Prozesse, nicht nur Kontrolle.",
     "explanation": "QMS steuert Qualität unternehmensweit."
   },
   {
     "question": "Was bedeutet das Akronym 'QM'?",
-    "answer": "QM steht für Qualitätsmanagement.",
+    "answer": "Das Akronym 'QM' steht für Qualitätsmanagement.",
     "options": [
-      "QM steht für Qualitätsmanagement.",
-      "QM steht für Quantitätsmanagement.",
-      "QM steht für Qualifikationsmatrix.",
-      "QM steht für Qualitätsmessung."
+      "Das Akronym 'QM' steht für Qualitätsmanagement.",
+      "Das Akronym 'QM' steht für Quantitätsmanagement.",
+      "Das Akronym 'QM' steht für Qualifikationsmatrix.",
+      "Das Akronym 'QM' steht für Qualitätsmessung."
     ],
     "hint": "Beginnt mit 'Qualitäts-'.",
     "explanation": "QM umfasst alle qualitätsbezogenen Tätigkeiten."
   },
   {
     "question": "Was sind betriebliche QM-Systeme?",
-    "answer": "Strukturen und Prozesse zur Umsetzung von Qualitätsmanagement.",
+    "answer": "Betriebliche QM-Systeme sind Strukturen und Prozesse zur Umsetzung von Qualitätsmanagement.",
     "options": [
-      "Strukturen und Prozesse zur Umsetzung von Qualitätsmanagement.",
-      "Softwarelösungen für die Produktionsplanung.",
-      "Teams, die ausschließlich für Audits zuständig sind.",
-      "Richtlinien für die Mitarbeiterführung."
+      "Betriebliche QM-Systeme sind Strukturen und Prozesse zur Umsetzung von Qualitätsmanagement.",
+      "Betriebliche QM-Systeme sind Softwarelösungen für die Produktionsplanung im Unternehmen.",
+      "Betriebliche QM-Systeme sind Teams, die ausschließlich für Audits im Unternehmen zuständig sind.",
+      "Betriebliche QM-Systeme sind Richtlinien für die Mitarbeiterführung im Unternehmen."
     ],
     "hint": "Konkrete Umsetzung im Betrieb.",
     "explanation": "QM-Systeme integrieren Qualität in Abläufe."
   },
   {
     "question": "Was sind die Hauptbestandteile eines betrieblichen QM-Systems?",
-    "answer": "Strukturen, Verfahren, Prozesse und Ressourcen.",
+    "answer": "Die Hauptbestandteile eines betrieblichen QM-Systems sind Strukturen, Verfahren, Prozesse und Ressourcen.",
     "options": [
-      "Strukturen, Verfahren, Prozesse und Ressourcen.",
-      "Teams, Software und Budgetpläne.",
-      "Audits, Berichte und Zertifikate.",
-      "Marketingstrategien und Kundenfeedback."
+      "Die Hauptbestandteile eines betrieblichen QM-Systems sind Strukturen, Verfahren, Prozesse und Ressourcen.",
+      "Die Hauptbestandteile eines betrieblichen QM-Systems sind Teams, Software und Budgetpläne.",
+      "Die Hauptbestandteile eines betrieblichen QM-Systems sind Audits, Berichte und Zertifikate.",
+      "Die Hauptbestandteile eines betrieblichen QM-Systems sind Marketingstrategien und Kundenfeedback."
     ],
     "hint": "Organisatorische und ausführende Elemente.",
     "explanation": "Diese Elemente bilden ein effektives QMS."
   },
   {
     "question": "Was ist der Unterschied zwischen Qualitätskontrolle und Qualitätsmanagement?",
-    "answer": "Qualitätskontrolle prüft Endprodukte, Qualitätsmanagement verbessert Prozesse.",
+    "answer": "Qualitätskontrolle prüft Endprodukte, während Qualitätsmanagement Prozesse verbessert.",
     "options": [
-      "Qualitätskontrolle prüft Endprodukte, Qualitätsmanagement verbessert Prozesse.",
-      "Qualitätskontrolle steuert Prozesse, Qualitätsmanagement Produkte.",
-      "Qualitätskontrolle ist proaktiv, Qualitätsmanagement reaktiv.",
-      "Qualitätskontrolle ist für Audits, Qualitätsmanagement für Dokumentation."
+      "Qualitätskontrolle prüft Endprodukte, während Qualitätsmanagement Prozesse verbessert.",
+      "Qualitätskontrolle steuert Prozesse, während Qualitätsmanagement Produkte prüft.",
+      "Qualitätskontrolle ist proaktiv, während Qualitätsmanagement reaktiv ist.",
+      "Qualitätskontrolle ist für Audits, während Qualitätsmanagement für Dokumentation ist."
     ],
     "hint": "Kontrolle ist reaktiv, Management proaktiv.",
     "explanation": "QC ist ein Teilbereich von QM."
   },
   {
     "question": "Was sind QS-Normen?",
-    "answer": "Standards für Qualitätsanforderungen an Produkte und Prozesse.",
+    "answer": "QS-Normen sind Standards für Qualitätsanforderungen an Produkte und Prozesse.",
     "options": [
-      "Standards für Qualitätsanforderungen an Produkte und Prozesse.",
-      "Richtlinien für Umweltverträglichkeit von Produkten.",
-      "Vorgaben für Teamzusammenstellung in Projekten.",
-      "Regeln für die Finanzierung von Unternehmen."
+      "QS-Normen sind Standards für Qualitätsanforderungen an Produkte und Prozesse.",
+      "QS-Normen sind Richtlinien für Umweltverträglichkeit von Produkten im Unternehmen.",
+      "QS-Normen sind Vorgaben für die Teamzusammenstellung in Projekten.",
+      "QS-Normen sind Regeln für die Finanzierung von Unternehmen und Projekten."
     ],
     "hint": "QS steht für Qualitätssicherung.",
     "explanation": "Normen machen Qualität vergleichbar."
   },
   {
     "question": "Nenne ein Beispiel für eine bekannte QS-Norm.",
-    "answer": "ISO 9001, ISO 14001, ISO/TS 16949 (Automobilindustrie).",
+    "answer": "Beispiele für QS-Normen sind ISO 9001, ISO 14001 und ISO/TS 16949 (Automobilindustrie).",
     "options": [
-      "ISO 9001, ISO 14001, ISO/TS 16949 (Automobilindustrie).",
-      "ISO 27001 für Informationssicherheit.",
-      "DIN EN 45001 für Arbeitssicherheit.",
-      "ISO 50001 für Energiemanagement."
+      "Beispiele für QS-Normen sind ISO 9001, ISO 14001 und ISO/TS 16949 (Automobilindustrie).",
+      "Beispiele für QS-Normen sind ISO 27001 für Informationssicherheit im Unternehmen.",
+      "Beispiele für QS-Normen sind DIN EN 45001 für Arbeitssicherheit im Unternehmen.",
+      "Beispiele für QS-Normen sind ISO 50001 für Energiemanagement im Unternehmen."
     ],
     "hint": "ISO 9001 ist die bekannteste.",
     "explanation": "ISO 9001 ist der Standard für QMS."
