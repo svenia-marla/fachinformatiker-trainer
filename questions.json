@@ -1198,6 +1198,2587 @@
     "Ein Proxy-Tunnel.",
     "Ein Cloud-Server."
   ]
+},
+{
+    "question": "Was ist der Zweck einer Subnetzmaske?",
+    "answer": "Sie trennt Netz-ID und Host-ID in einer IP-Adresse.",
+    "hint": "Ohne sie gäbe es im Netzwerk ein einziges großes Durcheinander.",
+    "explanation": "Die Subnetzmaske bestimmt, welcher Teil der IP-Adresse das Netzwerk beschreibt und welcher den Host.",
+    "options": [
+      "Sie trennt Netz-ID und Host-ID in einer IP-Adresse.",
+      "Sie speichert Passwörter verschlüsselt.",
+      "Sie regelt die WLAN-Reichweite.",
+      "Sie dient zur Firewall-Konfiguration."
+    ]
+  },
+  {
+    "question": "Was ist ein Bootloader?",
+    "answer": "Ein Programm, das das Betriebssystem beim Starten lädt.",
+    "hint": "Ohne ihn bleibt dein Bildschirm schwarz.",
+    "explanation": "Der Bootloader ist für das Laden und Starten des Betriebssystems verantwortlich.",
+    "options": [
+      "Ein Programm, das das Betriebssystem beim Starten lädt.",
+      "Ein Netzwerkprotokoll.",
+      "Ein Modul zur Datenverschlüsselung.",
+      "Ein Cloud-Synchronisationsdienst."
+    ]
+  },
+  {
+    "question": "Was bedeutet 'Plug and Play' bei Hardwarekomponenten?",
+    "answer": "Die automatische Erkennung und Konfiguration neuer Geräte.",
+    "hint": "Dein USB-Stick liebt dieses Feature.",
+    "explanation": "'Plug and Play' ermöglicht es, Hardware anzuschließen, ohne manuelle Konfiguration.",
+    "options": [
+      "Die automatische Erkennung und Konfiguration neuer Geräte.",
+      "Das gleichzeitige Nutzen von zwei Monitoren.",
+      "Die Wiedergabe von Videos im Netzwerk.",
+      "Ein Verschlüsselungsverfahren für USB-Sticks."
+    ]
+  },
+  {
+    "question": "Wofür steht das Dateisystem 'NTFS'?",
+    "answer": "New Technology File System.",
+    "hint": "Windows' Lieblings-Dateisystem.",
+    "explanation": "NTFS ist ein modernes Dateisystem mit Unterstützung für Berechtigungen, Komprimierung und große Dateien.",
+    "options": [
+      "New Technology File System.",
+      "Network Transfer File Setup.",
+      "Node Tracking File Scheme.",
+      "Net-Type Format Standard."
+    ]
+  },
+  {
+    "question": "Was ist ein Symlink in Linux?",
+    "answer": "Eine Verknüpfung zu einer Datei oder einem Verzeichnis.",
+    "hint": "Wie ein Shortcut, aber nerdiger.",
+    "explanation": "Ein Symlink verweist symbolisch auf eine andere Datei oder ein Verzeichnis, ohne Daten zu duplizieren.",
+    "options": [
+      "Eine Verknüpfung zu einer Datei oder einem Verzeichnis.",
+      "Ein Benutzerprofil.",
+      "Ein Speicherort für Systemlogs.",
+      "Ein spezieller Kernel-Modus."
+    ]
+  },
+  
+  {
+    "question": "Was ist ein Cronjob unter Linux?",
+    "answer": "Ein geplanter Task, der automatisch zu festgelegten Zeiten ausgeführt wird.",
+    "hint": "Automatisierung ist der Kaffee der Admins.",
+    "explanation": "Cronjobs ermöglichen es, Skripte oder Programme regelmäßig automatisch auszuführen.",
+    "options": [
+      "Ein geplanter Task, der automatisch zu festgelegten Zeiten ausgeführt wird.",
+      "Ein einmaliger Boot-Befehl.",
+      "Ein Backup-Modul.",
+      "Ein Kernel-Treiber."
+    ]
+  },
+  {
+    "question": "Was ist ein Hashwert?",
+    "answer": "Eine eindeutige Zeichenkette, die aus Daten berechnet wird.",
+    "hint": "Ideal, wenn du wissen willst, ob sich was geändert hat.",
+    "explanation": "Ein Hashwert ist das Ergebnis einer Hashfunktion und wird z. B. zur Integritätsprüfung verwendet.",
+    "options": [
+      "Eine eindeutige Zeichenkette, die aus Daten berechnet wird.",
+      "Ein Datenspeicher für Passwörter.",
+      "Ein kryptografischer Schlüssel.",
+      "Ein Protokoll zur Dateifreigabe."
+    ]
+  },
+  {
+    "question": "Was ist das Ziel von Social Engineering?",
+    "answer": "Menschen zu manipulieren, um an vertrauliche Informationen zu gelangen.",
+    "hint": "Nicht alle Angriffe kommen über das Netzwerk.",
+    "explanation": "Social Engineering nutzt psychologische Tricks, um Sicherheitsmechanismen zu umgehen.",
+    "options": [
+      "Menschen zu manipulieren, um an vertrauliche Informationen zu gelangen.",
+      "Ein System mit Malware zu infizieren.",
+      "Dateien über FTP zu stehlen.",
+      "Backups zu beschädigen."
+    ]
+  },
+  {
+    "question": "Was beschreibt die 3-2-1 Backup-Regel?",
+    "answer": "3 Kopien, 2 unterschiedliche Medien, 1 davon extern gelagert.",
+    "hint": "Weil ein Backup nicht reicht. Und zwei auch nicht.",
+    "explanation": "Diese Regel sorgt für Redundanz und erhöht die Sicherheit vor Datenverlust.",
+    "options": [
+      "3 Kopien, 2 unterschiedliche Medien, 1 davon extern gelagert.",
+      "3 Backups täglich, 2 auf USB, 1 auf Papier.",
+      "3 Server, 2 Benutzer, 1 Passwort.",
+      "3 Clouds, 2 PCs, 1 NAS."
+    ]
+  },
+  {
+    "question": "Was macht ein IDS-System?",
+    "answer": "Es erkennt Angriffe auf ein Netzwerk oder System.",
+    "hint": "Es sieht, wenn jemand zu viel schnüffelt.",
+    "explanation": "Ein Intrusion Detection System überwacht den Netzwerkverkehr auf verdächtige Aktivitäten.",
+    "options": [
+      "Es erkennt Angriffe auf ein Netzwerk oder System.",
+      "Es verschlüsselt Daten auf der Festplatte.",
+      "Es erstellt täglich Backups.",
+      "Es überprüft die Druckerwarteschlange."
+    ]
+  },
+  {
+    "question": "Was ist der Unterschied zwischen IMAP und POP3?",
+    "answer": "IMAP speichert E-Mails auf dem Server, POP3 lädt sie herunter.",
+    "hint": "Willst du deine Mails überall oder nur lokal?",
+    "explanation": "IMAP erlaubt Zugriff von mehreren Geräten, POP3 lädt E-Mails einmalig herunter.",
+    "options": [
+      "IMAP speichert E-Mails auf dem Server, POP3 lädt sie herunter.",
+      "POP3 verschlüsselt, IMAP nicht.",
+      "POP3 ist schneller als IMAP.",
+      "IMAP löscht E-Mails automatisch nach dem Lesen."
+    ]
+  },
+  {
+    "question": "Was ist ein Softlink in Linux?",
+    "answer": "Eine symbolische Verknüpfung zu einer Datei oder einem Verzeichnis.",
+    "hint": "Sieht echt aus, ist aber nur ein Zeiger.",
+    "explanation": "Softlinks verweisen symbolisch auf ein Ziel, ähnlich wie Shortcuts unter Windows.",
+    "options": [
+      "Eine symbolische Verknüpfung zu einer Datei oder einem Verzeichnis.",
+      "Eine Partition mit geringer Lesegeschwindigkeit.",
+      "Ein spezielles Dateisystem.",
+      "Ein Linux-Prozess für Updates."
+    ]
+  },
+  {
+    "question": "Was ist ein digitales Zertifikat?",
+    "answer": "Ein Nachweis der Identität in der digitalen Kommunikation.",
+    "hint": "Wie ein Ausweis im Internet.",
+    "explanation": "Digitale Zertifikate bestätigen die Identität von Webseiten oder Diensten und ermöglichen verschlüsselte Kommunikation.",
+    "options": [
+      "Ein Nachweis der Identität in der digitalen Kommunikation.",
+      "Ein Sicherheitspatch für SSL.",
+      "Ein BIOS-Update.",
+      "Ein Komprimierungsalgorithmus."
+    ]
+  },
+  {
+    "question": "Was beschreibt der Begriff 'Phishing'?",
+    "answer": "Das Erschleichen sensibler Daten durch gefälschte Nachrichten.",
+    "hint": "Kein Fisch, aber trotzdem ein Haken.",
+    "explanation": "Phishing ist eine Betrugsmethode, bei der z.B. per E-Mail Zugangsdaten abgegriffen werden.",
+    "options": [
+      "Das Erschleichen sensibler Daten durch gefälschte Nachrichten.",
+      "Die Überwachung von Netzwerkverkehr.",
+      "Das gezielte Löschen von Backups.",
+      "Ein Update für Firewalls."
+    ]
+  },
+  {
+    "question": "Was ist ein Container (z.B. Docker)?",
+    "answer": "Eine isolierte Umgebung zur Ausführung von Anwendungen.",
+    "hint": "Kein echter Container – der digitale Typ.",
+    "explanation": "Container bieten eine leichtgewichtige Virtualisierung und enthalten alle benötigten Abhängigkeiten einer App.",
+    "options": [
+      "Eine isolierte Umgebung zur Ausführung von Anwendungen.",
+      "Ein Backup-System.",
+      "Ein Linux-Kernel.",
+      "Ein BIOS-Tool."
+    ]
+  },
+  {
+  "question": "Was ist ein Blue Screen of Death (BSOD)?",
+  "answer": "Ein kritischer Systemfehler unter Windows.",
+  "hint": "Wenn dein PC plötzlich blau wird – nicht vor Freude.",
+  "explanation": "Ein BSOD zeigt an, dass Windows aufgrund eines schwerwiegenden Fehlers nicht weiterarbeiten kann.",
+  "options": [
+    "Ein kritischer Systemfehler unter Windows.",
+    "Ein Hintergrundbild.",
+    "Ein Startmenü für Administratoren.",
+    "Ein BIOS-Konfigurationsmodus."
+  ]
+},
+{
+  "question": "Was ist der Zweck eines Recovery-Partitions?",
+  "answer": "Sie ermöglicht die Wiederherstellung des Systems.",
+  "hint": "Rettungsboot für dein kaputtes Windows.",
+  "explanation": "Eine Recovery-Partition enthält die Tools und Daten zur Wiederherstellung des Betriebssystems.",
+  "options": [
+    "Sie ermöglicht die Wiederherstellung des Systems.",
+    "Sie speichert Musikdateien.",
+    "Sie beschleunigt die Bootzeit.",
+    "Sie enthält Benutzerdaten."
+  ]
+},
+{
+  "question": "Was ist eine Root-Partition?",
+  "answer": "Die Hauptpartition, auf der Linux installiert ist.",
+  "hint": "Ohne sie startet nix.",
+  "explanation": "Die Root-Partition (/) ist das Herzstück eines Linux-Systems, auf ihr liegt das gesamte Dateisystem.",
+  "options": [
+    "Die Hauptpartition, auf der Linux installiert ist.",
+    "Eine versteckte Boot-Partition.",
+    "Eine Swap-Datei.",
+    "Ein temporärer Backup-Speicher."
+  ]
+},
+{
+  "question": "Was ist ein Token-Based Authentication System?",
+  "answer": "Ein System, das Authentifizierung über zeitlich begrenzte Schlüssel durchführt.",
+  "hint": "Sowas wie ein Einlassbändchen, aber für Netzwerke.",
+  "explanation": "Token-basierte Systeme wie JWT geben einem Benutzer temporäre Zugriffsrechte.",
+  "options": [
+    "Ein System, das Authentifizierung über zeitlich begrenzte Schlüssel durchführt.",
+    "Ein physischer USB-Sicherheitsschlüssel.",
+    "Ein Zwei-Faktor-System über SMS.",
+    "Ein VPN-Protokoll."
+  ]
+},
+{
+  "question": "Was ist ein Kernel?",
+  "answer": "Der zentrale Bestandteil eines Betriebssystems.",
+  "hint": "Er redet direkt mit der Hardware.",
+  "explanation": "Der Kernel ist die Schnittstelle zwischen Hardware und Software und steuert grundlegende Systemfunktionen.",
+  "options": [
+    "Der zentrale Bestandteil eines Betriebssystems.",
+    "Ein Startbildschirm.",
+    "Ein Benutzerinterface.",
+    "Ein Verschlüsselungsprotokoll."
+  ]
+},
+{
+  "question": "Was ist ein Patch-Management-System?",
+  "answer": "Ein System zur Verwaltung und Verteilung von Software-Updates.",
+  "hint": "Gegen Sicherheitslücken und Admin-Albträume.",
+  "explanation": "Patch-Management-Systeme automatisieren das Einspielen von Updates auf mehreren Systemen.",
+  "options": [
+    "Ein System zur Verwaltung und Verteilung von Software-Updates.",
+    "Ein Backup-System für BIOS-Daten.",
+    "Ein Netzwerkprotokoll zur Datenübertragung.",
+    "Ein Mechanismus zur Authentifizierung."
+  ]
+},
+{
+  "question": "Was bedeutet der Begriff BYOD?",
+  "answer": "Bring Your Own Device.",
+  "hint": "Das Gegenteil von Firmenlaptoppflicht.",
+  "explanation": "BYOD bezeichnet das Konzept, private Geräte im Unternehmensnetzwerk zu nutzen.",
+  "options": [
+    "Bring Your Own Device.",
+    "Build Your Own Domain.",
+    "Block Your Online Downloads.",
+    "Back You Out Daily."
+  ]
+},
+{
+  "question": "Was ist ein Man-in-the-Middle-Angriff?",
+  "answer": "Ein Angriff, bei dem Daten zwischen zwei Parteien abgefangen werden.",
+  "hint": "Jemand liest mit – ungebeten.",
+  "explanation": "Der Angreifer schaltet sich zwischen zwei Kommunikationspartner und liest oder manipuliert die Daten.",
+  "options": [
+    "Ein Angriff, bei dem Daten zwischen zwei Parteien abgefangen werden.",
+    "Ein Angriff auf das Dateisystem.",
+    "Ein physischer Zugriff auf den Router.",
+    "Ein Fehler in der Firewall-Konfiguration."
+  ]
+},
+{
+  "question": "Was ist ein Zero-Day-Exploit?",
+  "answer": "Ein Angriff, der eine bislang unbekannte Sicherheitslücke ausnutzt.",
+  "hint": "Kein Patch, keine Gnade.",
+  "explanation": "Ein Zero-Day-Exploit nutzt eine Sicherheitslücke, bevor ein Patch verfügbar ist.",
+  "options": [
+    "Ein Angriff, der eine bislang unbekannte Sicherheitslücke ausnutzt.",
+    "Ein veraltetes Verschlüsselungsprotokoll.",
+    "Ein Tool zur Netzwerkdiagnose.",
+    "Ein BIOS-Fehler bei AMD-Prozessoren."
+  ]
+},
+{
+  "question": "Was ist ein UEFI?",
+  "answer": "Ein moderner Ersatz für das klassische BIOS.",
+  "hint": "Mehr GUI, mehr Funktionen, gleiche Boot-Schmerzen.",
+  "explanation": "UEFI ist eine Firmware-Schnittstelle mit erweiterten Funktionen und besserer Unterstützung für große Laufwerke.",
+  "options": [
+    "Ein moderner Ersatz für das klassische BIOS.",
+    "Ein neues Netzwerkprotokoll.",
+    "Ein Dateisystem für USB-Sticks.",
+    "Ein Cloud-Dienst von Microsoft."
+  ]
+},
+  {
+    "question": "Was ist der Zweck einer Subnetzmaske?",
+    "answer": "Sie trennt Netz-ID und Host-ID in einer IP-Adresse.",
+    "hint": "Ohne sie gäbe es im Netzwerk ein einziges großes Durcheinander.",
+    "explanation": "Die Subnetzmaske bestimmt, welcher Teil der IP-Adresse das Netzwerk beschreibt und welcher den Host.",
+    "options": [
+      "Sie trennt Netz-ID und Host-ID in einer IP-Adresse.",
+      "Sie speichert Passwörter verschlüsselt.",
+      "Sie regelt die WLAN-Reichweite.",
+      "Sie dient zur Firewall-Konfiguration."
+    ]
+  },
+  {
+    "question": "Was ist ein Bootloader?",
+    "answer": "Ein Programm, das das Betriebssystem beim Starten lädt.",
+    "hint": "Ohne ihn bleibt dein Bildschirm schwarz.",
+    "explanation": "Der Bootloader ist für das Laden und Starten des Betriebssystems verantwortlich.",
+    "options": [
+      "Ein Programm, das das Betriebssystem beim Starten lädt.",
+      "Ein Netzwerkprotokoll.",
+      "Ein Modul zur Datenverschlüsselung.",
+      "Ein Cloud-Synchronisationsdienst."
+    ]
+  },
+  {
+    "question": "Was bedeutet 'Plug and Play' bei Hardwarekomponenten?",
+    "answer": "Die automatische Erkennung und Konfiguration neuer Geräte.",
+    "hint": "Dein USB-Stick liebt dieses Feature.",
+    "explanation": "'Plug and Play' ermöglicht es, Hardware anzuschließen, ohne manuelle Konfiguration.",
+    "options": [
+      "Die automatische Erkennung und Konfiguration neuer Geräte.",
+      "Das gleichzeitige Nutzen von zwei Monitoren.",
+      "Die Wiedergabe von Videos im Netzwerk.",
+      "Ein Verschlüsselungsverfahren für USB-Sticks."
+    ]
+  },
+  {
+    "question": "Wofür steht das Dateisystem 'NTFS'?",
+    "answer": "New Technology File System.",
+    "hint": "Windows' Lieblings-Dateisystem.",
+    "explanation": "NTFS ist ein modernes Dateisystem mit Unterstützung für Berechtigungen, Komprimierung und große Dateien.",
+    "options": [
+      "New Technology File System.",
+      "Network Transfer File Setup.",
+      "Node Tracking File Scheme.",
+      "Net-Type Format Standard."
+    ]
+  },
+  {
+    "question": "Was ist ein Symlink in Linux?",
+    "answer": "Eine Verknüpfung zu einer Datei oder einem Verzeichnis.",
+    "hint": "Wie ein Shortcut, aber nerdiger.",
+    "explanation": "Ein Symlink verweist symbolisch auf eine andere Datei oder ein Verzeichnis, ohne Daten zu duplizieren.",
+    "options": [
+      "Eine Verknüpfung zu einer Datei oder einem Verzeichnis.",
+      "Ein Benutzerprofil.",
+      "Ein Speicherort für Systemlogs.",
+      "Ein spezieller Kernel-Modus."
+    ]
+  },
+  {
+  "question": "Was bedeutet LTS bei Softwareversionen?",
+  "answer": "Long Term Support.",
+  "hint": "Steht für stabile Version mit langem Support.",
+  "explanation": "LTS-Versionen werden über mehrere Jahre mit Updates versorgt.",
+  "options": [
+    "Long Term Support.",
+    "Last Tested Software.",
+    "Local Time Synchronization.",
+    "Logical Transfer System."
+  ]
+},
+{
+  "question": "Was macht der Befehl 'ipconfig' unter Windows?",
+  "answer": "Zeigt die Netzwerkkonfiguration an.",
+  "hint": "Wenn du wissen willst, wer du im Netzwerk bist.",
+  "explanation": "'ipconfig' zeigt Informationen zu IP-Adresse, Subnetz und Gateway.",
+  "options": [
+    "Zeigt die Netzwerkkonfiguration an.",
+    "Startet einen Netzwerkdienst.",
+    "Löscht gespeicherte Passwörter.",
+    "Aktualisiert den DNS-Server."
+  ]
+},
+{
+  "question": "Was ist ein DNS-Cache?",
+  "answer": "Ein Zwischenspeicher für aufgelöste Domainnamen.",
+  "hint": "Speichert, wohin du willst – damit es schneller geht.",
+  "explanation": "Der DNS-Cache verhindert wiederholte DNS-Abfragen und beschleunigt den Zugriff.",
+  "options": [
+    "Ein Zwischenspeicher für aufgelöste Domainnamen.",
+    "Ein Backup von Serverdaten.",
+    "Ein Spamfilter.",
+    "Ein BIOS-Protokollspeicher."
+  ]
+},
+{
+  "question": "Was bedeutet der Linux-Befehl 'ls'?",
+  "answer": "Listet Dateien und Verzeichnisse auf.",
+  "hint": "Der Klassiker unter den Terminal-Kommandos.",
+  "explanation": "'ls' zeigt den Inhalt des aktuellen Verzeichnisses an.",
+  "options": [
+    "Listet Dateien und Verzeichnisse auf.",
+    "Löscht ein Verzeichnis.",
+    "Startet den Netzwerkdienst.",
+    "Installiert Pakete."
+  ]
+},
+{
+  "question": "Was ist ein Dateisystem?",
+  "answer": "Eine Struktur zur Organisation von Daten auf Speichermedien.",
+  "hint": "Ohne es: nur Bit-Chaos.",
+  "explanation": "Ein Dateisystem definiert, wie Daten gespeichert, gelesen und verwaltet werden.",
+  "options": [
+    "Eine Struktur zur Organisation von Daten auf Speichermedien.",
+    "Ein Protokoll zur Datenübertragung.",
+    "Ein Backup-Skript.",
+    "Ein Treiber für Grafikkarten."
+  ]
+},
+{
+  "question": "Was macht ein Paketfilter?",
+  "answer": "Er kontrolliert den Datenverkehr basierend auf Regeln.",
+  "hint": "Der Türsteher der Netzwerkschicht.",
+  "explanation": "Paketfilter werden z. B. in Firewalls verwendet, um unerwünschten Verkehr zu blockieren.",
+  "options": [
+    "Er kontrolliert den Datenverkehr basierend auf Regeln.",
+    "Er komprimiert Dateien.",
+    "Er analysiert DNS-Abfragen.",
+    "Er installiert Zertifikate."
+  ]
+},
+{
+  "question": "Was ist ein Syslog-Server?",
+  "answer": "Ein Server zum Sammeln von Logmeldungen.",
+  "hint": "Er weiß, was passiert – sogar mehr als du.",
+  "explanation": "Syslog sammelt und speichert Systemmeldungen zentral für Analyse und Überwachung.",
+  "options": [
+    "Ein Server zum Sammeln von Logmeldungen.",
+    "Ein Zeitserver.",
+    "Ein Passwort-Manager.",
+    "Ein DHCP-Modul."
+  ]
+},
+{
+  "question": "Was ist ein Rootkit?",
+  "answer": "Eine versteckte Software zur Kontrolle über ein System.",
+  "hint": "Wenn Malware Admin spielt.",
+  "explanation": "Rootkits verbergen ihre Existenz und ermöglichen unautorisierten Zugriff.",
+  "options": [
+    "Eine versteckte Software zur Kontrolle über ein System.",
+    "Ein Backup-System.",
+    "Ein Festplattenmanager.",
+    "Ein Installationsassistent."
+  ]
+},
+{
+  "question": "Was bedeutet Virtualisierung?",
+  "answer": "Das Erstellen virtueller Maschinen auf physischer Hardware.",
+  "hint": "Wie Matrix, aber mit Servern.",
+  "explanation": "Virtualisierung trennt Betriebssysteme von physischer Hardware.",
+  "options": [
+    "Das Erstellen virtueller Maschinen auf physischer Hardware.",
+    "Die Verschlüsselung von Daten.",
+    "Die Wiederherstellung von Systemen.",
+    "Die Trennung von WLAN-Netzwerken."
+  ]
+},
+{
+  "question": "Was ist ein Symbolic Link?",
+  "answer": "Ein Verweis auf eine andere Datei oder ein Verzeichnis.",
+  "hint": "Er zeigt nur den Weg.",
+  "explanation": "Symbolische Links sind wie Shortcuts zu Dateien oder Ordnern.",
+  "options": [
+    "Ein Verweis auf eine andere Datei oder ein Verzeichnis.",
+    "Ein Backup-Dateityp.",
+    "Ein BIOS-Modul.",
+    "Ein Kernel-Update."
+  ]
+},
+{
+  "question": "Was ist 'ping'?",
+  "answer": "Ein Befehl zur Überprüfung der Erreichbarkeit eines Hosts.",
+  "hint": "Der Klassiker für „Hallo, bist du da?“",
+  "explanation": "'ping' sendet ICMP-Pakete, um Verbindungsstatus zu prüfen.",
+  "options": [
+    "Ein Befehl zur Überprüfung der Erreichbarkeit eines Hosts.",
+    "Ein Kommando zum Löschen von Logs.",
+    "Ein Sicherheitszertifikat.",
+    "Ein CPU-Manager."
+  ]
+},
+{
+  "question": "Was bedeutet GUI?",
+  "answer": "Graphical User Interface.",
+  "hint": "Wenn du lieber klickst als tippst.",
+  "explanation": "Eine GUI ist eine grafische Benutzeroberfläche für Programme.",
+  "options": [
+    "Graphical User Interface.",
+    "General Unix Interface.",
+    "Global Update Interface.",
+    "Group User Integration."
+  ]
+},
+{
+  "question": "Was ist ein Bootsektor?",
+  "answer": "Ein Bereich einer Festplatte zum Starten eines Betriebssystems.",
+  "hint": "Da beginnt alles – oder gar nichts.",
+  "explanation": "Der Bootsektor enthält Startinformationen für das Betriebssystem.",
+  "options": [
+    "Ein Bereich einer Festplatte zum Starten eines Betriebssystems.",
+    "Ein Antivirus-Speicher.",
+    "Ein Teil der Registry.",
+    "Ein Monitor-Anschluss."
+  ]
+},
+{
+  "question": "Was macht der Befehl 'mkdir'?",
+  "answer": "Er erstellt ein neues Verzeichnis.",
+  "hint": "Braucht man, wenn man aufräumen will.",
+  "explanation": "'mkdir' steht für 'make directory'.",
+  "options": [
+    "Er erstellt ein neues Verzeichnis.",
+    "Er löscht Dateien.",
+    "Er installiert Software.",
+    "Er gibt Speicherplatz frei."
+  ]
+},
+{
+  "question": "Was ist eine ISO-Datei?",
+  "answer": "Ein Abbild eines Datenträgers.",
+  "hint": "Wie eine CD, nur digital und runder.",
+  "explanation": "ISO-Dateien enthalten das komplette Dateisystem eines Mediums.",
+  "options": [
+    "Ein Abbild eines Datenträgers.",
+    "Ein Backup-Protokoll.",
+    "Ein Audioformat.",
+    "Ein Systemtreiber."
+  ]
+},
+{
+  "question": "Was ist ein Session Cookie?",
+  "answer": "Ein Cookie, das beim Schließen des Browsers gelöscht wird.",
+  "hint": "Kurzlebiger als dein Konzentrationsvermögen.",
+  "explanation": "Session Cookies speichern temporäre Daten für eine Sitzung.",
+  "options": [
+    "Ein Cookie, das beim Schließen des Browsers gelöscht wird.",
+    "Ein dauerhafter Cookie.",
+    "Ein Tracking-Modul.",
+    "Ein BIOS-Puffer."
+  ]
+},
+{
+  "question": "Was ist ein Hostname?",
+  "answer": "Der Name eines Geräts im Netzwerk.",
+  "hint": "Wie ein Namensschild – nur für Computer.",
+  "explanation": "Der Hostname identifiziert ein Gerät im Netzwerk eindeutig.",
+  "options": [
+    "Der Name eines Geräts im Netzwerk.",
+    "Die IP-Adresse des Gateways.",
+    "Ein DNS-Eintragstyp.",
+    "Ein Typ von Webserver."
+  ]
+},
+{
+  "question": "Was ist ein RPM-Paket?",
+  "answer": "Ein Paketformat für Linux-Distributionen wie Red Hat.",
+  "hint": "Nicht das vom Auto. Leider.",
+  "explanation": "RPM (Red Hat Package Manager) wird zur Softwareinstallation verwendet.",
+  "options": [
+    "Ein Paketformat für Linux-Distributionen wie Red Hat.",
+    "Ein BIOS-Tool.",
+    "Ein Backup-Modul.",
+    "Ein Dateisystem."
+  ]
+},
+{
+  "question": "Was ist ein Secure Boot?",
+  "answer": "Ein Mechanismus zum Schutz vor Rootkits beim Start.",
+  "hint": "Der digitale Türsteher beim Hochfahren.",
+  "explanation": "Secure Boot prüft die Signaturen von Bootloadern und verhindert manipulierte Starts.",
+  "options": [
+    "Ein Mechanismus zum Schutz vor Rootkits beim Start.",
+    "Ein BIOS-Update.",
+    "Ein Softwareinstaller.",
+    "Ein Benutzerprofil."
+  ]
+},
+{
+  "question": "Was ist ein Failover-System?",
+  "answer": "Ein System, das bei Ausfall automatisch übernimmt.",
+  "hint": "Plan B, wenn Plan A stirbt.",
+  "explanation": "Failover erhöht Verfügbarkeit durch Redundanz.",
+  "options": [
+    "Ein System, das bei Ausfall automatisch übernimmt.",
+    "Ein Firewall-Filter.",
+    "Ein Zertifikatstyp.",
+    "Ein BIOS-Profil."
+  ]
+},
+{
+  "question": "Was bedeutet der Linux-Befehl 'sudo'?",
+  "answer": "Er führt Befehle mit Administratorrechten aus.",
+  "hint": "Wenn der normale User zu machtlos ist.",
+  "explanation": "Mit 'sudo' kann ein Nutzer temporär Root-Rechte erhalten.",
+  "options": [
+    "Er führt Befehle mit Administratorrechten aus.",
+    "Er löscht Benutzerkonten.",
+    "Er verschlüsselt Verzeichnisse.",
+    "Er startet ein Backup."
+  ]
+},
+{
+  "question": "Was ist ein Container-Image?",
+  "answer": "Eine Vorlage für die Erstellung eines Containers.",
+  "hint": "Sozusagen das Kochrezept.",
+  "explanation": "Ein Image enthält den vollständigen Zustand eines Containers zu einem bestimmten Zeitpunkt.",
+  "options": [
+    "Eine Vorlage für die Erstellung eines Containers.",
+    "Ein Screenshot eines Containers.",
+    "Ein Sicherheitszertifikat.",
+    "Ein Datenbankabbild."
+  ]
+},
+{
+  "question": "Was bedeutet RDP?",
+  "answer": "Remote Desktop Protocol.",
+  "hint": "Damit kannst du fremde Rechner sehen – legal.",
+  "explanation": "RDP ermöglicht Fernzugriff auf Desktops über das Netzwerk.",
+  "options": [
+    "Remote Desktop Protocol.",
+    "Remote Data Processing.",
+    "Redundant Data Protocol.",
+    "Registered Device Path."
+  ]
+},
+{
+  "question": "Was ist eine UUID?",
+  "answer": "Eine universell eindeutige Identifikationsnummer.",
+  "hint": "Keine zwei gleich. Wie Schneeflocken.",
+  "explanation": "UUIDs identifizieren Objekte oder Datensätze eindeutig.",
+  "options": [
+    "Eine universell eindeutige Identifikationsnummer.",
+    "Ein Linux-Dateisystem.",
+    "Ein Netzwerkdienst.",
+    "Ein BIOS-Update."
+  ]
+},
+{
+  "question": "Was ist eine Firewallregel?",
+  "answer": "Eine Anweisung zur Kontrolle des Datenverkehrs.",
+  "hint": "Entweder du kommst rein – oder eben nicht.",
+  "explanation": "Firewallregeln bestimmen, welcher Traffic erlaubt oder blockiert wird.",
+  "options": [
+    "Eine Anweisung zur Kontrolle des Datenverkehrs.",
+    "Ein Benutzerkonto.",
+    "Ein Zertifikatsdienst.",
+    "Ein Bootloader-Fehler."
+  ]
+},
+{
+  "question": "Was ist ein Systemdienst?",
+  "answer": "Ein Hintergrundprozess, der Systemfunktionen bereitstellt.",
+  "hint": "Wie ein Butler, aber für dein Betriebssystem.",
+  "explanation": "Systemdienste laufen im Hintergrund und übernehmen Aufgaben wie Updates, Netzwerk oder Logging.",
+  "options": [
+    "Ein Hintergrundprozess, der Systemfunktionen bereitstellt.",
+    "Ein Plug-and-Play-Treiber.",
+    "Ein Kernelmodul für Soundkarten.",
+    "Ein Dateimanager."
+  ]
+},
+{
+  "question": "Was macht ein DHCP-Relay-Agent?",
+  "answer": "Er leitet DHCP-Anfragen an einen entfernten Server weiter.",
+  "hint": "Wenn der Server zu weit weg ist.",
+  "explanation": "Ein Relay-Agent verbindet Clients mit entfernten DHCP-Servern über Subnetze hinweg.",
+  "options": [
+    "Er leitet DHCP-Anfragen an einen entfernten Server weiter.",
+    "Er ersetzt den DHCP-Server.",
+    "Er konfiguriert DNS-Einträge.",
+    "Er speichert IP-Adressen lokal."
+  ]
+},
+{
+  "question": "Was ist ein Spoofing-Angriff?",
+  "answer": "Ein Angriff durch Vortäuschung falscher Identitäten.",
+  "hint": "Fake it till you breach it.",
+  "explanation": "Beim Spoofing täuscht der Angreifer eine andere Quelle vor (z. B. IP, MAC, E-Mail).",
+  "options": [
+    "Ein Angriff durch Vortäuschung falscher Identitäten.",
+    "Ein DDoS-Testlauf.",
+    "Ein Backup-Fehler.",
+    "Ein BIOS-Update mit Fehlern."
+  ]
+},
+{
+  "question": "Was ist ein Mount-Befehl in Linux?",
+  "answer": "Er bindet ein Dateisystem in das Verzeichnisbaum ein.",
+  "hint": "Ohne Mount kein Zugriff.",
+  "explanation": "Mit 'mount' kann man Partitionen oder Laufwerke einhängen.",
+  "options": [
+    "Er bindet ein Dateisystem in das Verzeichnisbaum ein.",
+    "Er verschlüsselt Daten.",
+    "Er zeigt Benutzerrechte an.",
+    "Er startet einen Kernel-Prozess."
+  ]
+},
+{
+  "question": "Was ist ein NAS-System?",
+  "answer": "Ein Netzwerkgerät zur Dateispeicherung und -freigabe.",
+  "hint": "Das Ding, das im Keller vor sich hin summt.",
+  "explanation": "NAS steht für Network Attached Storage und bietet zentralen Speicherplatz im Netzwerk.",
+  "options": [
+    "Ein Netzwerkgerät zur Dateispeicherung und -freigabe.",
+    "Ein Cloud-Dienst für E-Mails.",
+    "Ein Sicherheitszertifikat.",
+    "Ein BIOS-Modul für Lüftersteuerung."
+  ]
+},
+{
+  "question": "Was ist ein Subnetz?",
+  "answer": "Ein Teil eines Netzwerks mit gemeinsamer Netzwerkkennung.",
+  "hint": "Netzwerke in Netzwerken.",
+  "explanation": "Subnetze teilen ein Netzwerk in kleinere Einheiten für bessere Struktur und Sicherheit.",
+  "options": [
+    "Ein Teil eines Netzwerks mit gemeinsamer Netzwerkkennung.",
+    "Ein BIOS-Treiber.",
+    "Ein Benutzerkonto für Root.",
+    "Ein VPN-Dienst."
+  ]
+},
+{
+  "question": "Was ist der Unterschied zwischen RAM und ROM?",
+  "answer": "RAM ist flüchtig, ROM ist dauerhaft.",
+  "hint": "Eins vergisst, eins nicht.",
+  "explanation": "RAM verliert Daten beim Abschalten, ROM behält sie.",
+  "options": [
+    "RAM ist flüchtig, ROM ist dauerhaft.",
+    "RAM ist für Musik, ROM für Videos.",
+    "RAM ist langsamer.",
+    "ROM wird im BIOS gespeichert."
+  ]
+},
+{
+  "question": "Was bedeutet 'chmod 755'?",
+  "answer": "Lesen + Schreiben + Ausführen für den Besitzer, Lesen + Ausführen für andere.",
+  "hint": "Rechtevergabe in Zahlen.",
+  "explanation": "Die Zahlen entsprechen binären Berechtigungen: rwx für User, rx für Gruppe/Andere.",
+  "options": [
+    "Lesen + Schreiben + Ausführen für den Besitzer, Lesen + Ausführen für andere.",
+    "Nur Lesen für alle.",
+    "Nur Ausführen für Admins.",
+    "Löscht das Verzeichnis automatisch."
+  ]
+},
+{
+  "question": "Was ist ein Cluster im IT-Kontext?",
+  "answer": "Ein Verbund mehrerer Computer, die zusammenarbeiten.",
+  "hint": "Viele Rechner, ein Ziel.",
+  "explanation": "Cluster erhöhen Rechenleistung oder Ausfallsicherheit.",
+  "options": [
+    "Ein Verbund mehrerer Computer, die zusammenarbeiten.",
+    "Ein einzelner Supercomputer.",
+    "Ein Protokoll zur Datensicherung.",
+    "Ein BIOS-Profil."
+  ]
+},
+{
+  "question": "Was macht ein SSL-Zertifikat?",
+  "answer": "Es ermöglicht verschlüsselte Verbindungen über HTTPS.",
+  "hint": "Schloss im Browser = gut.",
+  "explanation": "SSL-Zertifikate authentifizieren Webseiten und ermöglichen verschlüsselte Kommunikation.",
+  "options": [
+    "Es ermöglicht verschlüsselte Verbindungen über HTTPS.",
+    "Es prüft DNS-Einträge.",
+    "Es sichert das BIOS.",
+    "Es erstellt Benutzerkonten."
+  ]
+},
+{
+  "question": "Was ist ein Hotfix?",
+  "answer": "Ein schneller Software-Patch zur Behebung kritischer Fehler.",
+  "hint": "Wenn es brennt, kommt der Hotfix.",
+  "explanation": "Hotfixes werden kurzfristig entwickelt und schnell ausgerollt.",
+  "options": [
+    "Ein schneller Software-Patch zur Behebung kritischer Fehler.",
+    "Ein Backup-System.",
+    "Ein BIOS-Werkzeug.",
+    "Ein CPU-Kühler."
+  ]
+},
+{
+  "question": "Was ist ein Load Average?",
+  "answer": "Ein Maß für die Auslastung eines Systems über Zeit.",
+  "hint": "Wie gestresst ist dein Rechner gerade?",
+  "explanation": "Der Load Average zeigt die durchschnittliche Zahl aktiver Prozesse an.",
+  "options": [
+    "Ein Maß für die Auslastung eines Systems über Zeit.",
+    "Ein BIOS-Zähler.",
+    "Ein Netzwerkmonitor.",
+    "Ein RAID-Statusbericht."
+  ]
+},
+{
+  "question": "Was ist ein Watchdog-Timer?",
+  "answer": "Ein Timer, der bei Systemstillstand automatisch einen Neustart auslöst.",
+  "hint": "Der Reboot-Hausmeister.",
+  "explanation": "Watchdogs erkennen Hänger und rebooten Systeme automatisch.",
+  "options": [
+    "Ein Timer, der bei Systemstillstand automatisch einen Neustart auslöst.",
+    "Ein Windows-Dienst für Sound.",
+    "Ein Linux-Kernelmodul zur Paketfilterung.",
+    "Ein BIOS-Log."
+  ]
+},
+{
+  "question": "Was ist ein Hardlink?",
+  "answer": "Ein weiterer Name für dieselbe Datei auf Festplattebene.",
+  "hint": "Zwei Namen, eine Datei.",
+  "explanation": "Hardlinks verweisen direkt auf dieselben Datenblöcke.",
+  "options": [
+    "Ein weiterer Name für dieselbe Datei auf Festplattebene.",
+    "Ein Verweis auf einen Ordner.",
+    "Ein BIOS-Patch.",
+    "Ein symbolischer Link mit erweiterten Rechten."
+  ]
+},
+{
+  "question": "Was ist ein man-in-the-browser-Angriff?",
+  "answer": "Ein Angriff, bei dem der Browser manipuliert wird.",
+  "hint": "Noch perfider als Spoofing.",
+  "explanation": "Beim MITB wird Malware im Browser eingesetzt, um Daten abzugreifen.",
+  "options": [
+    "Ein Angriff, bei dem der Browser manipuliert wird.",
+    "Ein BIOS-Exploit.",
+    "Ein Root-Passwort-Angriff.",
+    "Ein Cookie-Diebstahl über FTP."
+  ]
+},
+{
+  "question": "Was ist eine Checksumme?",
+  "answer": "Ein Wert zur Überprüfung der Datenintegrität.",
+  "hint": "Damit du merkst, wenn was fehlt oder faul ist.",
+  "explanation": "Checksummen erkennen Veränderungen an Dateien durch mathematische Verifikation.",
+  "options": [
+    "Ein Wert zur Überprüfung der Datenintegrität.",
+    "Ein BIOS-Token.",
+    "Ein Passwort-Hash.",
+    "Ein Netzwerk-Pingwert."
+  ]
+},
+{
+  "question": "Was bedeutet Redundanz in der IT?",
+  "answer": "Zusätzliche Ressourcen zur Ausfallsicherung.",
+  "hint": "Plan B für alles.",
+  "explanation": "Redundanz erhöht Zuverlässigkeit durch doppelte Hardware oder Dienste.",
+  "options": [
+    "Zusätzliche Ressourcen zur Ausfallsicherung.",
+    "Gleiche Daten doppelt speichern.",
+    "Server doppelt booten.",
+    "Festplatten formatieren."
+  ]
+},
+{
+  "question": "Was ist der Unterschied zwischen GET und POST in HTTP?",
+  "answer": "GET überträgt Daten in der URL, POST im Body.",
+  "hint": "POST ist diskreter.",
+  "explanation": "GET wird für Leseoperationen verwendet, POST für Änderungen.",
+  "options": [
+    "GET überträgt Daten in der URL, POST im Body.",
+    "POST ist schneller.",
+    "GET funktioniert nur mit Cookies.",
+    "POST wird nur für APIs verwendet."
+  ]
+},
+{
+  "question": "Was ist 'cron'?",
+  "answer": "Ein Zeitplanungsdienst unter Unix/Linux.",
+  "hint": "Weckt dein Skript morgens um 3.",
+  "explanation": "Cron führt regelmäßig Aufgaben automatisch aus.",
+  "options": [
+    "Ein Zeitplanungsdienst unter Unix/Linux.",
+    "Ein Bootloader.",
+    "Ein BIOS-Speicher.",
+    "Ein Texteditor."
+  ]
+},
+{
+  "question": "Was bedeutet 'localhost'?",
+  "answer": "Der eigene Rechner im Netzwerk.",
+  "hint": "Sprich: 127.0.0.1",
+  "explanation": "localhost verweist auf das lokale System und wird für Tests verwendet.",
+  "options": [
+    "Der eigene Rechner im Netzwerk.",
+    "Ein externer DNS-Server.",
+    "Ein Cloud-Backupdienst.",
+    "Ein Bootprofil."
+  ]
+},
+{
+  "question": "Was ist ein Security Patch?",
+  "answer": "Ein Softwareupdate zur Schließung von Sicherheitslücken.",
+  "hint": "Hoffentlich bevor jemand dich findet.",
+  "explanation": "Security Patches verhindern Ausnutzung bekannter Schwachstellen.",
+  "options": [
+    "Ein Softwareupdate zur Schließung von Sicherheitslücken.",
+    "Ein BIOS-Treiberupdate.",
+    "Ein Benutzerprofilfilter.",
+    "Ein Sandbox-Log."
+  ]
+},
+{
+  "question": "Was ist ein Token Ring?",
+  "answer": "Ein Netzwerkprotokoll, das den Zugriff über einen Token regelt.",
+  "hint": "Du darfst senden, wenn du den Ring hast.",
+  "explanation": "Beim Token Ring darf nur der Knoten senden, der den Token besitzt.",
+  "options": [
+    "Ein Netzwerkprotokoll, das den Zugriff über einen Token regelt.",
+    "Ein USB-Treiber.",
+    "Ein BIOS-Pin.",
+    "Ein Soundkarte-Protokoll."
+  ]
+},
+{
+  "question": "Was ist ein Virtual Private Cloud (VPC)?",
+  "answer": "Ein isolierter Bereich innerhalb einer öffentlichen Cloud.",
+  "hint": "Privat, aber eigentlich nicht so richtig.",
+  "explanation": "Eine VPC ist ein logisch isoliertes Netzwerk innerhalb einer Public Cloud, z. B. AWS oder Azure.",
+  "options": [
+    "Ein isolierter Bereich innerhalb einer öffentlichen Cloud.",
+    "Ein physisches privates Rechenzentrum.",
+    "Ein VPN-Tunnel.",
+    "Ein Remote-Desktop-Dienst."
+  ]
+},
+{
+  "question": "Was macht der Befehl 'df -h' unter Linux?",
+  "answer": "Zeigt die Festplattenbelegung in menschenlesbarem Format an.",
+  "hint": "Damit du weißt, wann du endlich aufräumen musst.",
+  "explanation": "'df -h' steht für 'disk free' und zeigt Speicherplatz in Größen wie GB und MB.",
+  "options": [
+    "Zeigt die Festplattenbelegung in menschenlesbarem Format an.",
+    "Formatiert alle Laufwerke.",
+    "Zeigt CPU-Auslastung.",
+    "Löscht temporäre Dateien."
+  ]
+},
+{
+  "question": "Was ist ein Session Hijacking?",
+  "answer": "Die Übernahme einer aktiven Benutzersitzung.",
+  "hint": "Ein digitaler Platzwechsel – ohne zu fragen.",
+  "explanation": "Beim Session Hijacking nutzt ein Angreifer gültige Sitzungsdaten, um sich als Benutzer auszugeben.",
+  "options": [
+    "Die Übernahme einer aktiven Benutzersitzung.",
+    "Ein Absturz des Browsers.",
+    "Ein VPN-Fehler.",
+    "Ein Backup-Konflikt."
+  ]
+},
+{
+  "question": "Wofür steht die Abkürzung ITIL?",
+  "answer": "Information Technology Infrastructure Library.",
+  "hint": "Ein Framework für Leute, die Prozesse lieben.",
+  "explanation": "ITIL ist eine Sammlung von Best Practices für das IT-Service-Management.",
+  "options": [
+    "Information Technology Infrastructure Library.",
+    "Integrated Technology Interface Layer.",
+    "International Tech Innovation League.",
+    "Internet and Telecommunication Interface Logic."
+  ]
+},
+{
+  "question": "Was ist ein Heap in der Programmierung?",
+  "answer": "Ein Speicherbereich für dynamisch zugewiesene Daten.",
+  "hint": "Nicht zu verwechseln mit dem Stapel (Stack).",
+  "explanation": "Der Heap ist ein Bereich im RAM, in dem Programme zur Laufzeit Speicher anfordern können.",
+  "options": [
+    "Ein Speicherbereich für dynamisch zugewiesene Daten.",
+    "Ein Festplattencache.",
+    "Ein Datenbankcontainer.",
+    "Ein BIOS-Zwischenspeicher."
+  ]
+},
+{
+  "question": "Was macht ein Load Balancer im DNS-Bereich?",
+  "answer": "Er verteilt Anfragen über verschiedene IP-Adressen.",
+  "hint": "Deine DNS-Anfrage geht dahin, wo am wenigsten los ist.",
+  "explanation": "DNS-basierte Load Balancer leiten Anfragen an verfügbare Server-IP-Adressen weiter.",
+  "options": [
+    "Er verteilt Anfragen über verschiedene IP-Adressen.",
+    "Er ersetzt die Firewall.",
+    "Er erstellt Domainnamen.",
+    "Er synchronisiert E-Mail-Server."
+  ]
+},
+{
+  "question": "Was ist ein Zero Trust Netzwerkmodell?",
+  "answer": "Ein Sicherheitsmodell, das niemals automatisch vertraut.",
+  "hint": "Vertraue niemandem. Nicht mal deinem Drucker.",
+  "explanation": "Zero Trust prüft jede Anfrage, auch innerhalb des eigenen Netzwerks.",
+  "options": [
+    "Ein Sicherheitsmodell, das niemals automatisch vertraut.",
+    "Ein Open-Source-VPN.",
+    "Ein Backup ohne Authentifizierung.",
+    "Ein verschlüsselter Router-Zugang."
+  ]
+},
+{
+  "question": "Was ist ein Jump Host?",
+  "answer": "Ein zentraler Zugangspunkt zu anderen Systemen in einem gesicherten Netzwerk.",
+  "hint": "Wie ein Türsteher mit SSH-Schlüssel.",
+  "explanation": "Ein Jump Host dient als Sprungbrett in isolierte Netzwerkzonen.",
+  "options": [
+    "Ein zentraler Zugangspunkt zu anderen Systemen in einem gesicherten Netzwerk.",
+    "Ein Hypervisor für virtuelle Maschinen.",
+    "Ein BIOS-Diagnosetool.",
+    "Ein Dateiserver im NAS."
+  ]
+},
+{
+  "question": "Was ist das Ziel von Penetration Testing?",
+  "answer": "Sicherheitslücken in einem System zu identifizieren.",
+  "hint": "Nicht das, was du dachtest.",
+  "explanation": "Penetrationstests simulieren Angriffe, um Schwachstellen aufzudecken.",
+  "options": [
+    "Sicherheitslücken in einem System zu identifizieren.",
+    "Systeme zu sichern.",
+    "Server zu warten.",
+    "Backups zu validieren."
+  ]
+},
+{
+  "question": "Was ist ein Canary Deployment?",
+  "answer": "Ein schrittweises Ausrollen von Software auf kleine Nutzergruppen.",
+  "hint": "Wenn nur eine kleine Zielgruppe testet – und dann explodiert.",
+  "explanation": "Canary Deployments ermöglichen frühe Tests mit minimalem Risiko.",
+  "options": [
+    "Ein schrittweises Ausrollen von Software auf kleine Nutzergruppen.",
+    "Ein Update mit automatischem Rollback.",
+    "Ein vollständig paralleles Deployment.",
+    "Ein verschlüsseltes Container-Image."
+  ]
+},
+{
+  "question": "Was ist ein Reverse Proxy?",
+  "answer": "Ein Server, der Anfragen entgegennimmt und an interne Server weiterleitet.",
+  "hint": "Er steht vorne – und tut so, als wäre er der Chef.",
+  "explanation": "Reverse Proxys verstecken interne Server und verteilen Anfragen.",
+  "options": [
+    "Ein Server, der Anfragen entgegennimmt und an interne Server weiterleitet.",
+    "Ein Proxy, der IP-Adressen vertauscht.",
+    "Ein DNS-Server mit Cache.",
+    "Ein Hardware-Firewall-Ersatz."
+  ]
+},
+{
+  "question": "Was macht der Befehl 'netstat'?",
+  "answer": "Zeigt aktuelle Netzwerkverbindungen und Ports an.",
+  "hint": "Damit du weißt, wer alles mit deinem Rechner kuschelt.",
+  "explanation": "'netstat' hilft bei der Analyse offener Ports und aktiver Verbindungen.",
+  "options": [
+    "Zeigt aktuelle Netzwerkverbindungen und Ports an.",
+    "Führt einen Ping-Test durch.",
+    "Misst die Download-Geschwindigkeit.",
+    "Konfiguriert das WLAN."
+  ]
+},
+{
+  "question": "Was ist ein Honeypot in der IT-Sicherheit?",
+  "answer": "Ein System, das Angreifer täuschen und überwachen soll.",
+  "hint": "Nicht süß, aber verführerisch.",
+  "explanation": "Honeypots sind Lockfallen, die Angriffe dokumentieren, ohne reale Daten zu gefährden.",
+  "options": [
+    "Ein System, das Angreifer täuschen und überwachen soll.",
+    "Ein automatisiertes Backup-System.",
+    "Ein Endpunkt-Virenscanner.",
+    "Ein intelligenter Switch."
+  ]
+},
+{
+  "question": "Was ist ein Kernel?",
+  "answer": "Der zentrale Teil eines Betriebssystems.",
+  "hint": "Die Mitte des Systems. Wie das Eigelb, nur nerdiger.",
+  "explanation": "Der Kernel verwaltet Ressourcen und stellt Schnittstellen für Hardware und Software bereit.",
+  "options": [
+    "Der zentrale Teil eines Betriebssystems.",
+    "Ein BIOS-Modul.",
+    "Ein externer Treiber.",
+    "Ein Benutzerprofil."
+  ]
+},
+{
+  "question": "Was ist eine API?",
+  "answer": "Eine Schnittstelle zur Kommunikation zwischen Programmen.",
+  "hint": "Redet Software miteinander – damit du es nicht musst.",
+  "explanation": "APIs ermöglichen es, Funktionen von Programmen systematisch aufzurufen.",
+  "options": [
+    "Eine Schnittstelle zur Kommunikation zwischen Programmen.",
+    "Ein Hardware-Stecker.",
+    "Ein BIOS-Eintrag.",
+    "Ein Formatierungswerkzeug."
+  ]
+},
+{
+  "question": "Was ist ein Softlink unter Linux?",
+  "answer": "Ein symbolischer Verweis auf eine Datei oder ein Verzeichnis.",
+  "hint": "Wie ein Shortcut, aber mit Kommandozeile.",
+  "explanation": "Softlinks zeigen auf andere Dateien und können auch über Dateisystemgrenzen hinweg funktionieren.",
+  "options": [
+    "Ein symbolischer Verweis auf eine Datei oder ein Verzeichnis.",
+    "Ein versteckter Benutzer.",
+    "Ein Kernelprozess.",
+    "Ein verschlüsselter Container."
+  ]
+},
+{
+  "question": "Was ist ein Rolling Release?",
+  "answer": "Ein Software-Release-Modell mit kontinuierlichen Updates.",
+  "hint": "Nie wieder Version 12 installieren müssen.",
+  "explanation": "Rolling Releases aktualisieren Software kontinuierlich statt mit festen Hauptversionen.",
+  "options": [
+    "Ein Software-Release-Modell mit kontinuierlichen Updates.",
+    "Ein Backup mit Versionierung.",
+    "Ein Lizenzmodell.",
+    "Ein automatischer Reboot-Zeitplan."
+  ]
+},
+{
+  "question": "Was ist ein Broadcast in Netzwerken?",
+  "answer": "Eine Nachricht an alle Geräte in einem Subnetz.",
+  "hint": "Jeder kriegt’s mit – auch wenn er nicht gefragt wurde.",
+  "explanation": "Broadcasts senden Daten an alle Hosts in einem Netzwerksegment.",
+  "options": [
+    "Eine Nachricht an alle Geräte in einem Subnetz.",
+    "Ein Podcast für Admins.",
+    "Eine verschlüsselte Dateiübertragung.",
+    "Ein Geräte-Reset-Befehl."
+  ]
+},
+{
+  "question": "Was ist der Unterschied zwischen IPv4 und IPv6?",
+  "answer": "IPv6 hat einen größeren Adressraum als IPv4.",
+  "hint": "IPv4 ist fast voll, IPv6 ist das neue große Ding.",
+  "explanation": "IPv6 bietet 128-Bit-Adressen, während IPv4 nur 32-Bit-Adressen nutzt.",
+  "options": [
+    "IPv6 hat einen größeren Adressraum als IPv4.",
+    "IPv4 ist schneller als IPv6.",
+    "IPv6 wird nur von Windows genutzt.",
+    "IPv4 verschlüsselt Daten standardmäßig."
+  ]
+},
+{
+  "question": "Was ist ein Edge-Device?",
+  "answer": "Ein Gerät, das Daten am Rand des Netzwerks verarbeitet.",
+  "hint": "Ganz am Rand – aber ganz wichtig.",
+  "explanation": "Edge-Geräte verarbeiten Daten nahe an der Quelle, z. B. IoT-Sensoren.",
+  "options": [
+    "Ein Gerät, das Daten am Rand des Netzwerks verarbeitet.",
+    "Ein Gerät in der Cloud.",
+    "Ein Switch mit erweiterten Funktionen.",
+    "Ein Remote-Desktop-Client."
+  ]
+},
+{
+  "question": "Was ist ein Token in der Authentifizierung?",
+  "answer": "Ein digitaler Schlüssel für den Zugriff auf Ressourcen.",
+  "hint": "Wie ein Schlüsselanhänger, aber nerdiger.",
+  "explanation": "Tokens identifizieren Benutzer gegenüber Diensten, oft zeitlich begrenzt.",
+  "options": [
+    "Ein digitaler Schlüssel für den Zugriff auf Ressourcen.",
+    "Ein BIOS-Passwort.",
+    "Ein Gerätetreiber.",
+    "Ein Backup-Modul."
+  ]
+},
+{
+  "question": "Was ist ein MAC-Filter in einem Router?",
+  "answer": "Eine Zugriffskontrolle basierend auf MAC-Adressen.",
+  "hint": "Nur bekannte Geräte dürfen rein.",
+  "explanation": "MAC-Filter erlauben oder blockieren Geräte anhand ihrer eindeutigen MAC-Adresse.",
+  "options": [
+    "Eine Zugriffskontrolle basierend auf MAC-Adressen.",
+    "Ein Antivirenprogramm.",
+    "Ein Software-Lizenzsystem.",
+    "Ein DNS-Server."
+  ]
+},
+{
+  "question": "Was ist ein Hypervisor?",
+  "answer": "Eine Software zur Verwaltung virtueller Maschinen.",
+  "hint": "Der Dirigent im Konzert der VMs.",
+  "explanation": "Hypervisoren verwalten mehrere Betriebssysteme auf einer Hardware.",
+  "options": [
+    "Eine Software zur Verwaltung virtueller Maschinen.",
+    "Ein Server für Backups.",
+    "Ein Proxy-Server.",
+    "Ein USB-Controller."
+  ]
+},
+{
+  "question": "Was macht der Befehl 'ps aux' in Linux?",
+  "answer": "Zeigt eine Liste aller laufenden Prozesse an.",
+  "hint": "Wenn du sehen willst, wer gerade was tut.",
+  "explanation": "Mit 'ps aux' kannst du Prozesse systemweit auflisten und analysieren.",
+  "options": [
+    "Zeigt eine Liste aller laufenden Prozesse an.",
+    "Beendet alle Prozesse.",
+    "Installiert Systemupdates.",
+    "Startet den SSH-Dienst neu."
+  ]
+},
+{
+  "question": "Was ist ein Snapshot in der IT?",
+  "answer": "Ein exakter Zustand eines Systems zu einem bestimmten Zeitpunkt.",
+  "hint": "Ein digitales 'So sah’s mal aus'.",
+  "explanation": "Snapshots werden zur Datensicherung und schnellen Wiederherstellung verwendet.",
+  "options": [
+    "Ein exakter Zustand eines Systems zu einem bestimmten Zeitpunkt.",
+    "Ein USB-Formatierungswerkzeug.",
+    "Ein Lizenzprüfungssystem.",
+    "Ein BIOS-Backup."
+  ]
+},
+{
+  "question": "Was bedeutet RAID 0?",
+  "answer": "Striping ohne Redundanz zur Leistungssteigerung.",
+  "hint": "Schnell, aber riskant. Wie ein Sportwagen ohne Airbag.",
+  "explanation": "RAID 0 teilt Daten auf mehrere Laufwerke auf, erhöht die Geschwindigkeit, aber keine Sicherheit.",
+  "options": [
+    "Striping ohne Redundanz zur Leistungssteigerung.",
+    "Spiegelung zur Datensicherung.",
+    "Hot-Swap-fähige Backupstruktur.",
+    "Redundante Dateiverschlüsselung."
+  ]
+},
+{
+  "question": "Was ist ein dedizierter Server?",
+  "answer": "Ein physischer Server, der nur einem Kunden zur Verfügung steht.",
+  "hint": "Nicht geteilt, nicht geliehen – nur für dich.",
+  "explanation": "Dedizierte Server bieten volle Kontrolle und Performance für einen einzelnen Nutzer.",
+  "options": [
+    "Ein physischer Server, der nur einem Kunden zur Verfügung steht.",
+    "Ein virtueller Cloudserver.",
+    "Ein Netzwerkdrucker.",
+    "Ein Switch mit VLAN."
+  ]
+},
+{
+  "question": "Was bedeutet BYOD?",
+  "answer": "Bring Your Own Device.",
+  "hint": "Firmen-PC? Pah. Ich hab mein eigenes Ding.",
+  "explanation": "BYOD erlaubt Mitarbeitern, eigene Geräte im Firmennetzwerk zu nutzen.",
+  "options": [
+    "Bring Your Own Device.",
+    "Backup Your Office Data.",
+    "Build Your Online Datacenter.",
+    "Block Your Outbound Devices."
+  ]
+},
+{
+  "question": "Was ist ein Root-Zertifikat?",
+  "answer": "Ein vertrauenswürdiges Zertifikat am Anfang einer Zertifikatskette.",
+  "hint": "Der Urahne aller Zertifikate.",
+  "explanation": "Root-Zertifikate sind Vertrauensanker für SSL/TLS-Verbindungen.",
+  "options": [
+    "Ein vertrauenswürdiges Zertifikat am Anfang einer Zertifikatskette.",
+    "Ein BIOS-Zertifikat.",
+    "Ein verschlüsselter Container.",
+    "Ein Firewall-Profil."
+  ]
+},
+{
+  "question": "Was ist ein Caching-System?",
+  "answer": "Ein Mechanismus zum Zwischenspeichern häufig genutzter Daten.",
+  "hint": "Weil niemand auf dieselbe Datei 12 Mal warten will.",
+  "explanation": "Caching reduziert Zugriffszeiten und Netzwerkbelastung.",
+  "options": [
+    "Ein Mechanismus zum Zwischenspeichern häufig genutzter Daten.",
+    "Ein automatisiertes Backup.",
+    "Ein VPN-Tunnel.",
+    "Ein Verzeichnisbaum."
+  ]
+},
+{
+  "question": "Was ist ein Wildcard-Zertifikat?",
+  "answer": "Ein SSL-Zertifikat für eine Domain und alle Subdomains.",
+  "hint": "Ein Zertifikat für alle Fälle. Also Subdomains.",
+  "explanation": "Wildcard-Zertifikate sichern *.example.com und alle zugehörigen Subdomains.",
+  "options": [
+    "Ein SSL-Zertifikat für eine Domain und alle Subdomains.",
+    "Ein Zertifikat für E-Mail-Adressen.",
+    "Ein BIOS-Authentifizierungsmodul.",
+    "Ein LDAP-Berechtigungssystem."
+  ]
+},
+{
+  "question": "Was ist ein IDS?",
+  "answer": "Ein System zur Erkennung von Sicherheitsvorfällen.",
+  "hint": "Der Rauchmelder deines Netzwerks.",
+  "explanation": "Ein Intrusion Detection System erkennt verdächtige Aktivitäten.",
+  "options": [
+    "Ein System zur Erkennung von Sicherheitsvorfällen.",
+    "Ein DNS-Cache.",
+    "Ein Softwarelizenzmanager.",
+    "Ein NAS-Protokoll."
+  ]
+},
+{
+  "question": "Was ist ein SSD?",
+  "answer": "Ein Speichermedium ohne bewegliche Teile.",
+  "hint": "Leiser, schneller, teurer – wie ein Premium-Auto.",
+  "explanation": "SSDs speichern Daten auf Flash-Speicherchips und sind schneller als HDDs.",
+  "options": [
+    "Ein Speichermedium ohne bewegliche Teile.",
+    "Ein Netzwerkprotokoll.",
+    "Ein Backup-Dienst.",
+    "Ein BIOS-Modul."
+  ]
+},
+{
+  "question": "Was macht ein SIEM-System?",
+  "answer": "Es sammelt und analysiert sicherheitsrelevante Logs.",
+  "hint": "Der Spion deiner Spione.",
+  "explanation": "Security Information and Event Management (SIEM) dient der Bedrohungserkennung.",
+  "options": [
+    "Es sammelt und analysiert sicherheitsrelevante Logs.",
+    "Es verschlüsselt Cloud-Dateien.",
+    "Es startet Container.",
+    "Es ist ein Patchmanagement-Tool."
+  ]
+},
+{
+  "question": "Was ist das OSI-Modell?",
+  "answer": "Ein Referenzmodell für Netzwerkprotokolle mit 7 Schichten.",
+  "hint": "Schicht um Schicht – wie ein schlechter Kuchen.",
+  "explanation": "Das OSI-Modell beschreibt die Netzwerkkommunikation in logischen Ebenen.",
+  "options": [
+    "Ein Referenzmodell für Netzwerkprotokolle mit 7 Schichten.",
+    "Ein Linux-Dateisystem.",
+    "Ein Backup-Tool.",
+    "Ein BIOS-Standard."
+  ]
+},
+{
+  "question": "Was bedeutet 'immutable' in der IT?",
+  "answer": "Nicht veränderbar nach der Erstellung.",
+  "hint": "Einmal geschrieben, nie mehr angefasst.",
+  "explanation": "Immutable-Infrastruktur lässt keine Änderungen zu – Updates nur durch Ersetzen.",
+  "options": [
+    "Nicht veränderbar nach der Erstellung.",
+    "Ständig aktualisiert.",
+    "Temporär verfügbar.",
+    "Cloudbasiert gespiegelt."
+  ]
+},
+{
+  "question": "Was ist ein VLAN?",
+  "answer": "Ein logisches Teilnetz innerhalb eines physischen Netzwerks.",
+  "hint": "Virtuelle Mauern im selben Kabel.",
+  "explanation": "VLANs trennen Datenverkehr logisch, auch ohne eigene Hardware.",
+  "options": [
+    "Ein logisches Teilnetz innerhalb eines physischen Netzwerks.",
+    "Ein BIOS-Modul für Netzwerkverbindungen.",
+    "Ein VPN-Tunnel.",
+    "Ein Zertifikatsspeicher."
+  ]
+},
+{
+  "question": "Was macht der Befehl 'chmod +x'?",
+  "answer": "Er macht eine Datei ausführbar.",
+  "hint": "Damit deine Skripte nicht nur rumliegen.",
+  "explanation": "'+x' gibt Ausführungsrechte für eine Datei.",
+  "options": [
+    "Er macht eine Datei ausführbar.",
+    "Er verschlüsselt eine Datei.",
+    "Er installiert ein Paket.",
+    "Er löscht Systemlogs."
+  ]
+},
+{
+  "question": "Was ist ein Port in der Netzwerktechnik?",
+  "answer": "Ein virtueller Zugangspunkt für Netzwerkdienste.",
+  "hint": "Nicht zum Anfassen, aber zum Kommunizieren.",
+  "explanation": "Ports leiten Daten an die richtigen Programme weiter.",
+  "options": [
+    "Ein virtueller Zugangspunkt für Netzwerkdienste.",
+    "Ein physischer Netzwerkstecker.",
+    "Ein BIOS-Schalter.",
+    "Ein DHCP-Client."
+  ]
+},
+{
+  "question": "Was ist ein UTP-Kabel?",
+  "answer": "Ein ungeschirmtes Twisted-Pair-Kabel.",
+  "hint": "Nicht so geschützt wie sein Cousin STP.",
+  "explanation": "UTP steht für Unshielded Twisted Pair, ein gängiges Netzwerkkabel ohne zusätzliche Abschirmung.",
+  "options": [
+    "Ein ungeschirmtes Twisted-Pair-Kabel.",
+    "Ein Glasfaserkabel.",
+    "Ein HDMI-Kabel.",
+    "Ein Koaxialkabel."
+  ]
+},
+{
+  "question": "Was ist der Zweck eines DNS-Servers?",
+  "answer": "Er wandelt Domainnamen in IP-Adressen um.",
+  "hint": "Er macht aus Namen Zahlen.",
+  "explanation": "Ein DNS-Server übersetzt lesbare Domainnamen wie example.com in IP-Adressen, die Computer verstehen.",
+  "options": [
+    "Er wandelt Domainnamen in IP-Adressen um.",
+    "Er speichert Backups.",
+    "Er verschlüsselt Daten.",
+    "Er stellt Webseiten bereit."
+  ]
+},
+{
+  "question": "Was ist ein Patchpanel?",
+  "answer": "Ein Verbindungspunkt für Netzwerkkabel.",
+  "hint": "Es hilft, Ordnung im Kabelchaos zu bewahren.",
+  "explanation": "Patchpanels dienen zur zentralen Organisation von Netzwerkverbindungen.",
+  "options": [
+    "Ein Verbindungspunkt für Netzwerkkabel.",
+    "Ein Gerät zur Stromverteilung.",
+    "Ein Teil des Prozessors.",
+    "Ein Software-Debugging-Tool."
+  ]
+},
+{
+  "question": "Was ist ein Ping-Test?",
+  "answer": "Ein Test zur Überprüfung der Erreichbarkeit eines Hosts.",
+  "hint": "Er fragt höflich, ob jemand da ist.",
+  "explanation": "Mit 'ping' wird geprüft, ob ein Gerät im Netzwerk erreichbar ist und wie schnell es antwortet.",
+  "options": [
+    "Ein Test zur Überprüfung der Erreichbarkeit eines Hosts.",
+    "Ein Scan auf offene Ports.",
+    "Ein Geschwindigkeitstest der Festplatte.",
+    "Ein BIOS-Diagnosewerkzeug."
+  ]
+},
+{
+  "question": "Was ist ein RAID 5?",
+  "answer": "Ein Speicherverbund mit Paritätsinformationen für Redundanz.",
+  "hint": "Es überlebt einen Plattencrash – meistens.",
+  "explanation": "RAID 5 verteilt Daten und Paritätsinformationen über mehrere Festplatten für Ausfallsicherheit.",
+  "options": [
+    "Ein Speicherverbund mit Paritätsinformationen für Redundanz.",
+    "Ein einfacher Mirror ohne Sicherheit.",
+    "Ein Einzelplattenbetrieb.",
+    "Ein Cloudspeicher-Protokoll."
+  ]
+},
+{
+  "question": "Was ist ein VPN?",
+  "answer": "Ein gesicherter Tunnel durch das Internet.",
+  "hint": "Als wärst du woanders – ganz sicher.",
+  "explanation": "Ein Virtual Private Network verschlüsselt den Datenverkehr zwischen zwei Punkten.",
+  "options": [
+    "Ein gesicherter Tunnel durch das Internet.",
+    "Ein Backup-Tool.",
+    "Ein Webserver.",
+    "Ein Passwort-Manager."
+  ]
+},
+{
+  "question": "Was ist ein Mainboard?",
+  "answer": "Die zentrale Leiterplatte eines Computers.",
+  "hint": "Das Wohnzimmer für alle Komponenten.",
+  "explanation": "Das Mainboard verbindet Prozessor, RAM, Speicher und Erweiterungskarten.",
+  "options": [
+    "Die zentrale Leiterplatte eines Computers.",
+    "Ein externes Netzteil.",
+    "Ein USB-Stick.",
+    "Ein Audio-Treiber."
+  ]
+},
+{
+  "question": "Was ist eine IP-Adresse?",
+  "answer": "Eine eindeutige Kennung für ein Gerät im Netzwerk.",
+  "hint": "Jedes Gerät braucht seine Hausnummer.",
+  "explanation": "IP-Adressen dienen zur Adressierung und Kommunikation in Netzwerken.",
+  "options": [
+    "Eine eindeutige Kennung für ein Gerät im Netzwerk.",
+    "Ein Gerätetreiber.",
+    "Ein BIOS-Code.",
+    "Ein Antivirenprogramm."
+  ]
+},
+{
+  "question": "Was ist ein SMTP-Server?",
+  "answer": "Ein Server zum Versenden von E-Mails.",
+  "hint": "Ohne ihn bleibt dein Postausgang leer.",
+  "explanation": "SMTP (Simple Mail Transfer Protocol) regelt den Versand von E-Mails.",
+  "options": [
+    "Ein Server zum Versenden von E-Mails.",
+    "Ein Server zum Empfangen von E-Mails.",
+    "Ein Webhosting-Server.",
+    "Ein FTP-Dienst."
+  ]
+},
+{
+  "question": "Was ist ein Betriebssystem?",
+  "answer": "Eine Software zur Steuerung von Hardware und Anwendungen.",
+  "hint": "Ohne OS – kein Zugriff.",
+  "explanation": "Das Betriebssystem verwaltet Ressourcen und stellt eine Benutzeroberfläche bereit.",
+  "options": [
+    "Eine Software zur Steuerung von Hardware und Anwendungen.",
+    "Ein Backup-System.",
+    "Ein Dateiserver.",
+    "Ein Peripheriegerät."
+  ]
+},
+{
+  "question": "Was ist ein Switch?",
+  "answer": "Ein Netzwerkgerät zur Weiterleitung von Datenpaketen.",
+  "hint": "Nicht der Lichtschalter, der andere.",
+  "explanation": "Switches verbinden Geräte im lokalen Netzwerk und leiten Daten intelligent weiter.",
+  "options": [
+    "Ein Netzwerkgerät zur Weiterleitung von Datenpaketen.",
+    "Ein Stromadapter.",
+    "Ein BIOS-Modul.",
+    "Ein WLAN-Passwort."
+  ]
+},
+{
+  "question": "Was bedeutet HTTPS?",
+  "answer": "HyperText Transfer Protocol Secure.",
+  "hint": "Das 'S' steht für Sicherheit – meistens.",
+  "explanation": "HTTPS verschlüsselt die Kommunikation zwischen Browser und Server mittels SSL/TLS.",
+  "options": [
+    "HyperText Transfer Protocol Secure.",
+    "HyperText Transport Platform Sync.",
+    "Home Terminal Text Protocol Script.",
+    "Hybrid Type Transfer Signal."
+  ]
+},
+{
+  "question": "Was ist ein Dateisystem?",
+  "answer": "Eine Struktur zur Organisation und Speicherung von Daten.",
+  "hint": "Ohne wäre alles nur ein Bit-Haufen.",
+  "explanation": "Dateisysteme wie NTFS oder ext4 verwalten, wie Daten auf Speichermedien abgelegt werden.",
+  "options": [
+    "Eine Struktur zur Organisation und Speicherung von Daten.",
+    "Ein Passwortspeicher.",
+    "Ein BIOS-Profil.",
+    "Ein Cloud-Dienst."
+  ]
+},
+{
+  "question": "Was ist eine MAC-Adresse?",
+  "answer": "Eine eindeutige Hardwareadresse eines Netzwerkgeräts.",
+  "hint": "Nicht dein MacBook. Denk kleiner.",
+  "explanation": "MAC-Adressen identifizieren Netzwerkgeräte auf Layer 2 des OSI-Modells.",
+  "options": [
+    "Eine eindeutige Hardwareadresse eines Netzwerkgeräts.",
+    "Eine IP-Adresse.",
+    "Ein WLAN-Standard.",
+    "Ein Gerätezertifikat."
+  ]
+},
+{
+  "question": "Was ist ein Client?",
+  "answer": "Ein Gerät oder Programm, das Dienste von einem Server anfordert.",
+  "hint": "Der Fragende in der Beziehung.",
+  "explanation": "Clients kommunizieren mit Servern, um Dienste wie Webseiten oder E-Mails zu nutzen.",
+  "options": [
+    "Ein Gerät oder Programm, das Dienste von einem Server anfordert.",
+    "Ein Router.",
+    "Ein Protokoll.",
+    "Ein Dateiformat."
+  ]
+},
+{
+  "question": "Was ist ein Rootkit?",
+  "answer": "Eine bösartige Software zur Verdeckung von Aktivitäten.",
+  "hint": "Schlimmer als der Name klingt.",
+  "explanation": "Rootkits verstecken Prozesse, Dateien oder Registrierungswerte, um sich der Entdeckung zu entziehen.",
+  "options": [
+    "Eine bösartige Software zur Verdeckung von Aktivitäten.",
+    "Ein Linux-Installationspaket.",
+    "Ein BIOS-Konfigurationstool.",
+    "Ein Backupprogramm."
+  ]
+},
+{
+  "question": "Was bedeutet LAN?",
+  "answer": "Local Area Network.",
+  "hint": "Das Netzwerk, das direkt um dich herum ist.",
+  "explanation": "LANs verbinden Geräte in einem begrenzten geografischen Bereich, z. B. einem Büro.",
+  "options": [
+    "Local Area Network.",
+    "Long Access Node.",
+    "Low Application Net.",
+    "Layer Address Number."
+  ]
+},
+{
+  "question": "Was ist ein Backup?",
+  "answer": "Eine Sicherheitskopie von Daten.",
+  "hint": "Dein digitales 'Falls doch was passiert'.",
+  "explanation": "Backups sichern Daten zur Wiederherstellung bei Verlust, Fehlern oder Angriffen.",
+  "options": [
+    "Eine Sicherheitskopie von Daten.",
+    "Ein Protokoll.",
+    "Ein Passwortspeicher.",
+    "Ein Dienst zur Überwachung von Traffic."
+  ]
+},
+{
+  "question": "Was ist ein Netzwerkprotokoll?",
+  "answer": "Eine Regel zur Kommunikation zwischen Geräten.",
+  "hint": "Wie Geräte höflich miteinander reden.",
+  "explanation": "Protokolle wie TCP/IP definieren das Format und die Reihenfolge von Nachrichten.",
+  "options": [
+    "Eine Regel zur Kommunikation zwischen Geräten.",
+    "Ein Backup-Format.",
+    "Ein Internetdienst.",
+    "Ein Hardwareanschluss."
+  ]
+},
+{
+  "question": "Was ist ein Gateway?",
+  "answer": "Ein Vermittler zwischen zwei Netzwerken.",
+  "hint": "Das Tor zur großen weiten Welt.",
+  "explanation": "Gateways verbinden interne Netzwerke mit externen wie dem Internet.",
+  "options": [
+    "Ein Vermittler zwischen zwei Netzwerken.",
+    "Ein Client-Gerät.",
+    "Ein DNS-Eintrag.",
+    "Ein Protokoll für Mailserver."
+  ]
+},
+{
+  "question": "Was bedeutet BIOS?",
+  "answer": "Basic Input Output System.",
+  "hint": "Das erste, was deinen Rechner zum Leben erweckt.",
+  "explanation": "Das BIOS ist eine Firmware, die beim Start grundlegende Hardware initialisiert.",
+  "options": [
+    "Basic Input Output System.",
+    "Binary Internet Operating System.",
+    "Backup Integration Output Setup.",
+    "Basic Intranet Overhead Signal."
+  ]
+},
+{
+  "question": "Was ist eine Firewall?",
+  "answer": "Ein System zum Schutz vor unautorisiertem Zugriff.",
+  "hint": "Ein digitaler Türsteher.",
+  "explanation": "Firewalls überwachen und kontrollieren ein- und ausgehenden Netzwerkverkehr.",
+  "options": [
+    "Ein System zum Schutz vor unautorisiertem Zugriff.",
+    "Ein Backupserver.",
+    "Ein Switch.",
+    "Ein Browser-Plugin."
+  ]
+},
+{
+  "question": "Was ist SSH?",
+  "answer": "Ein Protokoll für sichere Fernzugriffe.",
+  "hint": "Für Leute, die Server aus der Ferne streicheln wollen.",
+  "explanation": "SSH ermöglicht sichere, verschlüsselte Verbindungen zu entfernten Systemen über ein unsicheres Netzwerk.",
+  "options": [
+    "Ein Protokoll für sichere Fernzugriffe.",
+    "Ein FTP-Ersatz.",
+    "Ein Festplattentreiber.",
+    "Ein Browser-Tool."
+  ]
+},
+{
+  "question": "Was ist eine SSD?",
+  "answer": "Ein Speichermedium ohne bewegliche Teile.",
+  "hint": "Schneller, leiser, langlebiger – aber auch teurer.",
+  "explanation": "SSDs speichern Daten elektronisch auf Flash-Chips und bieten schnelle Zugriffszeiten.",
+  "options": [
+    "Ein Speichermedium ohne bewegliche Teile.",
+    "Ein BIOS-Modul.",
+    "Ein Internetprotokoll.",
+    "Ein CPU-Kühler."
+  ]
+},
+{
+  "question": "Was bedeutet IPsec?",
+  "answer": "Ein Protokoll zur sicheren IP-Kommunikation.",
+  "hint": "IP + Sicherheit = IPsec.",
+  "explanation": "IPsec verschlüsselt und authentifiziert IP-Pakete für sichere Kommunikation.",
+  "options": [
+    "Ein Protokoll zur sicheren IP-Kommunikation.",
+    "Ein WLAN-Standard.",
+    "Ein Gerätetreiber.",
+    "Ein Virtualisierungsmodul."
+  ]
+},
+{
+  "question": "Was ist ein Hotfix?",
+  "answer": "Ein schneller Software-Patch zur Behebung eines spezifischen Problems.",
+  "hint": "Er wird rausgehauen, wenn’s brennt.",
+  "explanation": "Hotfixes adressieren akute Fehler oder Sicherheitslücken, meist ohne vollständige Tests.",
+  "options": [
+    "Ein schneller Software-Patch zur Behebung eines spezifischen Problems.",
+    "Ein neues Benutzerprofil.",
+    "Ein vollständiges Upgrade.",
+    "Ein Konfigurationsassistent."
+  ]
+},
+{
+  "question": "Was ist ein Token Ring?",
+  "answer": "Ein Netzwerkprotokoll, bei dem ein Token zur Datenübertragung weitergereicht wird.",
+  "hint": "Kein Schmuckstück – ein Netzwerkkonzept.",
+  "explanation": "Token Ring erlaubt Kommunikation nur, wenn das Gerät den Token besitzt.",
+  "options": [
+    "Ein Netzwerkprotokoll, bei dem ein Token zur Datenübertragung weitergereicht wird.",
+    "Ein Sicherheitszertifikat.",
+    "Ein USB-Dongle.",
+    "Ein Load Balancer."
+  ]
+},
+{
+  "question": "Was bedeutet 'localhost'?",
+  "answer": "Die eigene Maschine im Netzwerk.",
+  "hint": "Du. Nur im Netzwerk.",
+  "explanation": "'localhost' ist die Loopback-Adresse (127.0.0.1) für den eigenen Rechner.",
+  "options": [
+    "Die eigene Maschine im Netzwerk.",
+    "Ein lokaler Webserver.",
+    "Der DHCP-Server.",
+    "Ein benachbartes Gerät."
+  ]
+},
+{
+  "question": "Was ist ein Subnetz?",
+  "answer": "Ein logischer Teil eines Netzwerks.",
+  "hint": "Ein Stück vom großen Netzwerkkuchen.",
+  "explanation": "Subnetze unterteilen Netzwerke in kleinere, handhabbare Einheiten.",
+  "options": [
+    "Ein logischer Teil eines Netzwerks.",
+    "Ein BIOS-Modul.",
+    "Ein Mailserver.",
+    "Ein Gateway."
+  ]
+},
+{
+  "question": "Was bedeutet POST beim Systemstart?",
+  "answer": "Power-On Self-Test.",
+  "hint": "Dein PC macht einen kurzen Selbstcheck.",
+  "explanation": "Der POST prüft Hardwarekomponenten beim Hochfahren auf Funktionalität.",
+  "options": [
+    "Power-On Self-Test.",
+    "Processor Overclock Stability Test.",
+    "Peripheral Output Status Tool.",
+    "Password Override Security Trigger."
+  ]
+},
+{
+  "question": "Was ist ein Befehlsshell?",
+  "answer": "Ein Programm zur Interaktion mit dem Betriebssystem über Textbefehle.",
+  "hint": "Fragen statt klicken.",
+  "explanation": "Die Shell ermöglicht die Eingabe und Ausführung von Befehlen, z. B. Bash unter Linux.",
+  "options": [
+    "Ein Programm zur Interaktion mit dem Betriebssystem über Textbefehle.",
+    "Ein BIOS-Menü.",
+    "Ein Webbrowser.",
+    "Ein GUI-Werkzeug."
+  ]
+},
+{
+  "question": "Was macht ein Load Balancer?",
+  "answer": "Er verteilt Netzwerkverkehr auf mehrere Server.",
+  "hint": "Teilen ist Skalieren.",
+  "explanation": "Load Balancer sorgen für Ausfallsicherheit und gleichmäßige Lastverteilung.",
+  "options": [
+    "Er verteilt Netzwerkverkehr auf mehrere Server.",
+    "Er blockiert unerlaubte Verbindungen.",
+    "Er synchronisiert Datenbanken.",
+    "Er misst Latenzzeiten im Netzwerk."
+  ]
+},
+{
+  "question": "Was ist eine Partition?",
+  "answer": "Ein abgegrenzter Bereich auf einem Datenträger.",
+  "hint": "Teile und herrsche – jetzt auch auf Festplatten.",
+  "explanation": "Partitionen strukturieren Festplatten und ermöglichen mehrere Dateisysteme.",
+  "options": [
+    "Ein abgegrenzter Bereich auf einem Datenträger.",
+    "Ein Backup-Tool.",
+    "Ein Kernel-Modul.",
+    "Ein Lizenztyp."
+  ]
+},
+{
+  "question": "Was ist ein Proxy-Server?",
+  "answer": "Ein Vermittler zwischen Client und Internet.",
+  "hint": "Der Maskenträger des Netzwerks.",
+  "explanation": "Proxys leiten Anfragen weiter und bieten oft zusätzliche Sicherheit oder Caching.",
+  "options": [
+    "Ein Vermittler zwischen Client und Internet.",
+    "Ein DNS-Resolver.",
+    "Ein SSH-Tunnel.",
+    "Ein Hardware-Router."
+  ]
+},
+{
+  "question": "Was ist ein Kernel Panic?",
+  "answer": "Ein schwerwiegender Systemfehler im Betriebssystem.",
+  "hint": "Wenn selbst der Kernel nicht mehr weiter weiß.",
+  "explanation": "Bei einer Kernel Panic stoppt das System, um Schäden zu vermeiden.",
+  "options": [
+    "Ein schwerwiegender Systemfehler im Betriebssystem.",
+    "Ein Virusangriff.",
+    "Ein Bluescreen in Windows.",
+    "Ein BIOS-Fehler."
+  ]
+},
+{
+  "question": "Was ist ein Ping of Death?",
+  "answer": "Ein DoS-Angriff mit fehlerhaften IP-Paketen.",
+  "hint": "Ein Ping, der zu viel will.",
+  "explanation": "Ein Ping of Death nutzt manipulierte Pakete, um Systeme zum Absturz zu bringen.",
+  "options": [
+    "Ein DoS-Angriff mit fehlerhaften IP-Paketen.",
+    "Ein harmloser Diagnosetest.",
+    "Ein Proxy-Protokoll.",
+    "Ein DNS-Fehler."
+  ]
+},
+{
+  "question": "Was ist eine SSID?",
+  "answer": "Der Name eines WLAN-Netzwerks.",
+  "hint": "Ohne das findest du dein WLAN nicht.",
+  "explanation": "Die SSID (Service Set Identifier) identifiziert ein WLAN sichtbar für Benutzer.",
+  "options": [
+    "Der Name eines WLAN-Netzwerks.",
+    "Ein Sicherheitsschlüssel.",
+    "Ein Frequenzbereich.",
+    "Ein MAC-Filter."
+  ]
+},
+{
+  "question": "Was ist ein Exploit?",
+  "answer": "Eine ausnutzbare Schwachstelle in Software oder Hardware.",
+  "hint": "So kommen Angreifer rein.",
+  "explanation": "Exploits nutzen Sicherheitslücken zur Ausführung von schädlichem Code.",
+  "options": [
+    "Eine ausnutzbare Schwachstelle in Software oder Hardware.",
+    "Ein Bugfix.",
+    "Ein Updatepaket.",
+    "Ein Treiberkonflikt."
+  ]
+},
+{
+  "question": "Was bedeutet NAT?",
+  "answer": "Network Address Translation.",
+  "hint": "Versteckt dein internes Netz vor dem Internet.",
+  "explanation": "NAT übersetzt private IP-Adressen in öffentliche, um mit dem Internet zu kommunizieren.",
+  "options": [
+    "Network Address Translation.",
+    "Netzwerk Access Token.",
+    "Node Access Timing.",
+    "Nutzer-Abfrage-Tool."
+  ]
+},
+{
+  "question": "Was ist ein Cookie im Web?",
+  "answer": "Eine kleine Datei zur Speicherung von Sitzungsdaten.",
+  "hint": "Nicht essbar, aber verfolgt dich.",
+  "explanation": "Cookies speichern Einstellungen, Logins oder Tracking-Informationen im Browser.",
+  "options": [
+    "Eine kleine Datei zur Speicherung von Sitzungsdaten.",
+    "Ein Plug-in.",
+    "Ein Proxy-Protokoll.",
+    "Ein WLAN-Standard."
+  ]
+},
+{
+  "question": "Was ist ein Tethering?",
+  "answer": "Das Teilen einer mobilen Internetverbindung mit anderen Geräten.",
+  "hint": "Dein Handy wird zum Router.",
+  "explanation": "Tethering erlaubt es, die mobile Datenverbindung mit z. B. einem Laptop zu teilen.",
+  "options": [
+    "Das Teilen einer mobilen Internetverbindung mit anderen Geräten.",
+    "Das Pairing von Bluetooth-Geräten.",
+    "Die Synchronisation von Kalenderdaten.",
+    "Das Spiegeln des Bildschirms."
+  ]
+},
+{
+  "question": "Was bedeutet SaaS?",
+  "answer": "Software as a Service.",
+  "hint": "Du nutzt die Software – jemand anderes betreibt sie.",
+  "explanation": "SaaS beschreibt Software, die über das Internet bereitgestellt und verwaltet wird.",
+  "options": [
+    "Software as a Service.",
+    "Server and Application Access System.",
+    "System as an App.",
+    "Software aus alten Zeiten."
+  ]
+},
+{
+  "question": "Was ist ein Bit?",
+  "answer": "Die kleinste Informationseinheit in der Informatik.",
+  "hint": "Null oder Eins. That’s it.",
+  "explanation": "Ein Bit kann nur zwei Zustände annehmen: 0 oder 1.",
+  "options": [
+    "Die kleinste Informationseinheit in der Informatik.",
+    "Ein Backup-Archiv.",
+    "Ein DNS-Token.",
+    "Ein USB-Protokoll."
+  ]
+},
+{
+  "question": "Was ist ein Quellcode?",
+  "answer": "Der lesbare Code einer Software vor der Kompilierung.",
+  "hint": "Das, was Programmierer wirklich meinen mit 'läuft bei mir'.",
+  "explanation": "Quellcode besteht aus Anweisungen in einer Programmiersprache und wird vom Compiler übersetzt.",
+  "options": [
+    "Der lesbare Code einer Software vor der Kompilierung.",
+    "Ein maschinenlesbares Binary.",
+    "Ein Datenbankdump.",
+    "Ein Netzwerkprotokoll."
+  ]
+},
+{
+  "question": "Was ist ein DDoS-Angriff?",
+  "answer": "Ein Angriff mit vielen gleichzeitigen Anfragen zur Überlastung eines Systems.",
+  "hint": "Zu viele Gäste auf einmal.",
+  "explanation": "Distributed Denial of Service überlastet Systeme durch massenhafte Anfragen von vielen Quellen.",
+  "options": [
+    "Ein Angriff mit vielen gleichzeitigen Anfragen zur Überlastung eines Systems.",
+    "Ein Datenbankangriff.",
+    "Ein Virus.",
+    "Ein internes Logging-Tool."
+  ]
+},
+{
+  "question": "Was bedeutet GUI?",
+  "answer": "Graphical User Interface.",
+  "hint": "Wenn du klicken darfst, statt zu tippen.",
+  "explanation": "Eine GUI stellt eine grafische Oberfläche zur Interaktion mit Programmen bereit.",
+  "options": [
+    "Graphical User Interface.",
+    "General Utility Input.",
+    "Global User Internet.",
+    "Gateway User Interface."
+  ]
+},
+{
+  "question": "Was ist eine Whitelist?",
+  "answer": "Eine Liste erlaubter Elemente.",
+  "hint": "Nur wer draufsteht, darf rein.",
+  "explanation": "Whitelists definieren, welche Programme, IPs oder Domains erlaubt sind.",
+  "options": [
+    "Eine Liste erlaubter Elemente.",
+    "Eine Liste blockierter Elemente.",
+    "Ein Netzwerkfilter.",
+    "Ein Betriebssystemdienst."
+  ]
+},
+{
+  "question": "Was ist eine Sandbox?",
+  "answer": "Eine isolierte Umgebung zum Testen oder Ausführen von Code.",
+  "hint": "Sicher herumspielen – ohne Schaden.",
+  "explanation": "Sandboxes begrenzen die Auswirkungen von Software durch Isolation vom Rest des Systems.",
+  "options": [
+    "Eine isolierte Umgebung zum Testen oder Ausführen von Code.",
+    "Ein Update-System.",
+    "Ein BIOS-Bereich.",
+    "Ein VPN-Client."
+  ]
+},
+{
+  "question": "Was bedeutet IP?",
+  "answer": "Internet Protocol.",
+  "hint": "Ohne geht’s nicht online.",
+  "explanation": "Das Internet Protocol definiert Adressierung und Routing im Internet.",
+  "options": [
+    "Internet Protocol.",
+    "Internal Provider.",
+    "Interface Patch.",
+    "Input Parameter."
+  ]
+},
+{
+  "question": "Was ist eine CLI?",
+  "answer": "Command Line Interface.",
+  "hint": "Für Puristen und Maschinenflüsterer.",
+  "explanation": "Eine CLI erlaubt Textbefehle zur Steuerung von Programmen und Systemen.",
+  "options": [
+    "Command Line Interface.",
+    "Cloud Login Interface.",
+    "Central Line Integrator.",
+    "Certified Linux Installer."
+  ]
+},
+{
+  "question": "Was ist ein Hypervisor?",
+  "answer": "Eine Software zur Virtualisierung von Betriebssystemen.",
+  "hint": "Er tut so, als wäre dein Computer viele Computer.",
+  "explanation": "Hypervisoren ermöglichen das gleichzeitige Ausführen mehrerer virtueller Maschinen.",
+  "options": [
+    "Eine Software zur Virtualisierung von Betriebssystemen.",
+    "Ein System-Update-Tool.",
+    "Ein Dateisystemtreiber.",
+    "Ein Webbrowser."
+  ]
+},
+{
+  "question": "Was ist ein Trojaner?",
+  "answer": "Eine Schadsoftware, die sich als nützliches Programm tarnt.",
+  "hint": "Nicht aus Troja, aber trotzdem schlecht.",
+  "explanation": "Trojaner schleusen sich durch Täuschung ein und können das System kompromittieren.",
+  "options": [
+    "Eine Schadsoftware, die sich als nützliches Programm tarnt.",
+    "Ein Updatepaket.",
+    "Ein Netzwerktreiber.",
+    "Ein Patch-Tool."
+  ]
+},
+{
+  "question": "Was bedeutet IPv6?",
+  "answer": "Ein Internetprotokoll mit 128-Bit-Adressen.",
+  "hint": "Mehr Adressen als dein Hirn fassen kann.",
+  "explanation": "IPv6 ersetzt IPv4 und bietet ausreichend Adressen für die Zukunft.",
+  "options": [
+    "Ein Internetprotokoll mit 128-Bit-Adressen.",
+    "Ein Backup-Protokoll.",
+    "Ein BIOS-Format.",
+    "Ein Verschlüsselungsstandard."
+  ]
+},
+{
+  "question": "Was ist ein Cronjob?",
+  "answer": "Ein zeitgesteuerter Task unter Unix-Systemen.",
+  "hint": "Die Linux-Version eines Weckers mit Terminalzugang.",
+  "explanation": "Cronjobs führen Skripte oder Programme zu geplanten Zeiten automatisch aus.",
+  "options": [
+    "Ein zeitgesteuerter Task unter Unix-Systemen.",
+    "Ein Benutzerprofil.",
+    "Ein Firewall-Protokoll.",
+    "Ein System-Update-Manager."
+  ]
+},
+{
+  "question": "Was bedeutet ASCII?",
+  "answer": "American Standard Code for Information Interchange.",
+  "hint": "Wenn Text nur Zahlen ist.",
+  "explanation": "ASCII codiert Zeichen in Zahlenwerte zur Verarbeitung durch Computer.",
+  "options": [
+    "American Standard Code for Information Interchange.",
+    "Advanced Secure Connection Interface Integration.",
+    "All System Control Index Input.",
+    "Application Security Control Interface."
+  ]
+},
+{
+  "question": "Was ist ein Byte?",
+  "answer": "Eine Dateneinheit aus 8 Bits.",
+  "hint": "8 kleine Entscheidungen machen ein großes Ding.",
+  "explanation": "Ein Byte ist die kleinste adressierbare Dateneinheit in den meisten Systemen.",
+  "options": [
+    "Eine Dateneinheit aus 8 Bits.",
+    "Ein Dateiformat.",
+    "Ein Systemdienst.",
+    "Ein WLAN-Treiber."
+  ]
+},
+{
+  "question": "Was ist ein Port in Netzwerken?",
+  "answer": "Eine logische Schnittstelle für Netzwerkdienste.",
+  "hint": "Jeder Dienst hat seine eigene Tür.",
+  "explanation": "Ports helfen, Netzwerkverbindungen bestimmten Diensten zuzuordnen (z. B. Port 80 für HTTP).",
+  "options": [
+    "Eine logische Schnittstelle für Netzwerkdienste.",
+    "Ein physischer Netzwerkanschluss.",
+    "Ein Dateisystembereich.",
+    "Ein Verschlüsselungsprotokoll."
+  ]
+},
+{
+  "question": "Was ist ein Bootloader?",
+  "answer": "Ein Programm, das beim Starten des PCs das Betriebssystem lädt.",
+  "hint": "Er entscheidet, was hochfährt.",
+  "explanation": "Bootloader wie GRUB bestimmen, welches OS gestartet wird und laden es in den Speicher.",
+  "options": [
+    "Ein Programm, das beim Starten des PCs das Betriebssystem lädt.",
+    "Ein USB-Ladegerät.",
+    "Ein BIOS-Update.",
+    "Ein SSH-Dienst."
+  ]
+},
+{
+  "question": "Was bedeutet BSoD?",
+  "answer": "Blue Screen of Death.",
+  "hint": "Ein Klassiker unter den Windows-Schockmomenten.",
+  "explanation": "Der BSoD signalisiert einen kritischen Systemfehler in Windows.",
+  "options": [
+    "Blue Screen of Death.",
+    "Backup Source on Disk.",
+    "BIOS Sync over DNS.",
+    "Bitstream Operating Device."
+  ]
+},
+{
+  "question": "Was ist eine VM?",
+  "answer": "Eine virtuelle Maschine.",
+  "hint": "Ein Computer im Computer.",
+  "explanation": "VMs simulieren komplette Rechnerumgebungen, oft genutzt für Tests oder Isolation.",
+  "options": [
+    "Eine virtuelle Maschine.",
+    "Ein Netzwerkgerät.",
+    "Ein VPN-Protokoll.",
+    "Ein Updatepaket."
+  ]
+},
+{
+  "question": "Was ist ein Repository?",
+  "answer": "Ein Speicherort für Software und Konfigurationsdaten.",
+  "hint": "Die Schatzkiste für Entwickler.",
+  "explanation": "Repos enthalten Quellcode, Pakete oder Systemkonfigurationen und unterstützen Versionierung.",
+  "options": [
+    "Ein Speicherort für Software und Konfigurationsdaten.",
+    "Ein Root-Verzeichnis.",
+    "Ein WLAN-Hotspot.",
+    "Ein BIOS-Speicherbereich."
+  ]
+},
+{
+  "question": "Was bedeutet FTP?",
+  "answer": "File Transfer Protocol.",
+  "hint": "Daten von A nach B übers Internet – Oldschool Style.",
+  "explanation": "FTP ist ein Standardprotokoll für Dateiübertragungen zwischen Client und Server.",
+  "options": [
+    "File Transfer Protocol.",
+    "Fast Transfer Platform.",
+    "File Tunneling Protocol.",
+    "Firewall Token Pass."
+  ]
+},
+{
+  "question": "Was ist eine IP-Klasse?",
+  "answer": "Eine Einteilung von IP-Adressen in Bereiche.",
+  "hint": "A, B, C – nicht nur in der Schule.",
+  "explanation": "IP-Klassen unterteilen Adressbereiche für verschiedene Netzgrößen.",
+  "options": [
+    "Eine Einteilung von IP-Adressen in Bereiche.",
+    "Ein DNS-Fehlercode.",
+    "Ein WLAN-Treiber.",
+    "Ein Systembefehl."
+  ]
+},
+{
+  "question": "Was ist ein SSL-Tunnel?",
+  "answer": "Eine verschlüsselte Verbindung über das Internet.",
+  "hint": "Niemand sieht, was du durchträgst.",
+  "explanation": "SSL-Tunnel schützen Datenverkehr durch Ende-zu-Ende-Verschlüsselung.",
+  "options": [
+    "Eine verschlüsselte Verbindung über das Internet.",
+    "Ein Kabeltyp.",
+    "Ein Servermonitoring-Dienst.",
+    "Ein DHCP-Feature."
+  ]
+},
+{
+  "question": "Was bedeutet DNS-Leak?",
+  "answer": "Ein Zustand, bei dem DNS-Anfragen trotz VPN öffentlich sichtbar sind.",
+  "hint": "Du bist getarnt – aber fragst laut nach dem Weg.",
+  "explanation": "Ein DNS-Leak kann deine Aktivitäten enttarnen, selbst bei aktivem VPN.",
+  "options": [
+    "Ein Zustand, bei dem DNS-Anfragen trotz VPN öffentlich sichtbar sind.",
+    "Ein Fehler bei der Dateifreigabe.",
+    "Ein WLAN-Sicherheitsleck.",
+    "Ein SSH-Problem."
+  ]
+},
+{
+  "question": "Was ist ein Stack Overflow?",
+  "answer": "Ein Fehler durch Überlauf des Speicherbereichs für Funktionsaufrufe.",
+  "hint": "Nicht nur eine Website, sondern auch ein Crash.",
+  "explanation": "Ein Stack Overflow tritt auf, wenn zu viele verschachtelte Aufrufe den Speicher überfüllen.",
+  "options": [
+    "Ein Fehler durch Überlauf des Speicherbereichs für Funktionsaufrufe.",
+    "Ein Datenbankfehler.",
+    "Ein Netzwerkengpass.",
+    "Ein BIOS-Update-Problem."
+  ]
+},
+{
+  "question": "Was ist ein Token im Sicherheitskontext?",
+  "answer": "Ein digitaler Schlüssel zur Authentifizierung.",
+  "hint": "Wie ein Ausweis fürs Internet.",
+  "explanation": "Sicherheitstokens werden zur Identifikation und Autorisierung von Benutzern eingesetzt.",
+  "options": [
+    "Ein digitaler Schlüssel zur Authentifizierung.",
+    "Ein Netzwerkpaket.",
+    "Ein WLAN-Repeater.",
+    "Ein BIOS-Zertifikat."
+  ]
+},
+{
+  "question": "Was ist SSH Tunneling?",
+  "answer": "Die Weiterleitung von Netzwerkdaten über eine verschlüsselte SSH-Verbindung.",
+  "hint": "Durchs Terminal ab in die VPN-Höhle.",
+  "explanation": "SSH-Tunnel erlauben den sicheren Transport von Protokollen durch eine SSH-Verbindung.",
+  "options": [
+    "Die Weiterleitung von Netzwerkdaten über eine verschlüsselte SSH-Verbindung.",
+    "Ein FTP-Backup.",
+    "Ein Kernelmodul.",
+    "Ein Authentifizierungsdienst."
+  ]
+},
+{
+  "question": "Was bedeutet TTL bei IP-Paketen?",
+  "answer": "Time To Live – begrenzt die Lebensdauer eines Pakets.",
+  "hint": "Jedes Paket stirbt irgendwann.",
+  "explanation": "TTL verhindert endlose Schleifen, indem Pakete nach einer bestimmten Anzahl Hops verworfen werden.",
+  "options": [
+    "Time To Live – begrenzt die Lebensdauer eines Pakets.",
+    "Traffic Token Limitation.",
+    "Transport Terminal Lock.",
+    "Transfer Tool Logging."
+  ]
+},
+{
+  "question": "Was ist ein Proxy-Bypass?",
+  "answer": "Der Versuch, einen Proxy zu umgehen.",
+  "hint": "Ich sehe dich. Du bist nicht clever.",
+  "explanation": "Proxy-Bypasses werden verwendet, um Zugriffsbeschränkungen zu umgehen – meist unerwünscht.",
+  "options": [
+    "Der Versuch, einen Proxy zu umgehen.",
+    "Ein Serverupdate.",
+    "Ein Backup-Prozess.",
+    "Ein Firewallprotokoll."
+  ]
+},
+{
+  "question": "Was ist eine Hashfunktion?",
+  "answer": "Eine Funktion zur eindeutigen Darstellung von Daten.",
+  "hint": "Die digitale Fingerabdruckmaschine.",
+  "explanation": "Hashfunktionen erzeugen Prüfsummen, z. B. für Passwortspeicherung oder Integritätsprüfung.",
+  "options": [
+    "Eine Funktion zur eindeutigen Darstellung von Daten.",
+    "Ein USB-Protokoll.",
+    "Ein Datenbankformat.",
+    "Ein Hypervisor-Modul."
+  ]
+},
+{
+  "question": "Was ist der Unterschied zwischen TCP und UDP?",
+  "answer": "TCP ist verbindungsorientiert, UDP verbindungslos.",
+  "hint": "Mit oder ohne Garantie.",
+  "explanation": "TCP bietet zuverlässige Übertragung, UDP ist schneller, aber ohne Garantie für Zustellung.",
+  "options": [
+    "TCP ist verbindungsorientiert, UDP verbindungslos.",
+    "Beide sind gleich.",
+    "UDP ist sicherer.",
+    "TCP ist nur für lokale Netzwerke geeignet."
+  ]
+},
+{
+  "question": "Was ist eine ACL?",
+  "answer": "Access Control List – regelt Zugriffsrechte.",
+  "hint": "Die VIP-Liste fürs Dateisystem.",
+  "explanation": "ACLs steuern, welche Benutzer oder Systeme Zugriff auf Ressourcen haben.",
+  "options": [
+    "Access Control List – regelt Zugriffsrechte.",
+    "Advanced Communication Layer.",
+    "Application Cache Loader.",
+    "Admin Command Level."
+  ]
+},
+{
+  "question": "Was bedeutet LTS bei Software?",
+  "answer": "Long Term Support – verlängerte Wartungsversion.",
+  "hint": "Stabil, aber keine heißen Features.",
+  "explanation": "LTS-Versionen erhalten länger Updates, ideal für produktive Umgebungen.",
+  "options": [
+    "Long Term Support – verlängerte Wartungsversion.",
+    "Local Time Service.",
+    "Login Token System.",
+    "Limited Transfer Socket."
+  ]
+},
+{
+  "question": "Was ist ein Dual-Boot-System?",
+  "answer": "Ein Rechner mit zwei installierten Betriebssystemen.",
+  "hint": "Zwei Seelen wohnen, ach! in meinem Gerät.",
+  "explanation": "Ein Dual-Boot erlaubt das Auswählen zwischen zwei Betriebssystemen beim Start.",
+  "options": [
+    "Ein Rechner mit zwei installierten Betriebssystemen.",
+    "Ein BIOS-Backup.",
+    "Ein RAID-System.",
+    "Ein Virtualisierungstool."
+  ]
+},
+{
+  "question": "Was bedeutet GUI?",
+  "answer": "Graphical User Interface.",
+  "hint": "Damit du nicht tippen musst.",
+  "explanation": "Eine grafische Oberfläche zur einfachen Bedienung von Software.",
+  "options": [
+    "Graphical User Interface.",
+    "Global Upload Interface.",
+    "General User Integration.",
+    "Gateway Usage Index."
+  ]
+},
+{
+  "question": "Was ist ein CDN?",
+  "answer": "Ein Netzwerk zur Auslieferung von Inhalten.",
+  "hint": "Bringt die Website schneller zu dir.",
+  "explanation": "Content Delivery Networks verteilen Inhalte auf viele Server, um Ladezeiten zu verbessern.",
+  "options": [
+    "Ein Netzwerk zur Auslieferung von Inhalten.",
+    "Ein Protokoll für DNS.",
+    "Ein VPN-Modul.",
+    "Ein BIOS-Ersatz."
+  ]
+},
+{
+  "question": "Was ist ein Softlink in Linux?",
+  "answer": "Ein symbolischer Verweis auf eine Datei.",
+  "hint": "Wie eine Datei mit einem Alias.",
+  "explanation": "Ein Softlink zeigt auf eine andere Datei, ähnlich wie eine Verknüpfung unter Windows.",
+  "options": [
+    "Ein symbolischer Verweis auf eine Datei.",
+    "Eine Systemsperre.",
+    "Ein Kernelmodul.",
+    "Ein Bootsektor."
+  ]
+},
+{
+  "question": "Was ist ein Hardlink?",
+  "answer": "Ein weiterer Verzeichniseintrag für dieselbe Datei.",
+  "hint": "Ein Zwilling – nicht nur ein Hinweis.",
+  "explanation": "Hardlinks zeigen auf denselben Inode, existieren gleichwertig zur Originaldatei.",
+  "options": [
+    "Ein weiterer Verzeichniseintrag für dieselbe Datei.",
+    "Ein BIOS-Update.",
+    "Ein virtueller Ordner.",
+    "Ein RAM-Bereich."
+  ]
+},
+{
+  "question": "Was ist ein Jailbreak?",
+  "answer": "Das Entfernen von Softwarebeschränkungen auf Geräten.",
+  "hint": "Grenzenlos – aber nicht ungefährlich.",
+  "explanation": "Beim Jailbreak werden künstliche Einschränkungen eines Betriebssystems aufgehoben.",
+  "options": [
+    "Das Entfernen von Softwarebeschränkungen auf Geräten.",
+    "Ein Datenbankexport.",
+    "Ein USB-Protokoll.",
+    "Ein BIOS-Reset."
+  ]
+},
+{
+  "question": "Was ist eine UUID?",
+  "answer": "Eine universell eindeutige Kennung.",
+  "hint": "Wie ein Fingerabdruck für Daten.",
+  "explanation": "UUIDs werden verwendet, um Objekte systemweit eindeutig zu identifizieren.",
+  "options": [
+    "Eine universell eindeutige Kennung.",
+    "Ein Zeitstempel.",
+    "Ein Dateiformat.",
+    "Ein BIOS-Wert."
+  ]
+},
+{
+  "question": "Was ist ein Loopback-Interface?",
+  "answer": "Ein virtuelles Netzwerkgerät zur internen Kommunikation.",
+  "hint": "Redet nur mit sich selbst.",
+  "explanation": "Das Loopback-Interface wird z. B. für Tests und lokale Dienste verwendet.",
+  "options": [
+    "Ein virtuelles Netzwerkgerät zur internen Kommunikation.",
+    "Ein WLAN-Testgerät.",
+    "Ein Remote-Service.",
+    "Ein SSH-Key."
+  ]
+},
+{
+  "question": "Was bedeutet MIME?",
+  "answer": "Multipurpose Internet Mail Extensions.",
+  "hint": "Dein Anhang braucht das.",
+  "explanation": "MIME erweitert das Format von E-Mails um Anhänge wie Bilder oder PDFs.",
+  "options": [
+    "Multipurpose Internet Mail Extensions.",
+    "Mail Integration Management Extension.",
+    "Multi Input Media Exchange.",
+    "Managed Interface Message Encoding."
+  ]
+},
+{
+  "question": "Was ist ein Symlink?",
+  "answer": "Ein symbolischer Link zu einer Datei oder einem Verzeichnis.",
+  "hint": "Er zeigt nur – er ist nicht selbst die Datei.",
+  "explanation": "Symlinks sind Verweise, die auf Pfade im Dateisystem zeigen.",
+  "options": [
+    "Ein symbolischer Link zu einer Datei oder einem Verzeichnis.",
+    "Ein Komprimierungstool.",
+    "Ein Dateisystemtyp.",
+    "Ein Hardwareanschluss."
+  ]
+},
+{
+  "question": "Was ist ein Kernel?",
+  "answer": "Der zentrale Bestandteil eines Betriebssystems.",
+  "hint": "Der Boss des Systems.",
+  "explanation": "Der Kernel steuert Hardwarezugriffe, Prozesse, Speicher und mehr.",
+  "options": [
+    "Der zentrale Bestandteil eines Betriebssystems.",
+    "Ein BIOS-Modul.",
+    "Ein GUI-Tool.",
+    "Ein Editor."
+  ]
+},
+{
+  "question": "Was ist ein Mountpoint?",
+  "answer": "Ein Verzeichnispunkt zur Einbindung eines Dateisystems.",
+  "hint": "Hier hängt sich die Festplatte ein.",
+  "explanation": "Mountpoints werden verwendet, um Speichergeräte ins Dateisystem einzubinden.",
+  "options": [
+    "Ein Verzeichnispunkt zur Einbindung eines Dateisystems.",
+    "Ein BIOS-Bereich.",
+    "Ein SSH-Ziel.",
+    "Ein Taskplaner."
+  ]
+},
+{
+  "question": "Was bedeutet API?",
+  "answer": "Application Programming Interface.",
+  "hint": "Damit Software mit Software redet.",
+  "explanation": "APIs stellen Schnittstellen für die Kommunikation zwischen Programmen bereit.",
+  "options": [
+    "Application Programming Interface.",
+    "Advanced Protocol Integration.",
+    "Access Point Identifier.",
+    "Application Port Interface."
+  ]
+},
+{
+  "question": "Was ist ein Hexdump?",
+  "answer": "Eine Darstellung von Daten in Hexadezimalform.",
+  "hint": "Wenn Einsen und Nullen zu bunt werden.",
+  "explanation": "Hexdumps zeigen Binärdaten lesbar für Entwickler in hexadezimaler Form.",
+  "options": [
+    "Eine Darstellung von Daten in Hexadezimalform.",
+    "Ein Backuptool.",
+    "Ein VPN-Paket.",
+    "Ein Bootloader."
+  ]
+},
+{
+  "question": "Was bedeutet TLD?",
+  "answer": "Top Level Domain.",
+  "hint": ".com, .de und Co.",
+  "explanation": "Die TLD ist der letzte Teil eines Domainnamens, z. B. .org oder .net.",
+  "options": [
+    "Top Level Domain.",
+    "Terminal Logging Directory.",
+    "Transfer Link Definition.",
+    "Trusted LAN Device."
+  ]
+},
+{
+  "question": "Was ist ein Fork in der Softwareentwicklung?",
+  "answer": "Eine Abspaltung eines Projekts zur unabhängigen Weiterentwicklung.",
+  "hint": "Copy + Paste + rebellisch.",
+  "explanation": "Ein Fork erlaubt es, ein Projekt unabhängig vom Original weiterzuführen.",
+  "options": [
+    "Eine Abspaltung eines Projekts zur unabhängigen Weiterentwicklung.",
+    "Ein Versionssprung.",
+    "Ein Fehler im Compiler.",
+    "Ein Git-Patch."
+  ]
+},
+{
+  "question": "Was ist eine Pipe in der Kommandozeile?",
+  "answer": "Ein Mechanismus zur Weitergabe von Ausgaben als Eingaben.",
+  "hint": "| ist kein Tippfehler.",
+  "explanation": "Mit Pipes wird die Ausgabe eines Befehls direkt als Eingabe für den nächsten genutzt.",
+  "options": [
+    "Ein Mechanismus zur Weitergabe von Ausgaben als Eingaben.",
+    "Ein BIOS-Befehl.",
+    "Ein GUI-Modul.",
+    "Ein Protokollfilter."
+  ]
+},
+{
+  "question": "Was ist eine Regex?",
+  "answer": "Ein Ausdruck zur Beschreibung von Zeichenmustern.",
+  "hint": "Wenn du Zeichenketten quälen willst.",
+  "explanation": "Regular Expressions dienen zum Suchen, Prüfen und Ersetzen von Textmustern.",
+  "options": [
+    "Ein Ausdruck zur Beschreibung von Zeichenmustern.",
+    "Ein Dateiformat.",
+    "Ein VPN-Protokoll.",
+    "Ein Shellbefehl."
+  ]
+},
+{
+  "question": "Was bedeutet CRUD?",
+  "answer": "Create, Read, Update, Delete.",
+  "hint": "Alles, was man mit Daten macht.",
+  "explanation": "CRUD beschreibt grundlegende Operationen in Datenbanken und Anwendungen.",
+  "options": [
+    "Create, Read, Update, Delete.",
+    "Control, Run, Upload, Download.",
+    "Crash, Restart, Undo, Deploy.",
+    "Compile, Render, Upload, Delete."
+  ]
+},
+{
+  "question": "Was ist ein Daemon?",
+  "answer": "Ein Hintergrunddienst unter Unix-Systemen.",
+  "hint": "Er werkelt leise im Hintergrund.",
+  "explanation": "Daemons sind Prozesse, die Dienste bereitstellen, z. B. für Netzwerke oder Drucker.",
+  "options": [
+    "Ein Hintergrunddienst unter Unix-Systemen.",
+    "Ein Taskplaner.",
+    "Ein BIOS-Modul.",
+    "Ein Benutzerprofil."
+  ]
+},
+{
+  "question": "Was ist ein Man-in-the-Middle-Angriff?",
+  "answer": "Ein Angriff, bei dem Kommunikation unbemerkt mitgelesen oder manipuliert wird.",
+  "hint": "Dazwischen ist nie gut.",
+  "explanation": "Angreifer schleusen sich zwischen zwei Kommunikationspartner und fangen Daten ab.",
+  "options": [
+    "Ein Angriff, bei dem Kommunikation unbemerkt mitgelesen oder manipuliert wird.",
+    "Ein DNS-Leak.",
+    "Ein Port-Scan.",
+    "Ein Botnet-Test."
+  ]
+},
+{
+  "question": "Was bedeutet PING?",
+  "answer": "Packet Internet Groper.",
+  "hint": "Ich ruf mal kurz an.",
+  "explanation": "PING prüft die Erreichbarkeit eines Hosts im Netzwerk.",
+  "options": [
+    "Packet Internet Groper.",
+    "Protocol Inbound Gateway.",
+    "Port Input Network Gateway.",
+    "Ping Is Not Gone."
+  ]
+},
+{
+  "question": "Was ist ein Brute-Force-Angriff?",
+  "answer": "Ein Versuch, Passwörter durch Ausprobieren aller Kombinationen zu erraten.",
+  "hint": "Keine Kunst – nur Geduld und CPU.",
+  "explanation": "Brute-Force nutzt rohe Rechenleistung, um Zugangsdaten zu erraten.",
+  "options": [
+    "Ein Versuch, Passwörter durch Ausprobieren aller Kombinationen zu erraten.",
+    "Ein Login-Timeout.",
+    "Ein Sicherheitszertifikat.",
+    "Ein Proxyfilter."
+  ]
+},
+{
+  "question": "Was ist eine MAC-Spoofing-Attacke?",
+  "answer": "Ein Angriff, bei dem die MAC-Adresse gefälscht wird.",
+  "hint": "Ich bin wer anders – versprochen.",
+  "explanation": "MAC-Spoofing tarnt ein Gerät mit einer anderen MAC-Adresse, um Zugang zu erhalten.",
+  "options": [
+    "Ein Angriff, bei dem die MAC-Adresse gefälscht wird.",
+    "Ein Kernelmodul.",
+    "Ein VPN-Leak.",
+    "Ein WLAN-Repeater-Test."
+  ]
+},
+{
+  "question": "Was ist der Unterschied zwischen Authentifizierung und Autorisierung?",
+  "answer": "Authentifizierung prüft Identität, Autorisierung Zugriffsrechte.",
+  "hint": "Wer du bist vs. was du darfst.",
+  "explanation": "Zuerst beweist du, wer du bist, dann bekommst du Rechte.",
+  "options": [
+    "Authentifizierung prüft Identität, Autorisierung Zugriffsrechte.",
+    "Beides bedeutet dasselbe.",
+    "Autorisierung kommt immer zuerst.",
+    "Authentifizierung betrifft nur Admins."
+  ]
 }
 
 
@@ -1206,4 +3787,26 @@
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
 ]
+
+
+
+
+
+
+
+
+
