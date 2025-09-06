@@ -1,0 +1,1209 @@
+[
+  {
+    "question": "Was ist ein Betriebssystem?",
+    "answer": "Eine Software, die Hardware verwaltet und Programme ausführt.",
+    "hint": "Es ist die Grundlage jedes Computers, ohne es läuft nichts.",
+    "explanation": "Ein Betriebssystem verwaltet Ressourcen wie Speicher und CPU und bietet Schnittstellen für Anwendungen.",
+    "options": [
+      "Eine Software, die Hardware verwaltet und Programme ausführt.",
+      "Ein Gerät zur Datenübertragung.",
+      "Ein physikalisches Netzwerkgerät.",
+      "Eine Art von Programmiersprache."
+    ]
+  },
+  {
+    "question": "Was macht ein DHCP-Server?",
+    "answer": "Er weist IP-Adressen automatisch zu.",
+    "hint": "Hilft Geräten, sich im Netzwerk zurechtzufinden.",
+    "explanation": "DHCP steht für Dynamic Host Configuration Protocol und ermöglicht automatische Netzwerkkonfiguration.",
+    "options": [
+      "Er hostet Webseiten.",
+      "Er weist IP-Adressen automatisch zu.",
+      "Er schützt vor Viren.",
+      "Er verschlüsselt E-Mails."
+    ]
+  },
+  {
+    "question": "Was bedeutet VPN?",
+    "answer": "Virtual Private Network.",
+    "hint": "Es versteckt deine IP und sichert deine Verbindung.",
+    "explanation": "Ein VPN stellt eine verschlüsselte Verbindung zu einem entfernten Netzwerk über das Internet her.",
+    "options": [
+      "Very Personal Network",
+      "Virtual Private Network.",
+      "Verbindungs-Proxy-Netz",
+      "Verschlüsseltes Paketnetzwerk"
+    ]
+  },
+  {
+  "question": "Frage 4: Welche Schicht des OSI-Modells ist für Routing verantwortlich?",
+  "answer": "Die Netzwerkschicht (Layer 3).",
+  "hint": "Sie beschäftigt sich mit IP-Adressen.",
+  "explanation": "Die Netzwerkschicht entscheidet, wie Daten zwischen Netzwerken weitergeleitet werden.",
+  "options": [
+    "Die Netzwerkschicht (Layer 3).",
+    "Die Sicherungsschicht.",
+    "Die Anwendungsschicht.",
+    "Die Transportschicht."
+  ]
+},
+{
+  "question": "Frage 5: Was beschreibt die MAC-Adresse?",
+  "answer": "Eine eindeutige Hardwareadresse einer Netzwerkkarte.",
+  "hint": "Sie ist fest in der Hardware gespeichert.",
+  "explanation": "Die MAC-Adresse identifiziert jedes Gerät eindeutig im Netzwerk.",
+  "options": [
+    "Eine eindeutige Hardwareadresse einer Netzwerkkarte.",
+    "Die IP-Adresse des Routers.",
+    "Ein Netzwerkprotokoll.",
+    "Ein Betriebssystemdienst."
+  ]
+},
+{
+  "question": "Frage 6: Wofür steht RAID?",
+  "answer": "Redundant Array of Independent Disks.",
+  "hint": "Es geht um Festplatten und Ausfallsicherheit.",
+  "explanation": "RAID ist eine Methode zur Kombination mehrerer Festplatten zu einem logischen Laufwerk mit erhöhter Ausfallsicherheit oder Leistung.",
+  "options": [
+    "Redundant Array of Independent Disks.",
+    "Remote Access Identification Device.",
+    "Random Access in Databases.",
+    "Rapid Automated Interface Driver."
+  ]
+},
+{
+  "question": "Frage 7: Was ist eine IP-Adresse?",
+  "answer": "Eine eindeutige Adresse für ein Gerät in einem Netzwerk.",
+  "hint": "Ohne sie wüssten die Geräte nicht, wohin sie Daten senden sollen.",
+  "explanation": "Eine IP-Adresse dient der eindeutigen Identifikation und Adressierung eines Geräts im Netzwerk.",
+  "options": [
+    "Eine eindeutige Adresse für ein Gerät in einem Netzwerk.",
+    "Ein Zugriffsschutz für Dateien.",
+    "Eine Art Computerprogramm.",
+    "Ein Netzwerkdienst für Drucker."
+  ]
+},
+{
+  "question": "Frage 8: Was ist ein Switch?",
+  "answer": "Ein Gerät zur Verbindung mehrerer Geräte in einem Netzwerk.",
+  "hint": "Er arbeitet meist auf Layer 2.",
+  "explanation": "Ein Switch leitet Datenpakete an das richtige Zielgerät weiter.",
+  "options": [
+    "Ein Gerät zur Verbindung mehrerer Geräte in einem Netzwerk.",
+    "Ein Funkgerät.",
+    "Ein Betriebssystemdienst.",
+    "Ein Webserver."
+  ]
+},
+{
+  "question": "Frage 9: Was ist der Zweck eines DNS-Servers?",
+  "answer": "Er übersetzt Domainnamen in IP-Adressen.",
+  "hint": "Du willst www.google.de, dein Rechner will 142.250.74.35.",
+  "explanation": "DNS steht für Domain Name System und ermöglicht benutzerfreundliche Webadressen.",
+  "options": [
+    "Er übersetzt Domainnamen in IP-Adressen.",
+    "Er sichert Webseiten gegen Viren.",
+    "Er hostet Dateien.",
+    "Er sendet E-Mails automatisch weiter."
+  ]
+},
+{
+  "question": "Frage 10: Wofür steht SSD?",
+  "answer": "Solid State Drive.",
+  "hint": "Sie ist schneller als HDD.",
+  "explanation": "Eine SSD ist ein Speichermedium ohne bewegliche Teile und daher schneller und robuster.",
+  "options": [
+    "Solid State Drive.",
+    "Secure Software Directory.",
+    "Serial Storage Device.",
+    "Systematic Scripting Device."
+  ]
+},
+{
+  "question": "Frage 11: Was ist ein Router?",
+  "answer": "Ein Gerät, das Netzwerke miteinander verbindet.",
+  "hint": "Er verbindet dein Heimnetz mit dem Internet.",
+  "explanation": "Ein Router leitet Datenpakete zwischen verschiedenen Netzwerken weiter.",
+  "options": [
+    "Ein Gerät, das Netzwerke miteinander verbindet.",
+    "Ein Gerät zur Stromversorgung.",
+    "Ein Softwaredienst auf Servern.",
+    "Ein Firewall-Modul."
+  ]
+},
+{
+  "question": "Frage 12: Was macht ein Proxy-Server?",
+  "answer": "Er vermittelt Anfragen zwischen Client und Server.",
+  "hint": "Hilfreich für Sicherheit, Filterung oder Caching.",
+  "explanation": "Ein Proxy-Server agiert als Vermittler und kann Anfragen blockieren oder optimieren.",
+  "options": [
+    "Er vermittelt Anfragen zwischen Client und Server.",
+    "Er stellt IP-Adressen bereit.",
+    "Er ist ein Ersatz für den Router.",
+    "Er überwacht den Stromverbrauch."
+  ]
+},
+{
+  "question": "Frage 13: Was ist ein VLAN?",
+  "answer": "Ein logisches Teilnetz innerhalb eines physischen Netzwerks.",
+  "hint": "Trennt Netzwerke virtuell.",
+  "explanation": "VLANs ermöglichen die Segmentierung von Netzwerken, ohne die physische Infrastruktur zu ändern.",
+  "options": [
+    "Ein logisches Teilnetz innerhalb eines physischen Netzwerks.",
+    "Ein physisches Netzwerkkabel.",
+    "Ein Betriebssystem-Dienst.",
+    "Ein Netzwerkprotokoll zur Datenübertragung."
+  ]
+},
+{
+  "question": "Frage 14: Wofür steht HTTPS?",
+  "answer": "HyperText Transfer Protocol Secure.",
+  "hint": "Es sichert Webseitenverbindungen.",
+  "explanation": "HTTPS ist die verschlüsselte Version von HTTP für sichere Kommunikation im Internet.",
+  "options": [
+    "HyperText Transfer Protocol Secure.",
+    "High Transfer Tunnel Protocol System.",
+    "Hyper Transport Text Protocol Session.",
+    "Häufige Textverarbeitung für Protokolle."
+  ]
+},
+{
+  "question": "Frage 15: Was ist eine Firewall?",
+  "answer": "Ein System zur Überwachung und Filterung von Netzwerkverkehr.",
+  "hint": "Blockiert Unerwünschtes.",
+  "explanation": "Firewalls schützen Netzwerke vor unautorisiertem Zugriff oder Schadsoftware.",
+  "options": [
+    "Ein System zur Überwachung und Filterung von Netzwerkverkehr.",
+    "Ein Antivirenprogramm.",
+    "Ein Routerersatz.",
+    "Ein Stromkreisschutz."
+  ]
+},
+{
+  "question": "Frage 16: Wofür steht BIOS?",
+  "answer": "Basic Input Output System.",
+  "hint": "Das erste, was beim Starten des PCs ausgeführt wird.",
+  "explanation": "Das BIOS initialisiert die Hardware und startet das Betriebssystem.",
+  "options": [
+    "Basic Input Output System.",
+    "Binary Integrated Operating Shell.",
+    "Basic Internet Operation Scheme.",
+    "Built-in Operating Software."
+  ]
+},
+{
+  "question": "Frage 17: Was ist der Unterschied zwischen IPv4 und IPv6?",
+  "answer": "IPv6 hat einen größeren Adressraum.",
+  "hint": "IPv6 wurde wegen IPv4-Knappheit entwickelt.",
+  "explanation": "IPv6 ermöglicht mehr eindeutige IP-Adressen als IPv4.",
+  "options": [
+    "IPv6 hat einen größeren Adressraum.",
+    "IPv6 ist langsamer als IPv4.",
+    "IPv6 ersetzt DNS.",
+    "IPv6 funktioniert nur im lokalen Netzwerk."
+  ]
+},
+{
+  "question": "Frage 18: Was beschreibt ein Ping?",
+  "answer": "Ein Netzwerkbefehl zur Überprüfung der Erreichbarkeit eines Geräts.",
+  "hint": "Er misst Antwortzeiten.",
+  "explanation": "Ein Ping wird verwendet, um zu prüfen, ob ein Host erreichbar ist und wie lange die Antwort dauert.",
+  "options": [
+    "Ein Netzwerkbefehl zur Überprüfung der Erreichbarkeit eines Geräts.",
+    "Ein Sicherheitszertifikat.",
+    "Ein Protokoll zur IP-Vergabe.",
+    "Ein Befehl zum Herunterfahren von Servern."
+  ]
+},
+{
+  "question": "Frage 19: Was bedeutet Hot-Swapping?",
+  "answer": "Austausch von Komponenten im laufenden Betrieb.",
+  "hint": "Keine Neustarts nötig.",
+  "explanation": "Hot-Swapping erlaubt das Entfernen und Einfügen von Komponenten ohne Herunterfahren des Systems.",
+  "options": [
+    "Austausch von Komponenten im laufenden Betrieb.",
+    "Installation eines neuen BIOS.",
+    "Schnelles Umschalten zwischen Benutzerkonten.",
+    "Synchronisierung von Geräten im Netzwerk."
+  ]
+},
+{
+  "question": "Frage 20: Was ist ein NAS?",
+  "answer": "Network Attached Storage.",
+  "hint": "Es geht um zentralen Speicher im Netzwerk.",
+  "explanation": "Ein NAS ist ein eigenständiges Gerät zur Dateispeicherung im Netzwerk.",
+  "options": [
+    "Network Attached Storage.",
+    "Network Access Switch.",
+    "New Application Service.",
+    "Node Allocation Software."
+  ]
+},
+{
+  "question": "Frage 21: Was ist ein Token Ring?",
+  "answer": "Ein Netzwerkprotokoll, bei dem ein Token die Sendeberechtigung regelt.",
+  "hint": "Hat mit Ringen zu tun, aber nicht olympischen.",
+  "explanation": "Beim Token Ring darf nur das Gerät senden, das den Token besitzt.",
+  "options": [
+    "Ein Netzwerkprotokoll, bei dem ein Token die Sendeberechtigung regelt.",
+    "Ein Firewall-Modul.",
+    "Ein Verschlüsselungsmechanismus.",
+    "Ein LAN-Scanner."
+  ]
+},
+{
+  "question": "Frage 22: Was ist ein Thin Client?",
+  "answer": "Ein Computer, der stark auf Serverressourcen angewiesen ist.",
+  "hint": "Er macht nicht viel alleine.",
+  "explanation": "Thin Clients lagern Verarbeitung und Speicher auf einen Server aus.",
+  "options": [
+    "Ein Computer, der stark auf Serverressourcen angewiesen ist.",
+    "Ein energieintensiver Desktop-PC.",
+    "Ein Netzwerkmonitor.",
+    "Ein virtuelles Dateisystem."
+  ]
+},
+{
+  "question": "Frage 23: Was beschreibt die Cloud?",
+  "answer": "Die Bereitstellung von IT-Ressourcen über das Internet.",
+  "hint": "Kein Wölkchen, aber viel Speicher.",
+  "explanation": "Cloud-Dienste erlauben Zugriff auf Daten und Dienste unabhängig vom Ort.",
+  "options": [
+    "Die Bereitstellung von IT-Ressourcen über das Internet.",
+    "Ein spezielles Server-Betriebssystem.",
+    "Ein Dateiformat.",
+    "Ein Virenschutzprogramm."
+  ]
+},
+{
+  "question": "Frage 24: Was macht ein Load Balancer?",
+  "answer": "Er verteilt Anfragen gleichmäßig auf mehrere Server.",
+  "hint": "Gleichgewicht im Netzwerk.",
+  "explanation": "Ein Load Balancer verhindert Überlastung einzelner Server und erhöht die Verfügbarkeit.",
+  "options": [
+    "Er verteilt Anfragen gleichmäßig auf mehrere Server.",
+    "Er trennt Netzwerke voneinander.",
+    "Er überwacht IP-Adressen.",
+    "Er filtert Webinhalte."
+  ]
+},
+{
+  "question": "Frage 25: Was bedeutet ISO in Bezug auf Standards?",
+  "answer": "Internationale Organisation für Normung.",
+  "hint": "Nicht das ISO-Image gemeint.",
+  "explanation": "Die ISO definiert weltweit gültige Normen in vielen Bereichen, auch IT.",
+  "options": [
+    "Internationale Organisation für Normung.",
+    "Internet Systems Operation.",
+    "Information Storage Operation.",
+    "Integrated Security Output."
+  ]
+},
+{
+  "question": "Frage 26: Was bedeutet FTP?",
+  "answer": "File Transfer Protocol.",
+  "hint": "Damit werden Dateien übertragen.",
+  "explanation": "FTP ist ein Standardprotokoll zur Dateiübertragung über TCP/IP-Netzwerke.",
+  "options": [
+    "File Transfer Protocol.",
+    "Fast Transmission Program.",
+    "File Translation Platform.",
+    "Folder Tag Parser."
+  ]
+},
+{
+  "question": "Frage 27: Was ist ein Patch?",
+  "answer": "Eine Korrektur oder Verbesserung für Software.",
+  "hint": "Kommt oft nach Bugs.",
+  "explanation": "Ein Patch behebt Fehler oder schließt Sicherheitslücken in Software.",
+  "options": [
+    "Eine Korrektur oder Verbesserung für Software.",
+    "Ein Protokoll zur Datenübertragung.",
+    "Ein Ersatzgerät im Netzwerk.",
+    "Ein Teil eines BIOS-Updates."
+  ]
+},
+{
+  "question": "Frage 28: Was ist ein SSL-Zertifikat?",
+  "answer": "Ein digitales Zertifikat zur Verschlüsselung und Authentifizierung von Webseiten.",
+  "hint": "Hat mit HTTPS zu tun.",
+  "explanation": "SSL-Zertifikate sichern Webseitenkommunikation und bestätigen Identitäten.",
+  "options": [
+    "Ein digitales Zertifikat zur Verschlüsselung und Authentifizierung von Webseiten.",
+    "Ein Zugangscode für Serverräume.",
+    "Ein Antiviren-Zertifikat.",
+    "Ein Proxy-Befehl."
+  ]
+},
+{
+  "question": "Frage 29: Wofür steht CLI?",
+  "answer": "Command Line Interface.",
+  "hint": "Schwarz, weiß, blinkender Cursor.",
+  "explanation": "Eine textbasierte Schnittstelle zur Interaktion mit einem Betriebssystem.",
+  "options": [
+    "Command Line Interface.",
+    "Code Level Integration.",
+    "Client Loop Identifier.",
+    "Centralized Logic Input."
+  ]
+},
+{
+  "question": "Frage 30: Was ist eine USV?",
+  "answer": "Unterbrechungsfreie Stromversorgung.",
+  "hint": "Bei Stromausfall wichtig.",
+  "explanation": "Eine USV stellt kurzzeitig Strom bereit, um Systeme kontrolliert herunterzufahren.",
+  "options": [
+    "Unterbrechungsfreie Stromversorgung.",
+    "Unabhängige Server-Verbindung.",
+    "Universal System Voltage.",
+    "Upload-Synchronisierter Verteiler."
+  ]
+},
+{
+  "question": "Frage 31: Was ist NAT?",
+  "answer": "Network Address Translation.",
+  "hint": "Versteckt interne IP-Adressen.",
+  "explanation": "NAT übersetzt private in öffentliche IP-Adressen zur Kommunikation im Internet.",
+  "options": [
+    "Network Address Translation.",
+    "Net Access Token.",
+    "New Application Transport.",
+    "Network Audio Transfer."
+  ]
+},
+{
+  "question": "Frage 32: Was ist ein Hypervisor?",
+  "answer": "Software zur Verwaltung virtueller Maschinen.",
+  "hint": "Denkt an Virtualisierung.",
+  "explanation": "Ein Hypervisor verwaltet mehrere Betriebssysteme auf einem physischen Host.",
+  "options": [
+    "Software zur Verwaltung virtueller Maschinen.",
+    "Ein Webserver-Dienst.",
+    "Ein Sicherheitszertifikat.",
+    "Ein Festplattendienst."
+  ]
+},
+{
+  "question": "Frage 33: Was bedeutet IaaS?",
+  "answer": "Infrastructure as a Service.",
+  "hint": "Cloud-Basics.",
+  "explanation": "IaaS bietet Rechenressourcen wie Server, Speicher und Netzwerk über die Cloud.",
+  "options": [
+    "Infrastructure as a Service.",
+    "Interface and Access System.",
+    "Internal Allocation Assistance Software.",
+    "Internet as a Structure."
+  ]
+},
+{
+  "question": "Frage 34: Was ist eine Sandbox?",
+  "answer": "Eine isolierte Umgebung zum sicheren Testen von Software.",
+  "hint": "Da darf dein Programm kaputtgehen.",
+  "explanation": "Sandboxes schützen das Betriebssystem vor potenziell gefährlicher Software.",
+  "options": [
+    "Eine isolierte Umgebung zum sicheren Testen von Software.",
+    "Ein Tool zur Dateiverschlüsselung.",
+    "Ein Hardware-Überwachungstool.",
+    "Ein Dateisystemtreiber."
+  ]
+},
+{
+  "question": "Frage 35: Was ist Multithreading?",
+  "answer": "Die gleichzeitige Ausführung mehrerer Threads in einem Prozess.",
+  "hint": "Hat mit CPU-Zeit zu tun.",
+  "explanation": "Multithreading verbessert die Leistung von Programmen durch parallele Abläufe.",
+  "options": [
+    "Die gleichzeitige Ausführung mehrerer Threads in einem Prozess.",
+    "Die Übertragung mehrerer Dateien gleichzeitig.",
+    "Ein neues Webprotokoll.",
+    "Eine Datenbankarchitektur."
+  ]
+},
+{
+  "question": "Frage 36: Was ist ein Port in der Netzwerktechnik?",
+  "answer": "Ein logischer Kanal für Netzwerkverbindungen.",
+  "hint": "Hat eine Nummer und gehört zu einer IP.",
+  "explanation": "Ports helfen, Datenpakete an die richtige Anwendung auf einem Gerät zu senden.",
+  "options": [
+    "Ein logischer Kanal für Netzwerkverbindungen.",
+    "Ein physischer Anschluss für USB.",
+    "Ein Gerätetreiber.",
+    "Ein WLAN-Signal."
+  ]
+},
+{
+  "question": "Frage 37: Was macht ein Ping-Befehl?",
+  "answer": "Sendet ein Echo-Request-Paket an ein Ziel zur Überprüfung der Erreichbarkeit.",
+  "hint": "Ein Echo. Kein Schrei ins Leere.",
+  "explanation": "Mit Ping testet man, ob ein Ziel im Netzwerk erreichbar ist und wie schnell.",
+  "options": [
+    "Sendet ein Echo-Request-Paket an ein Ziel zur Überprüfung der Erreichbarkeit.",
+    "Startet einen Neustart.",
+    "Löscht temporäre Dateien.",
+    "Verschlüsselt Netzwerkpakete."
+  ]
+},
+{
+  "question": "Frage 38: Was bedeutet QoS im Netzwerk?",
+  "answer": "Quality of Service.",
+  "hint": "Wichtig für Streams und VoIP.",
+  "explanation": "QoS priorisiert bestimmten Datenverkehr zur Sicherstellung der Qualität.",
+  "options": [
+    "Quality of Service.",
+    "Quantity of Servers.",
+    "Queue of Switches.",
+    "Quick online Service."
+  ]
+},
+{
+  "question": "Frage 39: Was ist SSH?",
+  "answer": "Ein sicheres Protokoll zur Fernsteuerung von Computern.",
+  "hint": "Sicherer als Telnet.",
+  "explanation": "SSH ermöglicht verschlüsselten Fernzugriff auf Systeme.",
+  "options": [
+    "Ein sicheres Protokoll zur Fernsteuerung von Computern.",
+    "Ein Programm zur Videobearbeitung.",
+    "Ein LAN-Monitoring-Tool.",
+    "Ein Virenschutzsystem."
+  ]
+},
+{
+  "question": "Frage 40: Was bedeutet SaaS?",
+  "answer": "Software as a Service.",
+  "hint": "Du nutzt Software, ohne sie zu installieren.",
+  "explanation": "SaaS erlaubt Zugriff auf Anwendungen über das Internet.",
+  "options": [
+    "Software as a Service.",
+    "System and Storage.",
+    "Server as a Session.",
+    "Software against Attacks."
+  ]
+},
+{
+  "question": "Frage 41: Was ist eine IP-Adresse vom Typ 127.0.0.1?",
+  "answer": "Die lokale Loopback-Adresse.",
+  "hint": "Du pingst dich selbst.",
+  "explanation": "127.0.0.1 ist die Adresse des lokalen Hosts.",
+  "options": [
+    "Die lokale Loopback-Adresse.",
+    "Die Standardadresse für Router.",
+    "Die Adresse eines DNS-Servers.",
+    "Ein Broadcast-Adressraum."
+  ]
+},
+{
+  "question": "Frage 42: Was ist ein Ping-Flood?",
+  "answer": "Ein DoS-Angriff mit Ping-Anfragen.",
+  "hint": "Zu viele Pings = keine Freude.",
+  "explanation": "Ein Ping-Flood überlastet ein Ziel mit Ping-Anfragen.",
+  "options": [
+    "Ein DoS-Angriff mit Ping-Anfragen.",
+    "Ein Netzwerkdiagnosetool.",
+    "Ein Windows-Dienst.",
+    "Ein Teil der SSL-Verschlüsselung."
+  ]
+},
+{
+  "question": "Frage 43: Was macht der Befehl 'tracert'?",
+  "answer": "Zeigt die Route eines Pakets im Netzwerk.",
+  "hint": "Sieht aus wie eine Reisebeschreibung für Daten.",
+  "explanation": "Tracert zeigt alle Zwischenstationen bis zum Zielgerät.",
+  "options": [
+    "Zeigt die Route eines Pakets im Netzwerk.",
+    "Startet den Rechner neu.",
+    "Prüft DNS-Einstellungen.",
+    "Sendet E-Mails über SMTP."
+  ]
+},
+{
+  "question": "Frage 44: Was ist die Aufgabe einer DMZ in Netzwerken?",
+  "answer": "Bereich zwischen internem Netzwerk und externem Netz, z. B. Internet.",
+  "hint": "Nicht die entmilitarisierte Zone im wörtlichen Sinne – fast.",
+  "explanation": "DMZ schützt das interne Netz durch Zwischenschaltung von Servern in einem neutralen Bereich.",
+  "options": [
+    "Bereich zwischen internem Netzwerk und externem Netz, z. B. Internet.",
+    "Ein USB-Filterbereich.",
+    "Ein Teil des DHCP-Protokolls.",
+    "Ein Windows-Netzwerkprofil."
+  ]
+},
+{
+  "question": "Frage 45: Was ist eine Gateway-Adresse?",
+  "answer": "Die IP-Adresse des Routers im Netzwerk.",
+  "hint": "Das Tor zur Außenwelt.",
+  "explanation": "Gateways verbinden interne Netzwerke mit externen.",
+  "options": [
+    "Die IP-Adresse des Routers im Netzwerk.",
+    "Die lokale MAC-Adresse.",
+    "Die Loopback-Adresse.",
+    "Die Subnetzmaske."
+  ]
+},
+{
+  "question": "Frage 46: Was ist ein Botnetz?",
+  "answer": "Ein Netzwerk kompromittierter Computer, ferngesteuert von Angreifern.",
+  "hint": "Nicht hilfreich für gute Zwecke.",
+  "explanation": "Botnetze werden oft für DDoS-Angriffe oder Spam missbraucht.",
+  "options": [
+    "Ein Netzwerk kompromittierter Computer, ferngesteuert von Angreifern.",
+    "Ein Cloud-Sicherheitsdienst.",
+    "Ein Software-Update-System.",
+    "Ein Monitoring-Tool."
+  ]
+},
+{
+  "question": "Frage 47: Wofür steht LAN?",
+  "answer": "Local Area Network.",
+  "hint": "Typisch für Firmen oder Zuhause.",
+  "explanation": "Ein LAN verbindet Geräte in einem begrenzten Bereich, z. B. in einem Büro.",
+  "options": [
+    "Local Area Network.",
+    "Large Address Node.",
+    "Linked Access Number.",
+    "Logical Area Naming."
+  ]
+},
+{
+  "question": "Frage 48: Was ist die Aufgabe eines Repeaters?",
+  "answer": "Er verstärkt das Netzwerksignal.",
+  "hint": "Er hilft bei langen Wegen.",
+  "explanation": "Ein Repeater wird eingesetzt, um die Reichweite von Netzwerken zu erhöhen.",
+  "options": [
+    "Er verstärkt das Netzwerksignal.",
+    "Er verschlüsselt Daten.",
+    "Er speichert Passwörter.",
+    "Er ist ein DNS-Resolver."
+  ]
+},
+{
+  "question": "Frage 49: Was bedeutet IPv4?",
+  "answer": "Internet Protocol Version 4.",
+  "hint": "Der Klassiker unter den IPs.",
+  "explanation": "IPv4 ist das vierte Protokoll zur Adressierung in Netzwerken.",
+  "options": [
+    "Internet Protocol Version 4.",
+    "Internet Provider Version.",
+    "Integrated Packet Verifier.",
+    "Internal Program Value 4."
+  ]
+},
+{
+  "question": "Frage 50: Was ist ein Spoofing-Angriff?",
+  "answer": "Ein Angriff, bei dem falsche Identitäten vorgetäuscht werden.",
+  "hint": "Fake it till you make it – für Hacker.",
+  "explanation": "Spoofing-Angriffe täuschen eine andere Identität vor, z. B. falsche IP, E-Mail oder DNS.",
+  "options": [
+    "Ein Angriff, bei dem falsche Identitäten vorgetäuscht werden.",
+    "Ein Server-Update.",
+    "Ein Backup-Prozess.",
+    "Ein Authentifizierungsprotokoll."
+  ]
+},
+{
+  "question": "Frage 36: Was ist ein Port in der Netzwerktechnik?",
+  "answer": "Ein logischer Kanal für Netzwerkverbindungen.",
+  "hint": "Hat eine Nummer und gehört zu einer IP.",
+  "explanation": "Ports helfen, Datenpakete an die richtige Anwendung auf einem Gerät zu senden.",
+  "options": [
+    "Ein logischer Kanal für Netzwerkverbindungen.",
+    "Ein physischer Anschluss für USB.",
+    "Ein Gerätetreiber.",
+    "Ein WLAN-Signal."
+  ]
+},
+{
+  "question": "Frage 37: Was macht ein Ping-Befehl?",
+  "answer": "Sendet ein Echo-Request-Paket an ein Ziel zur Überprüfung der Erreichbarkeit.",
+  "hint": "Ein Echo. Kein Schrei ins Leere.",
+  "explanation": "Mit Ping testet man, ob ein Ziel im Netzwerk erreichbar ist und wie schnell.",
+  "options": [
+    "Sendet ein Echo-Request-Paket an ein Ziel zur Überprüfung der Erreichbarkeit.",
+    "Startet einen Neustart.",
+    "Löscht temporäre Dateien.",
+    "Verschlüsselt Netzwerkpakete."
+  ]
+},
+{
+  "question": "Frage 38: Was bedeutet QoS im Netzwerk?",
+  "answer": "Quality of Service.",
+  "hint": "Wichtig für Streams und VoIP.",
+  "explanation": "QoS priorisiert bestimmten Datenverkehr zur Sicherstellung der Qualität.",
+  "options": [
+    "Quality of Service.",
+    "Quantity of Servers.",
+    "Queue of Switches.",
+    "Quick online Service."
+  ]
+},
+{
+  "question": "Frage 39: Was ist SSH?",
+  "answer": "Ein sicheres Protokoll zur Fernsteuerung von Computern.",
+  "hint": "Sicherer als Telnet.",
+  "explanation": "SSH ermöglicht verschlüsselten Fernzugriff auf Systeme.",
+  "options": [
+    "Ein sicheres Protokoll zur Fernsteuerung von Computern.",
+    "Ein Programm zur Videobearbeitung.",
+    "Ein LAN-Monitoring-Tool.",
+    "Ein Virenschutzsystem."
+  ]
+},
+{
+  "question": "Frage 40: Was bedeutet SaaS?",
+  "answer": "Software as a Service.",
+  "hint": "Du nutzt Software, ohne sie zu installieren.",
+  "explanation": "SaaS erlaubt Zugriff auf Anwendungen über das Internet.",
+  "options": [
+    "Software as a Service.",
+    "System and Storage.",
+    "Server as a Session.",
+    "Software against Attacks."
+  ]
+},
+{
+  "question": "Frage 41: Was ist eine IP-Adresse vom Typ 127.0.0.1?",
+  "answer": "Die lokale Loopback-Adresse.",
+  "hint": "Du pingst dich selbst.",
+  "explanation": "127.0.0.1 ist die Adresse des lokalen Hosts.",
+  "options": [
+    "Die lokale Loopback-Adresse.",
+    "Die Standardadresse für Router.",
+    "Die Adresse eines DNS-Servers.",
+    "Ein Broadcast-Adressraum."
+  ]
+},
+{
+  "question": "Frage 42: Was ist ein Ping-Flood?",
+  "answer": "Ein DoS-Angriff mit Ping-Anfragen.",
+  "hint": "Zu viele Pings = keine Freude.",
+  "explanation": "Ein Ping-Flood überlastet ein Ziel mit Ping-Anfragen.",
+  "options": [
+    "Ein DoS-Angriff mit Ping-Anfragen.",
+    "Ein Netzwerkdiagnosetool.",
+    "Ein Windows-Dienst.",
+    "Ein Teil der SSL-Verschlüsselung."
+  ]
+},
+{
+  "question": "Frage 43: Was macht der Befehl 'tracert'?",
+  "answer": "Zeigt die Route eines Pakets im Netzwerk.",
+  "hint": "Sieht aus wie eine Reisebeschreibung für Daten.",
+  "explanation": "Tracert zeigt alle Zwischenstationen bis zum Zielgerät.",
+  "options": [
+    "Zeigt die Route eines Pakets im Netzwerk.",
+    "Startet den Rechner neu.",
+    "Prüft DNS-Einstellungen.",
+    "Sendet E-Mails über SMTP."
+  ]
+},
+{
+  "question": "Frage 44: Was ist die Aufgabe einer DMZ in Netzwerken?",
+  "answer": "Bereich zwischen internem Netzwerk und externem Netz, z. B. Internet.",
+  "hint": "Nicht die entmilitarisierte Zone im wörtlichen Sinne – fast.",
+  "explanation": "DMZ schützt das interne Netz durch Zwischenschaltung von Servern in einem neutralen Bereich.",
+  "options": [
+    "Bereich zwischen internem Netzwerk und externem Netz, z. B. Internet.",
+    "Ein USB-Filterbereich.",
+    "Ein Teil des DHCP-Protokolls.",
+    "Ein Windows-Netzwerkprofil."
+  ]
+},
+{
+  "question": "Frage 45: Was ist eine Gateway-Adresse?",
+  "answer": "Die IP-Adresse des Routers im Netzwerk.",
+  "hint": "Das Tor zur Außenwelt.",
+  "explanation": "Gateways verbinden interne Netzwerke mit externen.",
+  "options": [
+    "Die IP-Adresse des Routers im Netzwerk.",
+    "Die lokale MAC-Adresse.",
+    "Die Loopback-Adresse.",
+    "Die Subnetzmaske."
+  ]
+},
+{
+  "question": "Frage 46: Was ist ein Botnetz?",
+  "answer": "Ein Netzwerk kompromittierter Computer, ferngesteuert von Angreifern.",
+  "hint": "Nicht hilfreich für gute Zwecke.",
+  "explanation": "Botnetze werden oft für DDoS-Angriffe oder Spam missbraucht.",
+  "options": [
+    "Ein Netzwerk kompromittierter Computer, ferngesteuert von Angreifern.",
+    "Ein Cloud-Sicherheitsdienst.",
+    "Ein Software-Update-System.",
+    "Ein Monitoring-Tool."
+  ]
+},
+{
+  "question": "Frage 47: Wofür steht LAN?",
+  "answer": "Local Area Network.",
+  "hint": "Typisch für Firmen oder Zuhause.",
+  "explanation": "Ein LAN verbindet Geräte in einem begrenzten Bereich, z. B. in einem Büro.",
+  "options": [
+    "Local Area Network.",
+    "Large Address Node.",
+    "Linked Access Number.",
+    "Logical Area Naming."
+  ]
+},
+{
+  "question": "Frage 48: Was ist die Aufgabe eines Repeaters?",
+  "answer": "Er verstärkt das Netzwerksignal.",
+  "hint": "Er hilft bei langen Wegen.",
+  "explanation": "Ein Repeater wird eingesetzt, um die Reichweite von Netzwerken zu erhöhen.",
+  "options": [
+    "Er verstärkt das Netzwerksignal.",
+    "Er verschlüsselt Daten.",
+    "Er speichert Passwörter.",
+    "Er ist ein DNS-Resolver."
+  ]
+},
+{
+  "question": "Frage 49: Was bedeutet IPv4?",
+  "answer": "Internet Protocol Version 4.",
+  "hint": "Der Klassiker unter den IPs.",
+  "explanation": "IPv4 ist das vierte Protokoll zur Adressierung in Netzwerken.",
+  "options": [
+    "Internet Protocol Version 4.",
+    "Internet Provider Version.",
+    "Integrated Packet Verifier.",
+    "Internal Program Value 4."
+  ]
+},
+{
+  "question": "Frage 50: Was ist ein Spoofing-Angriff?",
+  "answer": "Ein Angriff, bei dem falsche Identitäten vorgetäuscht werden.",
+  "hint": "Fake it till you make it – für Hacker.",
+  "explanation": "Spoofing-Angriffe täuschen eine andere Identität vor, z. B. falsche IP, E-Mail oder DNS.",
+  "options": [
+    "Ein Angriff, bei dem falsche Identitäten vorgetäuscht werden.",
+    "Ein Server-Update.",
+    "Ein Backup-Prozess.",
+    "Ein Authentifizierungsprotokoll."
+  ]
+},
+{
+  "question": "Frage 66: Was ist eine MAC-Adresse?",
+  "answer": "Die physikalische Adresse eines Netzwerkadapters.",
+  "hint": "Hat nix mit Apple zu tun.",
+  "explanation": "Die MAC-Adresse identifiziert Geräte eindeutig im Netzwerk.",
+  "options": [
+    "Die physikalische Adresse eines Netzwerkadapters.",
+    "Eine IP-Adresse.",
+    "Ein Routerpasswort.",
+    "Ein Dateisystem."
+  ]
+},
+{
+  "question": "Frage 67: Was ist ein Switch?",
+  "answer": "Ein Netzwerkgerät zur Verbindung mehrerer Geräte.",
+  "hint": "Nicht der Nintendo-Typ.",
+  "explanation": "Switches leiten Daten gezielt an den richtigen Port weiter.",
+  "options": [
+    "Ein Netzwerkgerät zur Verbindung mehrerer Geräte.",
+    "Ein Router-Modul.",
+    "Ein Softwaredienst.",
+    "Ein Speichermedium."
+  ]
+},
+{
+  "question": "Frage 68: Was ist ein Mesh-Netzwerk?",
+  "answer": "Ein Netzwerk, bei dem jeder Knoten mit mehreren anderen verbunden ist.",
+  "hint": "Alles spricht mit allem.",
+  "explanation": "Mesh-Netzwerke verbessern Reichweite und Stabilität drahtloser Netzwerke.",
+  "options": [
+    "Ein Netzwerk, bei dem jeder Knoten mit mehreren anderen verbunden ist.",
+    "Ein Sicherheitsprotokoll.",
+    "Ein Dateifreigabedienst.",
+    "Ein Netzlaufwerk."
+  ]
+},
+{
+  "question": "Frage 69: Was bedeutet RAID?",
+  "answer": "Redundant Array of Independent Disks.",
+  "hint": "Hat mit Festplatten zu tun.",
+  "explanation": "RAID erhöht Ausfallsicherheit oder Geschwindigkeit durch Kombination von Festplatten.",
+  "options": [
+    "Redundant Array of Independent Disks.",
+    "Rapid Application Integration Deployment.",
+    "Remote Access Infrastructure Device.",
+    "Random Access Index Directory."
+  ]
+},
+{
+  "question": "Frage 70: Was ist eine IP-Adresse?",
+  "answer": "Eine Adresse zur Identifikation eines Geräts im Netzwerk.",
+  "hint": "Jeder braucht eine.",
+  "explanation": "IP-Adressen ermöglichen Kommunikation zwischen Geräten im Netzwerk.",
+  "options": [
+    "Eine Adresse zur Identifikation eines Geräts im Netzwerk.",
+    "Ein Passwort für WLAN.",
+    "Ein Protokoll.",
+    "Eine Kabelbezeichnung."
+  ]
+},
+{
+  "question": "Frage 71: Was ist ein Backup?",
+  "answer": "Eine Sicherungskopie von Daten.",
+  "hint": "Mach's, bevor’s zu spät ist.",
+  "explanation": "Backups schützen vor Datenverlust durch Hardwarefehler oder Malware.",
+  "options": [
+    "Eine Sicherungskopie von Daten.",
+    "Ein Stromwandler.",
+    "Ein BIOS-Update.",
+    "Ein Dateiformat."
+  ]
+},
+{
+  "question": "Frage 72: Was bedeutet HTTP?",
+  "answer": "HyperText Transfer Protocol.",
+  "hint": "Der Opa von HTTPS.",
+  "explanation": "HTTP ist das Protokoll für die Übertragung von Webseiten.",
+  "options": [
+    "HyperText Transfer Protocol.",
+    "High Transfer Text Port.",
+    "Host Transfer Tunnel Process.",
+    "Hyperlink Table Type Program."
+  ]
+},
+{
+  "question": "Frage 73: Was ist ein Root-Server?",
+  "answer": "Ein zentraler Server im DNS-System.",
+  "hint": "Ganz oben in der DNS-Familie.",
+  "explanation": "Root-Server speichern die Informationen über Top-Level-Domains.",
+  "options": [
+    "Ein zentraler Server im DNS-System.",
+    "Ein Router im Heimnetzwerk.",
+    "Ein FTP-Client.",
+    "Ein Switch für große Netzwerke."
+  ]
+},
+{
+  "question": "Frage 74: Was ist ein Token?",
+  "answer": "Ein Zugriffsberechtigungscode.",
+  "hint": "Oft einmalig nutzbar.",
+  "explanation": "Tokens werden in Authentifizierungssystemen verwendet.",
+  "options": [
+    "Ein Zugriffsberechtigungscode.",
+    "Ein Druckertreiber.",
+    "Ein RAID-Level.",
+    "Ein Ping-Paket."
+  ]
+},
+{
+  "question": "Frage 75: Was ist ein VPN-Tunnel?",
+  "answer": "Eine verschlüsselte Verbindung zwischen zwei Netzwerken.",
+  "hint": "Er schützt dich vor neugierigen Augen.",
+  "explanation": "Ein VPN-Tunnel sichert Datenverkehr über öffentliche Netzwerke.",
+  "options": [
+    "Eine verschlüsselte Verbindung zwischen zwei Netzwerken.",
+    "Ein SSH-Befehl.",
+    "Ein BIOS-Feature.",
+    "Ein Virenscanner."
+  ]
+},
+{
+  "question": "Frage 76: Was ist ein Netzwerkprotokoll?",
+  "answer": "Eine Sammlung von Regeln für die Datenübertragung.",
+  "hint": "Sonst versteht sich niemand.",
+  "explanation": "Protokolle wie TCP/IP regeln den Ablauf der Kommunikation im Netzwerk.",
+  "options": [
+    "Eine Sammlung von Regeln für die Datenübertragung.",
+    "Ein Netzwerkkabel.",
+    "Ein Sicherheitsschlüssel.",
+    "Ein Backup-Skript."
+  ]
+},
+{
+  "question": "Frage 77: Was ist ein Datenpaket?",
+  "answer": "Eine kleine Einheit von Daten im Netzwerkverkehr.",
+  "hint": "Wie Briefe für Computer.",
+  "explanation": "Daten werden in Paketen durch Netzwerke geschickt.",
+  "options": [
+    "Eine kleine Einheit von Daten im Netzwerkverkehr.",
+    "Ein USB-Gerät.",
+    "Ein Benutzerkonto.",
+    "Ein Stromkreis."
+  ]
+},
+{
+  "question": "Frage 78: Was ist ein Webserver?",
+  "answer": "Ein Server, der Webseiten ausliefert.",
+  "hint": "Ohne ihn gäb’s kein Internet.",
+  "explanation": "Webserver wie Apache oder Nginx liefern HTML-Daten an Browser aus.",
+  "options": [
+    "Ein Server, der Webseiten ausliefert.",
+    "Ein Desktop-PC.",
+    "Ein DNS-Client.",
+    "Ein Firewall-Modul."
+  ]
+},
+{
+  "question": "Frage 79: Was ist Port Forwarding?",
+  "answer": "Weiterleitung von Ports an interne Geräte.",
+  "hint": "Erlaubt von außen Zugriff auf interne Dienste.",
+  "explanation": "Port Forwarding wird z. B. bei Gameservern verwendet.",
+  "options": [
+    "Weiterleitung von Ports an interne Geräte.",
+    "Ein VPN-Protokoll.",
+    "Ein Backup-Tool.",
+    "Ein DNS-Zertifikat."
+  ]
+},
+{
+  "question": "Frage 80: Was ist ein Ping?",
+  "answer": "Ein Test zur Erreichbarkeit eines Geräts.",
+  "hint": "Bekommst du eine Antwort, lebt das Ziel.",
+  "explanation": "Mit Ping prüfst du, ob ein Zielgerät im Netz erreichbar ist.",
+  "options": [
+    "Ein Test zur Erreichbarkeit eines Geräts.",
+    "Ein Gerätetreiber.",
+    "Ein Routerprotokoll.",
+    "Ein Dateiserver."
+  ]
+},
+{
+  "question": "Frage 81: Was ist eine Netzwerkkarte?",
+  "answer": "Eine Hardwarekomponente zur Netzwerkverbindung.",
+  "hint": "Sonst geht nix ins LAN.",
+  "explanation": "Netzwerkkarten verbinden Rechner mit Netzwerken über Kabel oder Funk.",
+  "options": [
+    "Eine Hardwarekomponente zur Netzwerkverbindung.",
+    "Ein Dateisystem.",
+    "Ein BIOS-Modul.",
+    "Ein Sicherheitszertifikat."
+  ]
+},
+{
+  "question": "Frage 82: Was ist ein Host?",
+  "answer": "Ein Gerät, das mit einem Netzwerk verbunden ist.",
+  "hint": "Kann ein PC, Server oder IoT-Toaster sein.",
+  "explanation": "Ein Host sendet und empfängt Daten im Netzwerk.",
+  "options": [
+    "Ein Gerät, das mit einem Netzwerk verbunden ist.",
+    "Ein Root-Zertifikat.",
+    "Ein Cloud-Dienst.",
+    "Ein Routeranschluss."
+  ]
+},
+{
+  "question": "Frage 83: Was ist ein IPv6-Präfix?",
+  "answer": "Ein Teil der Adresse zur Netzwerkidentifikation.",
+  "hint": "Wie die Postleitzahl für IPs.",
+  "explanation": "Präfixe helfen beim Routing von IPv6-Adressen.",
+  "options": [
+    "Ein Teil der Adresse zur Netzwerkidentifikation.",
+    "Ein Teil eines HTML-Codes.",
+    "Ein WLAN-Profil.",
+    "Ein DNS-Token."
+  ]
+},
+{
+  "question": "Frage 84: Was ist ein Broadcast?",
+  "answer": "Eine Nachricht an alle Geräte im Netz.",
+  "hint": "Hallo, Welt!",
+  "explanation": "Broadcasts werden an alle Teilnehmer eines Netzwerks gesendet.",
+  "options": [
+    "Eine Nachricht an alle Geräte im Netz.",
+    "Ein Sicherheitszertifikat.",
+    "Ein RAID-Level.",
+    "Ein USB-Gerät."
+  ]
+},
+{
+  "question": "Frage 85: Was ist ein Hub?",
+  "answer": "Ein einfaches Gerät zur Datenverteilung im Netzwerk.",
+  "hint": "Schickt alles an alle.",
+  "explanation": "Ein Hub sendet Daten an alle angeschlossenen Geräte.",
+  "options": [
+    "Ein einfaches Gerät zur Datenverteilung im Netzwerk.",
+    "Ein intelligenter Switch.",
+    "Ein Firewall-Dienst.",
+    "Ein BIOS-Eintrag."
+  ]
+},
+{
+  "question": "Frage 86: Was ist ein Ping-Test?",
+  "answer": "Ein Werkzeug zur Überprüfung der Erreichbarkeit eines Hosts.",
+  "hint": "Lebt der Server oder ist er tot?",
+  "explanation": "Ein Ping-Test sendet ICMP-Anfragen an ein Zielgerät und misst Antwortzeit.",
+  "options": [
+    "Ein Werkzeug zur Überprüfung der Erreichbarkeit eines Hosts.",
+    "Ein Grafikbenchmark.",
+    "Ein Netzwerkkabeltyp.",
+    "Ein Dateikomprimierer."
+  ]
+},
+{
+  "question": "Frage 87: Was ist eine IPv4-Adresse?",
+  "answer": "Eine 32-Bit-Adresse zur Identifikation eines Geräts.",
+  "hint": "Sieht so aus: 192.168.1.1",
+  "explanation": "IPv4 verwendet 4 Zahlenblöcke zur eindeutigen Identifikation.",
+  "options": [
+    "Eine 32-Bit-Adresse zur Identifikation eines Geräts.",
+    "Ein HTML-Befehl.",
+    "Ein BIOS-Protokoll.",
+    "Ein Update-System."
+  ]
+},
+{
+  "question": "Frage 88: Was ist eine DMZ (DeMilitarized Zone)?",
+  "answer": "Ein Teilnetz zur Trennung interner und externer Dienste.",
+  "hint": "Zwischen Internet und dir.",
+  "explanation": "Die DMZ enthält öffentlich zugängliche Dienste und schützt interne Netze.",
+  "options": [
+    "Ein Teilnetz zur Trennung interner und externer Dienste.",
+    "Ein USB-Modus.",
+    "Ein DNS-Speicherbereich.",
+    "Ein Dateiprotokoll."
+  ]
+},
+{
+  "question": "Frage 89: Was ist ein Gateway?",
+  "answer": "Ein Gerät, das Netzwerke miteinander verbindet.",
+  "hint": "Ohne geht's nicht ins Internet.",
+  "explanation": "Gateways sind Vermittler zwischen internen Netzwerken und dem Internet.",
+  "options": [
+    "Ein Gerät, das Netzwerke miteinander verbindet.",
+    "Ein E-Mail-Service.",
+    "Ein Kabeltyp.",
+    "Ein Software-Update."
+  ]
+},
+{
+  "question": "Frage 90: Was ist DNS?",
+  "answer": "Domain Name System.",
+  "hint": "Ohne das müsstest du IPs auswendig lernen.",
+  "explanation": "DNS übersetzt Domainnamen in IP-Adressen.",
+  "options": [
+    "Domain Name System.",
+    "Data Network Service.",
+    "Dynamic Network Structure.",
+    "Disk Network Server."
+  ]
+},
+{
+  "question": "Frage 91: Was ist ein Router?",
+  "answer": "Ein Gerät zur Weiterleitung von Daten zwischen Netzwerken.",
+  "hint": "Dein WLAN-Freund.",
+  "explanation": "Router leiten Pakete zwischen unterschiedlichen Netzwerken.",
+  "options": [
+    "Ein Gerät zur Weiterleitung von Daten zwischen Netzwerken.",
+    "Ein Programmierer-Werkzeug.",
+    "Ein Datenbankmodul.",
+    "Ein E-Mail-Client."
+  ]
+},
+{
+  "question": "Frage 92: Was ist ein Firewall?",
+  "answer": "Eine Sicherheitssoftware oder -hardware zum Schutz vor unerwünschtem Netzwerkzugriff.",
+  "hint": "Digitaler Türsteher.",
+  "explanation": "Firewalls filtern Netzwerkverkehr basierend auf Regeln.",
+  "options": [
+    "Eine Sicherheitssoftware oder -hardware zum Schutz vor unerwünschtem Netzwerkzugriff.",
+    "Ein Grafikprozessor.",
+    "Ein BIOS-Modul.",
+    "Ein Web-Framework."
+  ]
+},
+{
+  "question": "Frage 93: Was ist ein SSL-Zertifikat?",
+  "answer": "Ein Zertifikat zur Verschlüsselung von Webseitenverbindungen.",
+  "hint": "Du siehst’s als Schloss im Browser.",
+  "explanation": "SSL-Zertifikate sichern Kommunikation über HTTPS.",
+  "options": [
+    "Ein Zertifikat zur Verschlüsselung von Webseitenverbindungen.",
+    "Ein BIOS-Schlüssel.",
+    "Ein Webdesign-Tool.",
+    "Ein Netzwerkprotokoll."
+  ]
+},
+{
+  "question": "Frage 94: Was ist ein VLAN?",
+  "answer": "Ein virtuelles LAN zur logischen Netzwerksegmentierung.",
+  "hint": "Netzwerkteilung ohne Kabeltrennung.",
+  "explanation": "VLANs trennen Netzwerke auf Layer-2-Ebene.",
+  "options": [
+    "Ein virtuelles LAN zur logischen Netzwerksegmentierung.",
+    "Ein Protokoll zur Datenkomprimierung.",
+    "Ein BIOS-Update.",
+    "Ein USB-Profil."
+  ]
+},
+{
+  "question": "Frage 95: Was ist IPv6?",
+  "answer": "Ein 128-Bit-Nachfolger von IPv4.",
+  "hint": "Hat viele Doppelpunkte.",
+  "explanation": "IPv6 löst Adressmangel von IPv4 durch längere Adressen.",
+  "options": [
+    "Ein 128-Bit-Nachfolger von IPv4.",
+    "Ein Webdienst.",
+    "Ein Bootsystem.",
+    "Ein RAID-Level."
+  ]
+},
+{
+  "question": "Frage 96: Was ist eine TLD?",
+  "answer": "Top-Level-Domain wie .com oder .de",
+  "hint": "Das Letzte in einer Domain.",
+  "explanation": "TLDs stehen ganz am Ende von Domainnamen.",
+  "options": [
+    "Top-Level-Domain wie .com oder .de",
+    "Ein DNS-Protokoll.",
+    "Ein Switch-Level.",
+    "Ein Backup-Profil."
+  ]
+},
+{
+  "question": "Frage 97: Was ist eine Subdomain?",
+  "answer": "Ein Teil einer Domain, der weiter untergliedert.",
+  "hint": "z.B. shop.beispiel.de",
+  "explanation": "Subdomains helfen bei Struktur und Organisation von Webservices.",
+  "options": [
+    "Ein Teil einer Domain, der weiter untergliedert.",
+    "Ein DNS-Root-Server.",
+    "Ein IPv6-Modul.",
+    "Ein USB-Standard."
+  ]
+},
+{
+  "question": "Frage 98: Was ist ein IP-Header?",
+  "answer": "Der Teil eines Pakets, der Steuerinformationen enthält.",
+  "hint": "Der Ausweis des Pakets.",
+  "explanation": "IP-Header enthalten Absender, Ziel und andere Infos.",
+  "options": [
+    "Der Teil eines Pakets, der Steuerinformationen enthält.",
+    "Eine BIOS-Tabelle.",
+    "Ein HTML-Kopfbereich.",
+    "Ein CPU-Kern."
+  ]
+},
+{
+  "question": "Frage 99: Was ist ein Portscan?",
+  "answer": "Eine Technik zum Auffinden offener Ports auf einem System.",
+  "hint": "Hacker nutzen das. Und Admins auch.",
+  "explanation": "Ein Portscan prüft, welche Netzwerkdienste offen sind.",
+  "options": [
+    "Eine Technik zum Auffinden offener Ports auf einem System.",
+    "Ein BIOS-Check.",
+    "Ein WLAN-Test.",
+    "Ein DNS-Reset."
+  ]
+},
+{
+  "question": "Frage 100: Was ist ein Netzwerk-Loop?",
+  "answer": "Ein endloser Datenkreislauf im Netzwerk.",
+  "hint": "Wenn ein Paket nicht aufhört zu kreisen.",
+  "explanation": "Loops überlasten Netzwerke und können zu Ausfällen führen.",
+  "options": [
+    "Ein endloser Datenkreislauf im Netzwerk.",
+    "Ein LAN-Treiber.",
+    "Ein Proxy-Tunnel.",
+    "Ein Cloud-Server."
+  ]
+}
+
+
+
+
+
+
+
+]
