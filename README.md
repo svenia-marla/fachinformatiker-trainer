@@ -1,22 +1,24 @@
-# 📘 Fachinformatiker Trainer (HTML + Bootstrap)
+📘 Fachinformatiker Trainer (HTML + Bootstrap)
 
-Ein simples, dunkles Quiz für **Fachinformatiker/in Systemintegration**.  
-Kein React, keine Bundler, kein Overkill – nur **HTML, CSS, JS und JSON**.
+Ein simples, dunkles Quiz für Fachinformatiker/in Systemintegration.
+Kein React, keine Bundler, kein Overkill – nur HTML, CSS, JS und JSON.
 
----
+🚀 Schnellstart
+Option A – VS Code (empfohlen)
 
-## 🚀 Schnellstart
+Projektordner in VS Code öffnen.
 
-### Option A – VS Code (empfohlen)
-1. Projektordner in **VS Code** öffnen.  
-2. Erweiterung **“Live Server”** installieren (von Ritwick Dey).  
-3. Rechtsklick auf `index.html` → **Open with Live Server**.  
-4. App öffnet sich unter `http://127.0.0.1:5500`. Fertig!  
+Erweiterung “Live Server” installieren (von Ritwick Dey).
 
-### Option B – Python (Mini-Server)
+Rechtsklick auf index.html → Open with Live Server.
 
+App öffnet sich unter http://127.0.0.1:5500. Fertig!
+
+Option B – Python (Mini-Server)
 cd C:\Users\DEINNAME\Desktop\fachinformatiker-trainer
 python -m http.server
+
+
 Öffnen: http://localhost:8000
 
 Warum ein Server?
@@ -32,6 +34,7 @@ fachinformatiker-trainer/
 └─ sounds/          # Soundeffekte (z. B. sad-trombone.mp3)
 
 🧠 Funktionsweise
+
 Beim Start lädt die App questions.json.
 
 Es werden 30 zufällige Fragen aus dem Pool ausgewählt.
@@ -57,6 +60,7 @@ Neu starten (30 neue Zufallsfragen)
 Nur falsche wiederholen
 
 ✍️ Fragen hinzufügen / bearbeiten
+
 Beispiel-Eintrag in questions.json:
 
 {
@@ -71,6 +75,8 @@ Beispiel-Eintrag in questions.json:
     "Er verschlüsselt E-Mails."
   ]
 }
+
+
 Regeln:
 
 Immer doppelte Anführungszeichen verwenden.
@@ -79,9 +85,11 @@ answer muss exakt einer Option in options entsprechen.
 
 Kein Komma nach dem letzten Eintrag.
 
-Mit jsonlint.com prüfen, wenn unsicher.
+Mit jsonlint.com
+ prüfen, wenn unsicher.
 
 🎨 Anpassen
+
 Titel/Branding: in index.html den <h1>-Text ändern.
 
 Farben/Styles: Bootstrap-Klassen anpassen oder style.css ergänzen.
@@ -89,6 +97,7 @@ Farben/Styles: Bootstrap-Klassen anpassen oder style.css ergänzen.
 Sounds: im <audio>-Tag in index.html den src anpassen.
 
 🧪 Fehlerbehebung
+
 ❌ “Fehler beim Laden der Fragen 😵”
 → Nicht per Doppelklick öffnen, sondern über Server (siehe Schnellstart).
 
@@ -99,17 +108,19 @@ Sounds: im <audio>-Tag in index.html den src anpassen.
 → Browser-Cache leeren oder mit Strg+F5 neu laden.
 
 ❌ JSON-Fehler
-→ Datei mit jsonlint.com validieren.
+→ Datei mit jsonlint.com
+ validieren.
 
 📤 Deployment
+
 Funktioniert auf GitHub Pages, Netlify oder jedem statischen Webserver.
 
 questions.json muss im selben Ordner wie index.html liegen.
 
 GitHub Pages URL:
-
-
 https://svenia-marla.github.io/fachinformatiker-trainer/
+
 👤 Credits
+
 Gebaut von svenia-marla, mit sarkastischer Unterstützung von Monday.
 Lizenz: MIT – frei zum Lernen, Basteln und Angeben.
